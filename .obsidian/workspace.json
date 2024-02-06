@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "efde645a49b708a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nafim_Notes/Economics/Types of businesses.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +159,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "873ff382c34cb710",
+  "active": "efde645a49b708a7",
   "lastOpenFiles": [
     "Project based learning.md",
     "Nafim_Notes/Economics/Types of businesses.md",
