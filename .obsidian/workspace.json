@@ -11,8 +11,12 @@
             "id": "c1d6d665d6e24b61",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Nafim_Notes/Economics/Types of businesses.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Nafim_Notes/Economics/Types of businesses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Nafim_Notes/Economics/Types of businesses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Nafim_Notes/Economics/Types of businesses.md"
+              }
             }
           }
         ]
@@ -138,6 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c1d6d665d6e24b61",
-  "lastOpenFiles": []
+  "active": "873ff382c34cb710",
+  "lastOpenFiles": [
+    "Project based learning.md",
+    "Nafim_Notes/Economics/Types of businesses.md",
+    "Nafim_Notes/Untitled.md",
+    "Nafim_Notes/Economics",
+    "Untitled.md",
+    "Nafim_Notes"
+  ]
 }
