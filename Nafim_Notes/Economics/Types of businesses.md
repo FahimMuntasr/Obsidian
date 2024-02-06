@@ -1,7 +1,8 @@
 # <u>CONTENTS</u>
-- [[#What is a firm?]] 
-- [[#Types of firms - The sole trader]]
-- [[#Types of firms - Partnerships]]
+- What is a firm 
+- Types of firms - The sole trader]
+- Types of firms - Partnerships
+- Types of firms - Limited companies
 ## What is a firm?
 
 A firm is a *unit of management* but you can also think of it as a <u>team</u> of people. Like a group project in class, but instead of aiming for a good grade, their <u>goal is to make money</u>. Each person in the firm has a specific <u>role</u>, whether it's designing products, making them, or selling them. 
@@ -40,3 +41,19 @@ A partnership is a business structure where <u>two or more</u> individuals join 
 
 ## Types of firms - Limited Companies
 
+#### General definition of limited companies
+Limited companies are a type of business where one of the key features is <u>limited liability</u>, which means that the shareholders' liability is <u>limited</u> to the amount of their <u>investment</u> in the company. 
+
+Anyone can buy shares in a limited company where a share is basically a small portion of the company. The shareholders are the owners of the company. Profits are divided to the share holders according to the percentage of the company they own. The profits received by the share holders are called dividends.
+
+#### Difference between Public and Private companies
+- The shares of a public company is open for the general public to buy, but the shares of a private company are not.
+- The shares of a public company can be sold at any time but selling the shares of a private company requires the permission of the other shareholders
+
+#### How to form a company
+- Documents containing the company's name, address, amount of money loaned from banks(if any)
+- Documents that contain details of how the company will be organized and controlled
+- All companies get a *certificate of incorporation* after submitting the above documents
+#### Features of a limited company
+- Buying shares is not very risky for shareholders because in the case of a huge loss, the maximum amount of money lost by a shareholder is the amount of money they spent buying the share
+- 
