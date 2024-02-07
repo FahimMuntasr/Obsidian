@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nafim_Notes/Economics/Types of businesses.md",
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nafim_Notes/Economics/Types of businesses.md",
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nafim_Notes/Economics/Types of businesses.md",
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nafim_Notes/Economics/Types of businesses.md"
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md"
               }
             }
           }
@@ -146,13 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "efde645a49b708a7",
+  "active": "873ff382c34cb710",
   "lastOpenFiles": [
-    "Project based learning.md",
+    "NSU_Notes/Sem_1/ENG_103/Notes/ENG103_1.1.md",
+    "NSU/SEM-1/ENG103/ENG103_NOTES.md",
+    "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
     "Nafim_Notes/Economics/Types of businesses.md",
+    "Project based learning.md",
     "Nafim_Notes/Untitled.md",
     "Nafim_Notes/Economics",
-    "Untitled.md",
     "Nafim_Notes"
   ]
 }
