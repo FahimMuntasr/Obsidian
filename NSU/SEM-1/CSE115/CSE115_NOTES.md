@@ -5,20 +5,20 @@
 #### Types of number systems
 Decimal (base 10) : 
 - 0,1,2,3,4,5,6,7,8,9
-- used by HUMANS
+- used by ***HUMANS***
 Binary (base 2) : 
 - 0,1
-- used by COMPUTERS
+- used by ***COMPUTERS***
 Octal (base 8) :
 - 0,1,2,3,4,5,6,7
-- used to REPRESENT large binary digits
+- used to ***REPRESENT*** large binary digits
 Hexadecimal (base 16) :
 - 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
-- used to REPRESENT large binary digits
+- used to ***REPRESENT*** large binary digits
 #### Bits and Bytes
-A single binary digit is called a bit
-A collection of 8 bits is called a byte
-One byte is the standard unit of measurement of data
+A **single** binary digit is called a bit
+A **collection** of 8 bits is called a byte
+One byte is the standard **unit** of measurement of data
 
 #### Conversion between types of number systems
 ##### Binary to decimal 
