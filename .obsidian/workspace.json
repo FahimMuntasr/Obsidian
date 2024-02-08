@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5fdd7ec4cd680f79",
+        "id": "f0d12ca21a0f98db",
         "type": "tabs",
         "children": [
           {
-            "id": "48cd65d76a349a1d",
+            "id": "075674b1c64bfeb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,24 +138,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48cd65d76a349a1d",
+  "active": "075674b1c64bfeb2",
   "lastOpenFiles": [
-    "NSU/SEM-1/ENG103/ENG103_NOTES.md",
+    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
+    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
+    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
+    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+    "NSU/SEM-1/MAT116/Books/Michael_Sullivan_Precalculus_9th_Edition.pdf",
+    "NSU/SEM-1/MAT116/Course_Outline_MAT_116_20 Spring 2024.pdf",
     "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
+    "NSU/SEM-1/ENG103/ENG103_NOTES.md",
     "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
+    "NSU/SEM-1/MAT116/Books",
+    "NSU/SEM-1/MAT120/Books/Course Outline MAT 120 Spring 2024.pdf",
+    "NSU/SEM-1/MAT120/Books",
+    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
     "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
     "NSU/SEM-1/CSE115/Practice/CSE115 Programm Exercise.md",
     "NSU/SEM-1/CSE115/Practice",
-    "NSU/SEM-1/CSE115/Books/Problem Solving and Program Design in C (Hanly, Jeri RKoffman, Elliot B).pdf",
-    "NSU/SEM-1/CSE115/Books/Yashavant P. Kanetkar - Let Us C Solutions-BPB Publications (2017).pdf",
-    "NSU/SEM-1/CSE115/Books/Sazzad M.S. Imran, Atiqur Rahman Ahad - Learn Programming with C An Easy Step-by-Step Self-Practice Book for Learning C-CRC Press (2023).pdf",
-    "NSU/SEM-1/CSE115/Books",
     "NSU_Notes/Sem_1/ENG_103/Notes/ENG103_1.1.md",
     "Nafim_Notes/Economics/Types of businesses.md",
     "Project based learning.md",
-    "Nafim_Notes/Untitled.md",
-    "Nafim_Notes/Economics",
-    "Nafim_Notes"
+    "Nafim_Notes/Untitled.md"
   ]
 }

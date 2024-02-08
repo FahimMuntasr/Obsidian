@@ -1,6 +1,7 @@
 # Programming Language I
 ## Contents
 - [[#Week 1 Part 1]]
+- [[#Week 1 Part 2]]
 ## Week 1 Part 1
 #### Types of number systems
 Decimal (base 10) : 
@@ -185,3 +186,5 @@ let r=> 10
 (r-1)'s complement of 3675 is 6324
 
 To find r's complement, add 1 to (r-1)'s complement
+
+## Week 1 Part 2
