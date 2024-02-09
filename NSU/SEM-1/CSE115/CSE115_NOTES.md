@@ -1,19 +1,22 @@
+`Fahim Muntasir`
 # Programming Language I
+---
 ## Contents
 - [[#Week 1 Part 1]]
 - [[#Week 1 Part 2]]
+---
 ## Week 1 Part 1
 #### Types of number systems
-Decimal (base 10) : 
+##### Decimal (base 10) : 
 - 0,1,2,3,4,5,6,7,8,9
 - used by ***HUMANS***
-Binary (base 2) : 
+##### Binary (base 2) : 
 - 0,1
 - used by ***COMPUTERS***
-Octal (base 8) :
+##### Octal (base 8) :
 - 0,1,2,3,4,5,6,7
 - used to ***REPRESENT*** large binary digits
-Hexadecimal (base 16) :
+##### Hexadecimal (base 16) :
 - 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F
 - used to ***REPRESENT*** large binary digits
 #### Bits and Bytes
@@ -24,7 +27,7 @@ One byte is the standard **unit** of measurement of data
 #### Conversion between types of number systems
 ##### Binary to decimal 
 (101001)<sub>2</sub> ---> ( ? )<sub>10</sub>
-> keep adding the product of 2<sup>n</sup> and the nth number, where n is the position of the 1 in the binary number (n starts from 0 on the far right side)
+> keep adding the product of 2<sup>n</sup> and the nth number (n starts from 0 on the far right side)
 
 1 x 2<sup>0</sup> =   1
 0 x 2<sup>1</sup> =  0
@@ -37,18 +40,18 @@ One byte is the standard **unit** of measurement of data
 (101001)<sub>2</sub> ---> (41)<sub>10</sub>
 ##### Octal to decimal
 (724)<sub>8</sub> ---> ( ? )<sub>10</sub>
-> keep adding the product of 8<sup>n</sup> and the nth number, where n is the position of the 1 in the binary number (n starts from 0 on the far right side)
+> keep adding the product of 8<sup>n</sup> and the nth number (n starts from 0 on the far right side)
 
-4 x 8<sup>0</sup> =     4
-2 x 8<sup>1</sup> =    16
-<u>7 x 8<sup>2</sup> = 448</u>
+4 x 8<sup>0</sup> =    4
+2 x 8<sup>1</sup> =   16
+<u>7 x 8<sup>2</sup> =  448</u>
         468
 
 (724)<sub>8</sub> ---> (468)<sub>10</sub>
 
 ##### Hexadecimal to decimal 
 (ABC)<sub>16</sub> ---> ( ? )<sub>10</sub>
-> keep adding the product of 16<sup>n</sup> and the nth number, where n is the position of the 1 in the binary number (n starts from 0 on the far right side)
+> keep adding the product of 16<sup>n</sup> and the nth number (n starts from 0 on the far right side)
 
 C x 16<sup>0</sup> = 12 x 1 =           12
 B x 16<sup>1</sup> = 11 x 16 =        176   
@@ -187,4 +190,5 @@ let r=> 10
 
 To find r's complement, add 1 to (r-1)'s complement
 
+---
 ## Week 1 Part 2
