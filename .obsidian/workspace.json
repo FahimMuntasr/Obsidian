@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+                "file": "NSU/SEM-1/CSE115/C.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+                "file": "NSU/SEM-1/CSE115/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+                "file": "NSU/SEM-1/CSE115/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSU/SEM-1/MAT116/MAT116_NOTES.md"
+                "file": "NSU/SEM-1/CSE115/C.md"
               }
             }
           },
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,10 +156,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "78b9de19ab6ce64c",
+  "active": "48cd65d76a349a1d",
   "lastOpenFiles": [
-    "NSU/SEM-1/CSE115/C.md",
     "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+    "NSU/SEM-1/CSE115/C.md",
     "NSU/SEM-1/CSE115/CSE115_NOTES.md",
     "NSU/SEM-1/ENG103/ENG103_NOTES.md",
     "NSU/SEM-1/MAT120/MAT120_NOTES.md",
