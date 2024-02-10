@@ -186,10 +186,6 @@ Comparison operators output `1` if true and `0` if false
 | `&&` | AND |
 | \|\| | OR |
 | `!` | NOT |
-
-
-
-
 # *if...else* statements
 #### If statements
 If statements are useful for decision making. 
@@ -430,3 +426,4 @@ scanf("%d", &myNum);
 ```
 # Memory addresses
 Preceding any variable with the `&` sign gives the memory address of the variable. Format specifier for addresses is `%p` 
+
