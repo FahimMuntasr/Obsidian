@@ -36,3 +36,9 @@ The set of all allowable outputs is called the ***co-domain*** of the function
 The set of all outputs with a corresponding input is called the ***range*** of the function
 
 ## Week 1 Part 2
+#### Combining functions
+
+$(f+g)(x) = f(x) + g(x)$
+$(f-g)(x) = f(x) - g(x)$
+$(fg)(x) = f(x)g(x)$
+$(\frac{f}{g})(x) = \frac{f(x)}{g(x)}$
