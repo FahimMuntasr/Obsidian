@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "60fbfa0fe85ee1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NSU/SEM-1/CSE115/C.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
+                "file": "NSU/SEM-1/CSE115/C.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
+                "file": "NSU/SEM-1/CSE115/C.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md"
+                "file": "NSU/SEM-1/CSE115/C.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -155,11 +169,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d84758be67fce0f",
+  "active": "60fbfa0fe85ee1f3",
   "lastOpenFiles": [
+    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
     "NSU/SEM-1/CSE115/C.md",
     "NSU/SEM-1/MAT116/MAT116_NOTES.md",
-    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
     "NSU/SEM-1/MAT120/MAT120_NOTES.md",
     "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
     "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf"

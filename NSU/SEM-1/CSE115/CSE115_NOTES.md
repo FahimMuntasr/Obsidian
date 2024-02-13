@@ -198,9 +198,51 @@ The 2's complement for 00001010 = 11110110
 
 ---
 ## Week 1 Part 2
-
 #### The software development pipeline
 1. Source code first written 
 2. Compiler converts code to machine language
 3. Library files are linked to the code with a linker 
 4. Linker then converts the code to an executable file
+#### Types of memory
+- ROM (Read only memory)
+	- Non-volatile memory with persistence. This means that the data inside stays the same even after rebooting the computer.
+	- Extremely high storage (~Terabytes) but at the cost of low speed.
+	- Used to store BIOS settings (which contains information on how to start the computer) and save large user files.
+- RAM (Random access memory)
+	 - Volatile memory without persistence. This means that turning off the computer will erase all data inside.
+	 - Compared to ROM, storage is very limited (~Gigabytes) but with very high read/write speeds.
+	 - Contains instructions and data needed for currently opened programs.
+- CPU cache
+	- Also volatile memory
+	- Storage is extremely minimal (~Kilobytes) but the read/write speed is extremely fast
+	- Also contains instructions and data needed for currently opened programs, but the data stored in cache is used much more frequently 
+#### The anatomy of memory
+Computer memory is made up of individual memory cells. Each cell has two relevant values, the address and the data. The unit of measurement of digital data is Bytes and Bits.
+One Byte contains 8 bits. One bit is one binary digit
+#### The central processing unit (CPU)
+There are three main parts in a CPU:
+- Control Unit: Fetches instructions from main memory and puts them into the register(CPU cache)
+- ALU (arithmetic logic unit): Executes all arithmetic and logical operations
+- Register: Also known as the CPU cache (covered in the previous section)
+#### Computer software
+There are two types of software
+- Operating system (OS): Provides a user-interface for the user to interact with the computer
+- Applications: Specific software used for specific tasks
+A software is a combination of relevant data files and programs. A program is a series of instructions.
+#### Hierarchy of Programming languages
+- Low level - Machine language 
+	- Binary code
+	- Only language that a computer can understand.
+	- All code has to be converted to machine language using a compiler
+	- Extremely fast as nothing has to be compiled
+	- Machine code is processor architecture dependent
+- Mid level - Assembly language 
+	-  Mnemonic code that is understandable by humans and can be easily converted to Machine language
+	- Assembly language is processor architecture dependent
+	- Also fast is it just a representation of machine code
+- High level - C, Java, Python, JavaScript, Rust 
+	- Combination of arithmetic expressions and English characters. Very easy for humans to read
+	- High level languages are processor architecture independent
+	- Slower than lower level languages as the code has to be compiled first
+
+####
