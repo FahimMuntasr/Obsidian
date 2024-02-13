@@ -244,5 +244,3 @@ A software is a combination of relevant data files and programs. A program is a 
 	- Combination of arithmetic expressions and English characters. Very easy for humans to read
 	- High level languages are processor architecture independent
 	- Slower than lower level languages as the code has to be compiled first
-
-####

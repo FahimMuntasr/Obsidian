@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "eb67b2cd42632e14",
+    "id": "29ef1e89846529ab",
     "type": "split",
     "children": [
       {
-        "id": "6d189dbd003c3501",
+        "id": "5794e23e23fdd1dd",
         "type": "tabs",
         "children": [
           {
-            "id": "8d84758be67fce0f",
+            "id": "dc061c0daa74afc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,39 +17,23 @@
                 "mode": "source",
                 "source": false
               }
-<<<<<<< HEAD
-=======
-            }
-          },
-          {
-            "id": "60fbfa0fe85ee1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSU/SEM-1/CSE115/C.md",
-                "mode": "source",
-                "source": false
-              }
->>>>>>> dc75a8a8b339258d9b7d14c04dff4458c52f8fed
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "fd159eed4d587987",
+    "id": "c146d09a9c72599c",
     "type": "split",
     "children": [
       {
-        "id": "b48e174a15a92647",
+        "id": "1f1607aa5e2811bc",
         "type": "tabs",
         "children": [
           {
-            "id": "75e861390ed1f54c",
+            "id": "4b077e04a3e28583",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +43,7 @@
             }
           },
           {
-            "id": "088ccd09f4eb3547",
+            "id": "dbe5a8c831171d36",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -74,7 +58,7 @@
             }
           },
           {
-            "id": "368d88a8d0e8322a",
+            "id": "8651cf492ee7ebcf",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -88,24 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "c3518e733fdb244f",
+    "id": "38947dde69418825",
     "type": "split",
     "children": [
       {
-        "id": "727f7a57e3ff9b4f",
+        "id": "b9c439bad1c687db",
         "type": "tabs",
         "children": [
           {
-            "id": "2e72405cc85f06bf",
+            "id": "045ebbffd86a4db3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< HEAD
                 "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-=======
-                "file": "NSU/SEM-1/CSE115/C.md",
->>>>>>> dc75a8a8b339258d9b7d14c04dff4458c52f8fed
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,23 +97,19 @@
             }
           },
           {
-            "id": "88b8d32e93003654",
+            "id": "4db2c411c1632745",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< HEAD
                 "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-=======
-                "file": "NSU/SEM-1/CSE115/C.md",
->>>>>>> dc75a8a8b339258d9b7d14c04dff4458c52f8fed
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "08baee337d29b7f7",
+            "id": "8fe8fd7b95d0cb3b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -144,30 +120,16 @@
             }
           },
           {
-            "id": "37c3cd725fa8a787",
+            "id": "496cd84e0fc52e02",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< HEAD
                 "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md"
               }
-=======
-                "file": "NSU/SEM-1/CSE115/C.md"
-              }
-            }
-          },
-          {
-            "id": "56ce9a991f7f9b18",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {}
->>>>>>> dc75a8a8b339258d9b7d14c04dff4458c52f8fed
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -185,23 +147,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60fbfa0fe85ee1f3",
+  "active": "dc061c0daa74afc9",
   "lastOpenFiles": [
-<<<<<<< HEAD
-    "NSU/SEM-1/CSE115/C.md",
-    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
-    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
-    "NSU/SEM-1/MAT116/Books/Michael_Sullivan_Precalculus_9th_Edition.pdf",
-    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
-    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf"
-=======
-    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-    "NSU/SEM-1/CSE115/C.md",
-    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
-    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
-    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
-    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf"
->>>>>>> dc75a8a8b339258d9b7d14c04dff4458c52f8fed
+    "NSU/SEM-1/CSE115/C.md"
   ]
 }
