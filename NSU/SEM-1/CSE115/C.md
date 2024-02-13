@@ -67,7 +67,12 @@ Each line inside a function is called a **statement**, all statements need to en
 |\xhh|_Hexadecimal value:_ Inserts the character represented by the hexadecimal value hh.|0x00 to 0xFF|printf("Hello\x41World");|
 |\uhhhh|_Universal character name:_ Inserts the character represented by the Unicode value hhhh.|None|printf("Hello\x03A9World");<br><br>SHOULDN'T we have u in the syntax???|
 
-
+# Preprocessor keywords
+#### Use of #include
+`#include` is used to import libraries with pre-programmed functions that are essential for c , a common library is `<stdio.h>` which contains functions like `printf()` and `scanf()`  
+#### Use of #define
+`#define` is used to define constant values outside the main function. This is done to decrease compiler time by defining values outside of the code instead of declaring it inside.
+For example
 # Data types and variables
 #### Types of Data
 The main 3 types of variables used in C are:

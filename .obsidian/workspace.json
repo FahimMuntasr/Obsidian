@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "69a0adebb1c449bf",
+        "id": "6d189dbd003c3501",
         "type": "tabs",
         "children": [
           {
-            "id": "2516970287dbf4f1",
+            "id": "8d84758be67fce0f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +124,25 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+              "state": {
+                "file": "NSU/SEM-1/CSE115/CSE115_NOTES.md"
+              }
+            }
+          },
+          {
+            "id": "56ce9a991f7f9b18",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -139,13 +155,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2516970287dbf4f1",
+  "active": "8d84758be67fce0f",
   "lastOpenFiles": [
-    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
-    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
-    "NSU/SEM-1/MAT116/Books/Michael_Sullivan_Precalculus_9th_Edition.pdf",
-    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
     "NSU/SEM-1/CSE115/C.md",
-    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf"
+    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
+    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
+    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
+    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf"
   ]
 }

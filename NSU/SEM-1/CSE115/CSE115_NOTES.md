@@ -190,5 +190,17 @@ let r=> 10
 
 To find r's complement, add 1 to (r-1)'s complement
 
+##### 2's complements
+Finding the 2's complement for any binary number is simple; keep leading zeros and first one as is  and flip everything after that.
+
+Example:
+The 2's complement for 00001010 = 11110110
+
 ---
 ## Week 1 Part 2
+
+#### The software development pipeline
+1. Source code first written 
+2. Compiler converts code to machine language
+3. Library files are linked to the code with a linker 
+4. Linker then converts the code to an executable file

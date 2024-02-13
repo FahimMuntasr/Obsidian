@@ -679,6 +679,14 @@
       "content": "subgraph one\na1-->a2\nend",
       "sortingOrder": 14,
       "isPinned": false
+    },
+    {
+      "id": "e2693ae5-cc4a-430a-9074-5ecaf7e608cb",
+      "category": "Flowchart",
+      "description": "a simple flowchart with left to right direction (copy)",
+      "content": "flowchart LR\nStart --> Stop",
+      "sortingOrder": 83,
+      "isPinned": false
     }
   ],
   "selectedCategory": "Flowchart"
