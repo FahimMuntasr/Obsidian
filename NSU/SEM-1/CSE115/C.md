@@ -67,20 +67,27 @@ Each line inside a function is called a **statement**, all statements need to en
 |\xhh|_Hexadecimal value:_ Inserts the character represented by the hexadecimal value hh.|0x00 to 0xFF|printf("Hello\x41World");|
 |\uhhhh|_Universal character name:_ Inserts the character represented by the Unicode value hhhh.|None|printf("Hello\x03A9World");<br><br>SHOULDN'T we have u in the syntax???|
 
-
+# Preprocessor keywords
+#### Use of #include
+`#include` is used to import libraries with pre-programmed functions that are essential for c , a common library is `<stdio.h>` which contains functions like `printf()` and `scanf()`  
+#### Use of #define
+`#define` is used to define constant values outside the main function. This is done to decrease compiler time by defining values outside of the code instead of declaring it inside.
+For example
 # Data types and variables
 #### Types of Data
 The main 3 types of variables used in C are:
-- `int` - stores integers (whole numbers)
-- `float` - stores floating point numbers, with decimals
-- `char` - stores a single character
-- `bool` - `true` or `false` values only (must use `#include <stdbool.h>` in the top of the code to use booleans)
+- `int` - stores integers (whole numbers) // 4 bytes
+- `float` - stores floating point numbers, with decimals // 4 bytes
+- `double` - stores large integers // 8 bytes
+- `char` - stores a single character // 1 byte
+- `bool` - `true` or `false` values only (must use `#include <stdbool.h>` in the top of the code to use booleans) // 1 byte
 A 4th type can be derived to store strings (a collection of characters):
 - `char string[] = "Hello World"` : Arrays store a collection of variables/constants. Here an array is used to store a collection of `char` type variables
 The 5th data type is a constant which is denoted with the `const` variable. Once you state a constant variable you cannot change it
 #### Declaration and Initialization 
 Before we can use a variable we must do two things, **declaration** and **initialization**.
-1. Declaration : First we need to ***declare*** to the compiler the **name** of the variable and the **type** of the variable. The variable currently has a value of **undefined** as we haven't stored a value for it yet.
+You HAVE to declare ALL variables before any statements in the code.
+1. Declaration : First we need to ***declare*** to the compiler the **name** of the variable and the **type** of the variable. The variable currently has a value of **undefined** as we haven't stored a value for it yet. 
 2. Initialization : After declaration we need to initialize the value of the variable. This stores a user-defined value for the variable.
 ```c
 // Declaration
