@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSU/SEM-1/CSE115/C.md",
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/SEM-1/CSE115/C.md",
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/SEM-1/CSE115/C.md",
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSU/SEM-1/CSE115/C.md"
+                "file": "NSU/SEM-1/ENG103/ENG103_NOTES.md"
               }
             }
           },
@@ -172,6 +172,8 @@
   "active": "60fbfa0fe85ee1f3",
   "lastOpenFiles": [
     "NSU/SEM-1/CSE115/CSE115_NOTES.md",
+    "NSU/SEM-1/ENG103/ENG103_NOTES.md",
+    "NSU/SEM-1/CSE115/C_PRACTICE.md",
     "NSU/SEM-1/CSE115/C.md",
     "NSU/SEM-1/MAT116/MAT116_NOTES.md",
     "NSU/SEM-1/MAT120/MAT120_NOTES.md",

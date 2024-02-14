@@ -4,6 +4,7 @@
 ## Contents
 - [[#Week 1 Part 1]]
 - [[#Week 1 Part 2]]
+- [[#Week 2 Part 1]]
 ---
 ## Week 1 Part 1
 #### Types of number systems
@@ -246,3 +247,4 @@ A software is a combination of relevant data files and programs. A program is a 
 	- Slower than lower level languages as the code has to be compiled first
 
 ####
+## Week 2 Part 1
