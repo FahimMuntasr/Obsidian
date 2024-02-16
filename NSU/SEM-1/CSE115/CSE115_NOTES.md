@@ -245,6 +245,14 @@ A software is a combination of relevant data files and programs. A program is a 
 	- Combination of arithmetic expressions and English characters. Very easy for humans to read
 	- High level languages are processor architecture independent
 	- Slower than lower level languages as the code has to be compiled first
-
-####
 ## Week 2 Part 1
+![[Pasted image 20240214225532.png]]
+Only have to memorize the values for '0', 'A' and 'a';
+- 0 -> 48
+- A -> 65
+- a -> 97
+
+How to store variables in different formats
+- Hexadecimal - char a = 0x2A { 0x indicates a hexadecimal format and 2A is the hexadecimal value}
+- Binary - char b = 0b10011010 { 0b indicates a binary format and 10011010 is the binary value}
+- Octal - char c = 0452 {0 indicates a binary format and 452 is the octal value}

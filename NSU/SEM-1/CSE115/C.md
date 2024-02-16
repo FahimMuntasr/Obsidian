@@ -76,14 +76,13 @@ For example
 # Data types and variables
 #### Types of Data
 The main 3 types of variables used in C are:
-- `int` - stores integers (whole numbers) // 4 bytes
-- `float` - stores floating point numbers, with decimals // 4 bytes
-- `double` - stores large integers // 8 bytes
-- `char` - stores a single character // 1 byte
+- `int` - stores integers (whole numbers) // 4 bytes // -2<sup>32</sup> ~ 2<sup>32</sup> 
+- `float` - stores floating point numbers// 4 bytes // 1.2E-38 ~ 3.4E+38
+- `double` - stores floating point numbers with higher precision // 8 bytes // 2.3E-308 ~ 1.7E+308
+- `char` - stores a single character // 1 byte // -128 ~ 127 OR 0 ~ 255
 - `bool` - `true` or `false` values only (must use `#include <stdbool.h>` in the top of the code to use booleans) // 1 byte
-A 4th type can be derived to store strings (a collection of characters):
 - `char string[] = "Hello World"` : Arrays store a collection of variables/constants. Here an array is used to store a collection of `char` type variables
-The 5th data type is a constant which is denoted with the `const` variable. Once you state a constant variable you cannot change it
+The 7th data type is a constant which is denoted with the `const` variable. Once you state a constant variable you cannot change it
 #### Declaration and Initialization 
 Before we can use a variable we must do two things, **declaration** and **initialization**.
 You HAVE to declare ALL variables before any statements in the code.
@@ -132,7 +131,11 @@ printf("%d %f %c", myNum, myFloat, myChar);
 Here the `%d` is a **format specifier** , this specifies that the variable to output is a integer.
 Each variable type has a unique format specifier.
 - `%d` - int, bool
+- `%u` - unsigned int
+- `%o` - unsigned octal
+- `%x / %X` - unsigned hexadecimal
 - `%f` - float
+- `%e` - floating point with E notation
 - `%c` - char
 - `%s` - string
 the order of appearance of the format specifier should match the order of appearance of the variable name inside the `printf()` function.

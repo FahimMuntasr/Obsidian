@@ -29,4 +29,12 @@ There should be at least 3 body paragraphs in an essay. Each paragraph should ta
 
 #### Essay composition (continued)
 ##### Conclusion 
-The conclusion paragraph should restate all points in previous paragraphs. The con
+The conclusion paragraph should restate all points in previous paragraphs. The conclusion should act as a summary for the essay
+##### Essay format
+- Intro paragraph
+	- Thesis statement
+	- Supporting ideas
+- Body paragraphs
+- Body paragraphs
+- Body paragraphs
+- Conclusion
