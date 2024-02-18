@@ -322,3 +322,28 @@ int main(){
 # Loops
 ---
 ##### 1
+```c
+/*
+1. Write a program that calculates the sum of the first N even numbers using a single while loop.
+Input: 5
+Output: Sum of first 5 even numbers: 30
+*/
+#include <stdio.h>
+
+int main(){
+	
+    int nextNum = 2, n=5, index = 0, result = 0;
+	
+    while(index < n){
+        result += nextNum;
+        nextNum += 2;
+        index++;
+    }
+    printf("Sum of first %d even numbers: %d", n, result);
+    return 0;
+}
+```
+##### 2
+```c
+
+```
