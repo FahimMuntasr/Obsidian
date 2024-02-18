@@ -322,3 +322,101 @@ int main(){
 # Loops
 ---
 ##### 1
+```c
+/*
+1. Write a program that calculates the sum of the first N even numbers using a
+single while loop.
+Input: 5
+Output: Sum of first 5 even numbers: 30
+*/
+#include <stdio.h>
+int main() {
+    int count, index=0, nextNum = 2, result=0;
+    printf("Input:");  
+    scanf("%d", &count);
+    while(index < count){
+        result += nextNum;
+        nextNum += 2;
+        index++;
+    }
+    printf("Sum of first %d even numbers: %d", count, result);
+    return 0;
+}
+```
+##### 2
+```c
+/*
+2. Write a program to calculate the sum of the squares of the first N natural
+numbers using a single while loop.
+Input: 4
+Output: Sum of squares: 30
+*/
+#include <stdio.h>
+#include <math.h>
+int main() {
+    int count, nextNum = 1, result=0;
+    printf("Input:");
+    scanf("%d", &count);
+    while(0 < count){
+        result += pow(nextNum, 2);
+        nextNum = nextNum + 1;
+        count--;
+    }
+    printf("Sum of squares: %d", result);
+    return 0;
+}
+```
+##### 3
+```c
+/*
+3. Implement a program to calculate the factorial of a number using a do-while
+loop.
+Input:
+Enter a number: 4
+Output: The factorial of 4 is 24
+*/
+#include <stdio.h>
+#include <math.h>
+int main() {
+    int count, result=1, index;
+    printf("Input:");
+    scanf("%d", &count);
+    index = count;
+    while(0 < count){
+        result *= count;
+        count--;
+    }
+    printf("The factorial of %d is %d", index, result);
+    return 0;
+}
+```
+##### 4
+```c
+/*
+4. Write a program that reads positive integers until a negative integer is entered
+and then calculates the sum of the positive integers.
+Input:
+Enter positive integers: 10 5 8 -1
+Output: Sum of positive integers: 23
+*/
+#include <stdio.h>
+#include <math.h>
+int main() {
+    int inputNum , result=0;
+    printf("Enter positive integer:");
+    scanf("%d", &inputNum);
+    if(inputNum > 0){
+        while(inputNum > 0){
+            result += inputNum;
+            printf("Enter positive integer:");
+            scanf("%d", &inputNum);            
+        }
+    }
+    printf("Sum of positive integers: %d", result);
+    return 0;
+}
+```
+##### 5
+```c
+
+```
