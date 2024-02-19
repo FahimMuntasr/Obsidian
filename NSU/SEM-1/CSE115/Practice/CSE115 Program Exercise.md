@@ -324,30 +324,13 @@ int main(){
 ##### 1
 ```c
 /*
-<<<<<<< HEAD
-1. Write a program that calculates the sum of the first N even numbers using a single while loop.
-=======
 1. Write a program that calculates the sum of the first N even numbers using a
 single while loop.
->>>>>>> 77a70128f2b88eae795836a5538673ecda3a8d27
 Input: 5
 Output: Sum of first 5 even numbers: 30
 */
 #include <stdio.h>
-<<<<<<< HEAD
 
-int main(){
-	
-    int nextNum = 2, n=5, index = 0, result = 0;
-	
-    while(index < n){
-        result += nextNum;
-        nextNum += 2;
-        index++;
-    }
-    printf("Sum of first %d even numbers: %d", n, result);
-    return 0;
-=======
 int main() {
     int count, index=0, nextNum = 2, result=0;
     printf("Input:");  
@@ -359,13 +342,10 @@ int main() {
     }
     printf("Sum of first %d even numbers: %d", count, result);
     return 0;
->>>>>>> 77a70128f2b88eae795836a5538673ecda3a8d27
 }
 ```
 ##### 2
 ```c
-<<<<<<< HEAD
-=======
 /*
 2. Write a program to calculate the sum of the squares of the first N natural
 numbers using a single while loop.
@@ -375,16 +355,16 @@ Output: Sum of squares: 30
 #include <stdio.h>
 #include <math.h>
 int main() {
-    int count, nextNum = 1, result=0;
-    printf("Input:");
-    scanf("%d", &count);
-    while(0 < count){
-        result += pow(nextNum, 2);
-        nextNum = nextNum + 1;
-        count--;
-    }
-    printf("Sum of squares: %d", result);
-    return 0;
+	int count, nextNum = 1, result=0;
+	printf("Input:");
+	scanf("%d", &count);
+	while(0 < count){
+		result += pow(nextNum, 2);
+		nextNum = nextNum + 1;
+		count--;
+	}
+	printf("Sum of squares: %d", result);
+	return 0;
 }
 ```
 ##### 3
@@ -397,18 +377,18 @@ Enter a number: 4
 Output: The factorial of 4 is 24
 */
 #include <stdio.h>
-#include <math.h>
+
 int main() {
-    int count, result=1, index;
-    printf("Input:");
-    scanf("%d", &count);
-    index = count;
-    while(0 < count){
-        result *= count;
-        count--;
-    }
-    printf("The factorial of %d is %d", index, result);
-    return 0;
+	int count, result=1, index;
+	printf("Input:");
+	scanf("%d", &count);
+	index = count;
+	while(0 < count){
+		result *= count;
+		count--;
+	}
+	printf("The factorial of %d is %d", index, result);
+	return 0;
 }
 ```
 ##### 4
@@ -421,24 +401,48 @@ Enter positive integers: 10 5 8 -1
 Output: Sum of positive integers: 23
 */
 #include <stdio.h>
-#include <math.h>
+
 int main() {
-    int inputNum , result=0;
-    printf("Enter positive integer:");
-    scanf("%d", &inputNum);
-    if(inputNum > 0){
-        while(inputNum > 0){
-            result += inputNum;
-            printf("Enter positive integer:");
-            scanf("%d", &inputNum);            
-        }
-    }
-    printf("Sum of positive integers: %d", result);
-    return 0;
+	int inputNum , result=0;
+	printf("Enter positive integer:");
+	scanf("%d", &inputNum);
+	if(inputNum > 0){
+		while(inputNum > 0){
+			result += inputNum;
+			printf("Enter positive integer:");
+			scanf("%d", &inputNum);            
+		}
+	}
+	printf("Sum of positive integers: %d", result);
+	return 0;
 }
 ```
 ##### 5
 ```c
->>>>>>> 77a70128f2b88eae795836a5538673ecda3a8d27
+/*
+5. Develop a C program that prints the terms of the Fibonacci series that are less than a given limit using a single loop.
+Sample Input:
+Enter the limit: 100
+Output: Fibonacci series terms less than 100: 0 1 1 2 3 5 8 13 21 34 55 89
+*/
+#include <stdio.h>
+
+int main() {
+	int limit, fibNum = 0, nextFibNum = 1, reduntant = 0;
+	printf("Enter the limit:");
+	scanf("%d", &limit);
+	printf("Fibonacci series terms less than %d: 0 1", limit);
+	while(reduntant < limit){
+		printf(" %d", reduntant);
+		reduntant = fibNum + nextFibNum;
+		fibNum = nextFibNum;
+		nextFibNum = reduntant;
+	}
+	printf("\n");
+	return 0;
+}
+```
+##### 6
+```c
 
 ```
