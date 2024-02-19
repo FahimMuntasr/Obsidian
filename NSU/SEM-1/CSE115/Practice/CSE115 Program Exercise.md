@@ -324,12 +324,17 @@ int main(){
 ##### 1
 ```c
 /*
+<<<<<<< HEAD
 1. Write a program that calculates the sum of the first N even numbers using a
 single while loop.
+=======
+1. Write a program that calculates the sum of the first N even numbers using a single while loop.
+>>>>>>> e6f22c3bec1d49d46506b57d4f7ec7068cf1def4
 Input: 5
 Output: Sum of first 5 even numbers: 30
 */
 #include <stdio.h>
+<<<<<<< HEAD
 int main() {
     int count, index=0, nextNum = 2, result=0;
     printf("Input:");  
@@ -341,10 +346,25 @@ int main() {
     }
     printf("Sum of first %d even numbers: %d", count, result);
     return 0;
+=======
+
+int main(){
+	
+    int nextNum = 2, n=5, index = 0, result = 0;
+	
+    while(index < n){
+        result += nextNum;
+        nextNum += 2;
+        index++;
+    }
+    printf("Sum of first %d even numbers: %d", n, result);
+    return 0;
+>>>>>>> e6f22c3bec1d49d46506b57d4f7ec7068cf1def4
 }
 ```
 ##### 2
 ```c
+<<<<<<< HEAD
 /*
 2. Write a program to calculate the sum of the squares of the first N natural
 numbers using a single while loop.
