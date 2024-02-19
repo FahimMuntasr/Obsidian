@@ -324,17 +324,13 @@ int main(){
 ##### 1
 ```c
 /*
-<<<<<<< HEAD
 1. Write a program that calculates the sum of the first N even numbers using a
 single while loop.
-=======
-1. Write a program that calculates the sum of the first N even numbers using a single while loop.
->>>>>>> e6f22c3bec1d49d46506b57d4f7ec7068cf1def4
 Input: 5
 Output: Sum of first 5 even numbers: 30
 */
 #include <stdio.h>
-<<<<<<< HEAD
+
 int main() {
     int count, index=0, nextNum = 2, result=0;
     printf("Input:");  
@@ -346,25 +342,10 @@ int main() {
     }
     printf("Sum of first %d even numbers: %d", count, result);
     return 0;
-=======
-
-int main(){
-	
-    int nextNum = 2, n=5, index = 0, result = 0;
-	
-    while(index < n){
-        result += nextNum;
-        nextNum += 2;
-        index++;
-    }
-    printf("Sum of first %d even numbers: %d", n, result);
-    return 0;
->>>>>>> e6f22c3bec1d49d46506b57d4f7ec7068cf1def4
 }
 ```
 ##### 2
 ```c
-<<<<<<< HEAD
 /*
 2. Write a program to calculate the sum of the squares of the first N natural
 numbers using a single while loop.
@@ -396,7 +377,6 @@ Enter a number: 4
 Output: The factorial of 4 is 24
 */
 #include <stdio.h>
-#include <math.h>
 int main() {
     int count, result=1, index;
     printf("Input:");
@@ -420,7 +400,6 @@ Enter positive integers: 10 5 8 -1
 Output: Sum of positive integers: 23
 */
 #include <stdio.h>
-#include <math.h>
 int main() {
     int inputNum , result=0;
     printf("Enter positive integer:");
