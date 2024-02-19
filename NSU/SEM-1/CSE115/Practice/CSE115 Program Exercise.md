@@ -444,6 +444,22 @@ int main() {
 ```
 ##### 6
 ```c
+/*
+6. Write a program that calculates the sum of all odd numbers between 1 and N using a while loop.
+Input: Enter a value for N: 10
+Output: Sum of odd numbers: 25
+*/
+#include <stdio.h>
 
-
+int main() {
+	int limit , result=0, nextNum = 1;
+	printf("Enter a value for N:");
+	scanf("%d", &limit);
+	while (limit > nextNum){
+		result+= nextNum;
+		nextNum += 2;
+	}
+	printf("Sum of odd numbers: %d", result);
+	return 0;
+}
 ```
