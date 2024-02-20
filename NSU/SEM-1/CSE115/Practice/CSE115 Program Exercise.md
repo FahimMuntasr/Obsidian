@@ -463,3 +463,83 @@ int main() {
 	return 0;
 }
 ```
+##### 7
+```c
+/*
+7. Create a C program to find the factorial of a given number using a do-while
+loop.
+Input:
+Enter a positive integer: 6
+Output: 720
+*/
+#include <stdio.h>
+
+int main() {
+	int number , result=1, nextNum = 1;
+	printf("Enter a value for N:");
+	scanf("%d", &number);
+	while (number > 0){
+		result *= number;
+		number--;
+	}
+	printf("%d", result);
+	return 0;
+}
+```
+##### 8
+```c
+/*
+8. Implement a program that prints the multiplication table for a given number
+using a for loop.
+Sample Input: Enter a number: 7
+Output:
+Multiplication table of 7:
+7 x 1 = 7
+7 x 2 = 14
+...
+7 x 10 = 70
+*/
+#include <stdio.h>
+
+int main() {
+	int number , count=1, maxCount;
+	printf("Enter a number:");
+	scanf("%d", &number);
+	printf("Enter max multiple:");
+	scanf("%d", &maxCount);
+	while (count <= maxCount){
+		printf("%d x %d\t= %d\n", number, count, number*count);
+		count++;
+	}
+	return 0;
+}
+```
+##### 9
+```c
+/*
+9. Write a C program to generate a series of squares of numbers up to N using a
+loop.
+Input: 5
+Output:
+Squares of numbers up to 5:
+1^2 = 1
+2^2 = 4
+3^2 = 9
+4^2 = 16
+5^2 = 25
+*/
+#include <stdio.h>
+#include <math.h>
+
+int main() {
+	int number , count=1, square;
+	printf("Input:");
+	scanf("%d", &number);
+	while (count <= number){
+		square = pow(count, 2);
+		printf("%d^2\t= %d\n", count,square);
+		count++;
+	}
+	return 0;
+}
+```
