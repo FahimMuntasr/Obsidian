@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "10772bde71245314",
+        "id": "e07419af5485486d",
         "type": "tabs",
         "children": [
           {
-            "id": "0639d0348fa3f0ee",
+            "id": "1a0b071a5ffc139a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSU/SEM-1/CSE115/C.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a005de681a1c7191",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -160,16 +139,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a005de681a1c7191",
+  "active": "1a0b071a5ffc139a",
   "lastOpenFiles": [
-    "NSU/SEM-1/CSE115/C.md",
+    "NSU/SEM-1/CSE115/CSE115 - C.md",
+    "NSU/SEM-1/CSE115/Assignment 1/Assignment 1.md",
+    "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240327235007.png",
+    "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317180727.png",
+    "NSU/Modern USA.md",
+    "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317183045.png",
+    "NSU/SEM-1/CSE115/Assignment 1",
+    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
+    "NSU/Questions.md",
+    "NSU/Untitled.md",
     "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
-    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-    "NSU/SEM-1/CSE115/C_PRACTICE.md",
     "NSU/SEM-1/CSE115/Pasted image 20240214225532.png",
+    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
+    "NSU/SEM-1/MAT120/Chapter-wise Notes/0 - Pre Calculus.md",
+    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
+    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
+    "Project based learning.md",
+    "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
+    "NSU/SEM-1/MAT120/Chapter-wise Notes",
+    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
+    "NSU/SEM-1/CSE115/C_PRACTICE.md",
     "Pasted image 20240214225437.png",
     "Pasted image 20240214225730.png",
-    "Project based learning.md",
     "NSU/SEM-1/ENG103/ENG103_NOTES.md"
   ]
 }
