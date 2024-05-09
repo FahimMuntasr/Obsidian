@@ -11,8 +11,12 @@
             "id": "1a0b071a5ffc139a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "NSU/Questions.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NSU/Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NSU/Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NSU/Questions.md"
+              }
             }
           }
         ]
@@ -141,17 +149,19 @@
   },
   "active": "1a0b071a5ffc139a",
   "lastOpenFiles": [
-    "NSU/SEM-1/CSE115/CSE115 - C.md",
+    "NSU/Modern USA.md",
+    "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
     "NSU/SEM-1/CSE115/Assignment 1/Assignment 1.md",
+    "NSU/SEM-1/CSE115/Assignment 2",
+    "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
+    "NSU/SEM-1/CSE115/CSE115 - C.md",
     "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240327235007.png",
     "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317180727.png",
-    "NSU/Modern USA.md",
     "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317183045.png",
     "NSU/SEM-1/CSE115/Assignment 1",
     "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
     "NSU/Questions.md",
     "NSU/Untitled.md",
-    "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
     "NSU/SEM-1/CSE115/Pasted image 20240214225532.png",
     "NSU/SEM-1/CSE115/CSE115_NOTES.md",
     "NSU/SEM-1/MAT120/Chapter-wise Notes/0 - Pre Calculus.md",
