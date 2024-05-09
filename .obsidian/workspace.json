@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "e07419af5485486d",
+        "id": "0a6410d51c4f64c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0b071a5ffc139a",
+            "id": "cf9cf363cb59e920",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "pdf",
+              "state": {
+                "file": "NSU/SEM-1/CSE115/Books/Problem Solving and Program Design in C (Hanly, Jeri RKoffman, Elliot B).pdf"
+              }
             }
           }
         ]
@@ -65,7 +67,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306.5
   },
   "right": {
     "id": "4f651ca52c07c088",
@@ -81,6 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "NSU/SEM-1/CSE115/Books/Problem Solving and Program Design in C (Hanly, Jeri RKoffman, Elliot B).pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "NSU/SEM-1/CSE115/Books/Problem Solving and Program Design in C (Hanly, Jeri RKoffman, Elliot B).pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +122,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "NSU/SEM-1/CSE115/Books/Problem Solving and Program Design in C (Hanly, Jeri RKoffman, Elliot B).pdf"
+              }
             }
           }
         ]
@@ -130,36 +136,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "1a0b071a5ffc139a",
+  "active": "cf9cf363cb59e920",
   "lastOpenFiles": [
+    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
+    "NSU/SEM-1/CSE115/Books/Problem Solving and Program Design in C (Hanly, Jeri RKoffman, Elliot B).pdf",
+    "Nafim/Economics/Types_of_Business_Organization.pdf",
+    "Nafim/Economics/Prices__Markets.pdf",
     "NSU/SEM-1/CSE115/CSE115 - C.md",
+    "Nafim/Geography/Climate change/Adaptation_and_Mitigation.pdf",
+    "Nafim/Geography/Environment and sustainability/Geo_Resources_WS_The_Environment_and_Sustainability.pdf",
+    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
+    "Nafim/History/Terrorism/PPT1_Terrorism_Through_History.pdf",
+    "Nafim/History/Modern history of USA/Resource_5.pdf",
+    "Nafim/Geography/Climate change/Resource_2_1.pdf",
+    "Nafim/Geography/Climate change/Resource_3_1.pdf",
+    "CWEET.md",
+    "Untitled.md",
+    "Nafim/History/Modern history of india/Modern history of India.md",
+    "Nafim/Nafim Syllabus.md",
+    "NSU/Modern USA.md",
     "NSU/SEM-1/CSE115/Assignment 1/Assignment 1.md",
     "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240327235007.png",
     "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317180727.png",
-    "NSU/Modern USA.md",
     "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317183045.png",
-    "NSU/SEM-1/CSE115/Assignment 1",
-    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
-    "NSU/Questions.md",
     "NSU/Untitled.md",
     "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
     "NSU/SEM-1/CSE115/Pasted image 20240214225532.png",
     "NSU/SEM-1/CSE115/CSE115_NOTES.md",
     "NSU/SEM-1/MAT120/Chapter-wise Notes/0 - Pre Calculus.md",
-    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
-    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
     "Project based learning.md",
-    "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
-    "NSU/SEM-1/MAT120/Chapter-wise Notes",
     "NSU/SEM-1/MAT120/MAT120_NOTES.md",
     "NSU/SEM-1/CSE115/C_PRACTICE.md",
     "Pasted image 20240214225437.png",

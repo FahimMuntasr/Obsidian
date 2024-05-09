@@ -1,0 +1,14 @@
+
+A long time ago, a company from England called the East India Company started doing business in India. At that time, India wasn't one big country; it was made up of lots of smaller states, each with its own leader. Sometimes, the East India Company asked for permission to trade in these states, but other times, they just went ahead without asking. Meanwhile, the French also had their own company doing similar things in India, and they didn't get along with the British.
+
+Things got really intense in 1700, leading to a big war between the British and the French. The British promised to support Indian leaders who let them trade freely, and they fought against those who tried to stop them. In 1757, a British guy named Robert Clive convinced an Indian general to help him overthrow a ruler in Bengal. They won, and this gave the British control over Bengal. Robert Clive became famous in England and was sent back to India to rule over Bengal. Over time, he and others from the East India Company took over more and more Indian states.
+
+The French were eventually kicked out of India, and by the 1850s, the British controlled about 60% of India. They brought their own rules and education system, which some Indians didn't like. So, while some people benefited from British rule, others resented it.
+
+Historians and researchers indicate that between 1870 and 1930, Britain took about 1% of India's wealth annually, significantly less than other colonial powers. Despite investing around £400 million in India during this period, much of the wealth generated wasn't reinvested in the country. While British rule led to the development of industries like coal mining and improvements in public health and life expectancy due to better water supplies and malaria treatment, recent research suggests India gained little economically. 
+
+The British abolished harmful practices like sati (Burning widows alive) and infanticide (mass killing unwanted children) but also imposed heavy taxes on Indians, with a large portion of India's wealth spent on the British army. Devastating famines occurred due to mismanagement, exacerbated by Indians growing cash crops for British profit rather than staple foods. An estimated 19 million Indians died from starvation and disease during famines in 1876-1877 and 1899-1900. Despite infrastructure development like roads, railways, schools, and hospitals, Gandhi criticized British rule, advocating for Indian self-governance.
+
+Lord Mountbatten was the viceroy of India who planned the independence and partition. He pushed independence too quick as it caused problems for states like Kashmir.
+
+Maharaja Hari Singh was the ruler of Kashmir before independence. He decided to make Kashmir an independent kingdom rather than joining India or Pakistan. 77% of people in Kashmir were muslims who wished to be part of Pakistan 

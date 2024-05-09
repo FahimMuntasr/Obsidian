@@ -12,6 +12,8 @@
 - [[#Strings]]
 - [[#User input]]
 - [[#Memory addresses]]
+- [[#Functions]]
+- [[#Header files]]
 # Computer Architecture
 #### Types of number systems
 ###### Decimal (base 10) : 
@@ -359,7 +361,11 @@ int y = 2; // Declares and assigns a value
 x = 3; // Changes value of x from 1 to 3
 x = y; // Changes value of x from 3 to value of y (2)
 printf("%d", x);
-//OUTPUT: 2
+/*
+OUTPUT
+------
+2
+*/
 ```
 The `%d` is called a format specifier and it is used to print the values of variables.
 #### Format specifiers
@@ -369,7 +375,11 @@ int myNum = 7
 float myFloat = 7.23
 char myChar = 'n'
 printf("%d %f %c", myNum, myFloat, myChar);
-// OUTPUT : 7 7.23 n
+/* 
+OUTPUT 
+------
+7 7.23 n
+*/
 ```
 Here the `%d` is a **format specifier** , this specifies that the variable to output is a integer.
 Each variable type has a unique format specifier.
@@ -395,10 +405,12 @@ char studentName[] = "Fahim Muntasir";
 //Print the data
 printf("Name: %s\nAge: %d\nID: %d\nDepartment: %s\n", studentName, studentAge, studentID, studentDept);
 /*
-OUTPUT: Name: Fahim Muntasir
-		Age: 18
-		ID: 2411371042
-		Department: CSE
+OUTPUT
+------
+Name: Fahim Muntasir
+Age: 18
+ID: 2411371042
+Department: CSE
 */
 // Each line is on the next line because of the usage of the \n escape sequence
 ```
@@ -437,7 +449,7 @@ Comparison operators output `1` if true and `0` if false
 | Operator | Type        |
 | -------- | ----------- |
 | `&`      | bitwise AND |
-| \|       | bitwise OR  |
+| \|`      | bitwise OR  |
 | `~`      | bitwise NOT |
 | `^`      | bitwise XOR |
 | `<<`     | shift left  |
@@ -457,6 +469,11 @@ int main() {
 	printf("Result: %d\n", result);
 	return 0; 
 }
+/*
+OUTPUT
+------
+Result: 9
+*/
 ```
 1. `3 * 2` is evaluated first, resulting in `6`.
 2. `4 / 2` is evaluated next, resulting in `2`.
@@ -487,7 +504,11 @@ int age = 26;
 if (age > 18){
 	printf("You are a %d year old adult", age);
 }
-// OUTPUT: You are a 26 year old adult
+/*
+OUTPUT 
+------
+You are a 26 year old adult
+*/
 ```
 #### Else statements
 Else statements are used when the condition in the if statement is not true
@@ -507,7 +528,11 @@ if (age > 18){
 } else {
 	printf("You are not an adult);
 }
-// OUTPUT: You are not an adult
+/*
+OUTPUT
+------
+You are not an adult
+*/
 ```
 #### Else if statements
 Else if statements are used to check for another condition if the previous condition was false
@@ -531,7 +556,11 @@ if(age > 18){
 } else {
 	printf("You are not an adult);
 }
-// OUTPUT: Invalid age, age cannot be negative
+/*
+OUTPUT
+------
+Invalid age, age cannot be negative
+*/
 ```
 
 #### Shorthand if statement
@@ -543,7 +572,7 @@ Format for shorthand if statements
 Example
 ```c
 int age = 21;
-(age > 18) ? printf("You are an adult") : printf("You are not an adult");
+(age > 18) ? printf("Adult") : printf("Not an adult");
 ```
 
 # Switch case statements
@@ -579,7 +608,8 @@ while(i < 5){
 	i++; // every loop i is increase by one so that the code is not looped forver
 }
 /*
-OUTPUT : 
+OUTPUT
+------
 0
 1
 2
@@ -612,6 +642,15 @@ Example:
 for(int i = 0; i < 5; i++){
 	printf("%d\n", i);
 }
+/*
+OUTPUT
+------
+0
+1
+2
+3
+4
+*/
 ```
 #### Break/Continue
 The `break` statement is used to break out of a loop;
@@ -624,7 +663,8 @@ for(int i = 0; i < 10; i++){
 	printf("%d\n", i);
 }
 /*
-OUTPUT:
+OUTPUT
+------
 0
 1
 2
@@ -642,7 +682,8 @@ for(int i = 0; i < 10; i++){
 	printf("%d\n", i);
 }
 /*
-OUTPUT: 
+OUTPUT
+------
 0
 1
 2
@@ -666,7 +707,11 @@ Each element of an array has an index, the first element of an array has an inde
 ```c
 int myArray[] = {25, 62, 91, 11};
 printf("%d", myArray[2])
-// OUTPUT : 91
+/*
+OUTPUT
+------
+91
+*/
 ```
 You can use loops to list all elements of an array ;
 ```C
@@ -674,7 +719,11 @@ int myArray[] = {25, 62, 91, 11};
 for(int i = 0; i < 4; i++){
 	printf("%d ", myArray[i]);
 }
-// OUTPUT: 25 62 91 11 
+/*
+OUTPUT
+------
+25 62 91 11
+*/
 ```
 To know the size of an array we can use the `sizeof()` method. This outputs the number of bytes of memory that is being used by the array.
 ```C
@@ -682,7 +731,11 @@ int myNumbers[] = {10,25,50,75,100};
 int size = sizeof(myNumbers);
 
 printf("%lu", size);
-// OUTPUT : 20 (20 bytes)
+/*
+OUTPUT
+------
+20 (20 bytes)
+*/
 ```
 When we want to know the number of elements in an array we can divide the (total memory taken by the array ) by (the memory taken by one element).
 ```C
@@ -690,7 +743,11 @@ int myNumbers[] = {10,25,50,75,100};
 int length = sizeof(myNumbers)/sizeof(myNumbers[0]);
 
 printf("%d", length);
-//OUTPUT : 5
+/*
+OUTPUT
+------
+5
+*/
 ```
 
 
@@ -712,8 +769,6 @@ scanf("%d", &myNum);
 ```
 # Memory addresses
 Preceding any variable with the `&` sign gives the memory address of the variable. Format specifier for addresses is `%p` 
-
-
 # Functions
 #### What is a function?
 A function is a piece of code that is used to complete a specific task. Functions are useful because they only need to be written once and can be reused without writing the same code over and over again.
@@ -723,4 +778,103 @@ Pre-defined
 User-defined
 - Functions written by the programmer
 
-####
+#### Function prototypes
+Normally functions have to be written above the main function like this:
+```C
+#include  <stdio.h>
+void function(int argument){
+	printf("%d", argument)
+}
+int main(){
+	int x = 5
+	function(x);// Call the function with argument
+	return 0;
+}
+/*
+OUTPUT
+------
+5
+*/
+```
+The problem with writing code like this is that the main function is at the bottom. This makes the code less readable. 
+A different approach of writing functions is through function prototypes.:
+```C
+void function(int);
+// state type of function and type of arguments only
+int main(){
+	int x = 5;
+	function(x);
+	return 0;
+}
+void function(int argument){
+	printf("%d", argument);
+}
+/*
+OUTPUT
+------
+5
+*/
+```
+The output of both approaches are the same which shows that both methods are correct. The only advantage of using function prototypes is that the main function is near the top.
+# Header files
+#### What are header files?
+Header files are a collection of pre-written functions. You can also write your own header files.
+#### Types of header files
+*Only the first 6 headers are important*
+
+|                      |                       |                                                              |
+| -------------------- | --------------------- | ------------------------------------------------------------ |
+| **Header File Name** | **Syntax**            | **Meaning/ Description**                                     |
+| stdio.h              | `#include <stdio.h>`  | Contains declarations for standard input/output functions    |
+| stdlib.h             | `#include <stdlib.h>` | Contains declarations for memory allocation and management   |
+| string.h             | `#include <string.h>` | Contains declarations for string manipulation functions      |
+| math.h               | `#include <math.h>`   | Contains declarations for mathematical functions             |
+| time.h               | `#include <time.h>`   | Contains declarations for functions to manipulate date/time  |
+| ctype.h              | `#include <ctype.h>`  | Contains declarations for functions to manipulate characters |
+| errno.h              | `#include <errno.h>`  | Contains declarations for error-handling functions/ macros   |
+| limits.h             | `#include <limits.h>` | Contains declarations for constants related to integer types |
+| assert.h             | `#include <assert.h>` | Contains declarations for the assert () macro                |
+| float.h              | `#include <float.h>`  | Contains declarations for constants related to float types   |
+#### `stdio.h`
+1. `printf()`: Used to print formatted output to the console or a file.
+2. `scanf()`: Used to read formatted input from the console or a file.
+3. `fgets()`: Used to read a line of text from a file or the console.
+4. `fopen()`: Used to open a file.
+5. `fclose()`: Used to close a file.
+6. `fseek()`: Used to set the file position indicator for a file.
+7. `fread()`: Used to read data from a file.
+8. `fwrite()`: Used to write data to a file.
+#### `stdlib.h`
+1. `malloc()`: Used to dynamically allocate memory.
+2. `free()`: Used to free dynamically allocated memory.
+3. `atoi()`: Used to convert a string to an integer.
+4. `atof()`: Used to convert a string to a floating-point number.
+5. `rand()`: Used to generate a random number.
+6. `qsort()`: Used to sort an array.
+#### `string.h`
+1. `strlen()`: Used to get the length of a string.
+2. `strcpy()`: Used to copy one string to another.
+3. `strcat()`: Used to concatenate two strings.
+4. `strstr()`: Used to find a substring in a string.
+5. `memset()`: Used to set the value of a block of memory to a specific value.
+6. `memcpy()`: Used to copy a block of memory from one location to another.
+#### `math.h`
+1. `sin()`: Used to calculate the sine of an angle.
+2. `cos()`: Used to calculate the cosine of an angle.
+3. `tan()`: Used to calculate the tangent of an angle.
+4. `sqrt()`: Used to calculate the square root of a number.
+5. `pow()`: Used to raise a number to a power.
+6. `ceil()`: Used to round a number up to the nearest integer.
+7. `floor()`: Used to round a number down to the nearest integer.
+#### `time.h`
+1. `time()`: Used to get the current time in seconds since Jan 1 1970, (nothing special about this exact date).
+2. `localtime()`: Used to convert a time value to a local time.
+3. `gmtime()`: Used to convert a time value to a UTC time.
+4. `mktime()`: Used to convert a local time to a time value.
+5. `strftime()`: Used to format a time value as a string.
+#### `ctype.h`
+1. `isdigit()`: Used to check if a character is a digit.
+2. `isalpha()`: Used to check if a character is an alphabetic character.
+3. `islower()`: Used to check if a character is a lowercase letter.
+4. `toupper()`: Used to convert a character to uppercase.
+5. `tolower()`: Used to convert a character to lowercase.
