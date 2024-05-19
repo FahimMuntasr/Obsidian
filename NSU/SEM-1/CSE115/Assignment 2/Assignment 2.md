@@ -519,6 +519,11 @@ int main()
 	printf("%s%d\n", ptrp->carname, ptrp->carnumber);
 	return 0;
 }
+/*
+Mercedes102133
+Mercedes102133
+Mercedes102133
+*/
 ```
 ## B. 
 ```c
@@ -537,9 +542,14 @@ int main()
 	printf("%d %s %s\n", m1.number, m2.message1, m3.message2);
 	return 0;
 }
+/*
+22 This is Message 1 & this is Message 2
+*/
 ```
 # 16. Write a C program to count the number of words and characters present in a file.
 ---
+```C
+```
 # 17. Point out the errors (if any) from the following codes:
 ---
 ## A. 
@@ -554,9 +564,9 @@ int main(){
 	};
 	struct employee e;
 	strcpy(e.name, "Shailesh");
-	age = 25;
-	salary = 15500.00;
-	printf("%s%d%f\n", e.name, age, salary);
+	age = 25;// this should refer to the struct it is from, e.age = 25
+	salary = 15500.00;// e.salary = 15500.00
+	printf("%s%d%f\n", e.name, age, salary); // e.age, e.salary should be used to print
 	return 0;
 }
 ```
@@ -573,20 +583,93 @@ int main()
 	int i;
 	for(i=0;i<=1;i++)
 		printf("%s%s\n", v.name, v.type[]);
+		// As v is an array of structures it should have an index number during printing
+		// Also there should be no third brackets after v.type
+		// This is the correct version 
+		// printf("%s%s\n", v[i].name, v[i].type)
 		return 0;
 }
 ```
 # 18.Define a structure named "Employee" to store the name, employee ID, and salary of 50 employees. Design a program that takes input for each employee's details from the user. Then, write a function named "highSalaryEmployees()" to print the names of all employees with a salary greater than $5000.
 ---
+```C
+/*
+Define a structure named "Employee" to store the name, employee ID,
+and salary of 50 employees. Design a program that takes input for
+each employee's details from the user. Then, write a function named
+"highSalaryEmployees()" to print the names of all employees with a
+salary greater than $5000.
+*/
+#include <stdio.h>
+#include <stdlib.h>
+struct Employee{
+    char name[50];
+    int ID;
+    int salary;
+}e[50];
+void highSalaryEmployees(struct Employee *data){
+    printf("%s\n%d\n%d\n\n", data->name,data->ID,data->salary);
+}
+int main(){
+    int i;
+    //Take input
+    for(i=0;i<50;i++){
+        printf("Name: ");
+        scanf("%s", e[i].name);
+        printf("Id: ");
+        scanf("%d", &e[i].ID);
+        printf("Salary: ");
+        scanf("%d", &e[i].salary);
+    }
+    for(i=0;i<50;i++){
+        if(e[i].salary>5000){
+            highSalaryEmployees(&e[i]);
+        }
+    }
+    return 0;
+}
+```
 # 19.Discuss the difference between writing data to a file in text mode and binary mode in C. Additionally, explain the significance of using fseek() and ftell() functions when working with file handling in C.
 ---
+#### Difference between text mode and binary mode
+- Text mode has EOF (end-of-file) marker at the end of the file, binary mode does not have the EOF marker
+- All data is interpreted as characters in text mode. All data in binary mode is read as it its
+#### fseek()
+- It is used to move the file pointer to a specified location
+- `int fseek(File *filename, int distance, int start)`
+- the distance parameter is the number of bytes to move the file pointer
+- the start parameter is the location from where the pointer will start moving
+#### ftell()
+- returns the current location of the file pointer
+- `int fseek(FILE *filename)`
 # 20. Answer the following:
 ---
 ## A. 
 While using the following statements in C file,
 handlingfp=fopen("myfile.txt", "r");
 what happens if 'myfile.txt' does not exist on the disk and when 'myfile.txt' exists on the disk.
+#### When `myfile.txt` Does Not Exist on the Disk
+- **Return Value**: If "myfile.txt" does not exist, `fopen` will return `NULL`.
+- **Error Handling**: It's essential to check the return value of `fopen` to handle this scenario correctly.
+- **No File Created**: The file will not be created since the mode is `"r"` (read mode), which only allows opening an existing file for reading
+#### When `myfile.txt` Exists on the Disk
+
+- **Return Value**: If "myfile.txt" exists, `fopen` will return a pointer to the `FILE` object associated with the file.
+- **File Pointer**: The file pointer will be positioned at the beginning of the file, ready for reading.
+- **Read Operations**: You can proceed to perform read operations on the file using functions like `fgetc`, `fgets`, `fread`, etc.
 ## B.
 While using the following statement in C file,
 fp = fopen("myfile.c","wb");
 what happens if 'myfile.c' does not exist on the disk and when 'myfile.c' exists on the disk.
+#### When `myfile.c` Does Not Exist on the Disk
+
+- **File Creation**: If "myfile.c" does not exist, `fopen` will create a new file named "myfile.c".
+- **Return Value**: `fopen` will return a pointer to the `FILE` object associated with the new file.
+- **File Pointer**: The file pointer will be positioned at the beginning of the newly created file.
+- **File Mode**: Since the file is opened in "wb" (write binary) mode, the file is intended for binary data. The file will be empty initially.
+#### When `myfile.c` Exists on the Disk
+
+- **File Truncation**: If "myfile.c" already exists, `fopen` will open the existing file but truncate it to zero length. This means any existing data in the file will be lost.
+- **Return Value**: `fopen` will return a pointer to the `FILE` object associated with the file.
+- **File Pointer**: The file pointer will be positioned at the beginning of the file.
+- **File Mode**: The file is opened in "wb" mode, ready for binary writing.
