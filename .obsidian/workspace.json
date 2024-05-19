@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "5eca1878d63e3dd3",
+    "id": "bed0e8949b941221",
     "type": "split",
     "children": [
       {
-        "id": "e07419af5485486d",
+        "id": "d16f7b524ec4a9e3",
         "type": "tabs",
         "children": [
           {
-            "id": "1a0b071a5ffc139a",
+            "id": "f543b33677cbbf83",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "NSU/Questions.md",
+                "file": "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "970484480e3148ae",
+    "id": "df7d3314ce8602b2",
     "type": "split",
     "children": [
       {
-        "id": "ea60f844c1171161",
+        "id": "3a016246b5a99509",
         "type": "tabs",
         "children": [
           {
-            "id": "88af6ea5d12be558",
+            "id": "5440f253ae6670d2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +43,7 @@
             }
           },
           {
-            "id": "acd5205a9674410c",
+            "id": "ffdc373763c61072",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "8f6dd15abe41bd70",
+            "id": "c6d5fa09cd7ebb66",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 347.5026054382324
   },
   "right": {
-    "id": "4f651ca52c07c088",
+    "id": "cedfcefe3f824f43",
     "type": "split",
     "children": [
       {
-        "id": "678e535dc3281c51",
+        "id": "8d773f94344dd85c",
         "type": "tabs",
         "children": [
           {
-            "id": "b8367d1571ed9b82",
+            "id": "4d2cbe1ba1ebdb8b",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "NSU/Questions.md",
+                "file": "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +97,19 @@
             }
           },
           {
-            "id": "4d203d359988f066",
+            "id": "9b6efc1ab28ecfd2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "NSU/Questions.md",
+                "file": "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "ad43a95b7408906c",
+            "id": "0594c9891cbf28a9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,16 +120,17 @@
             }
           },
           {
-            "id": "b857b5cfcb1f70fe",
+            "id": "8f0392d490f87ddf",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "NSU/Questions.md"
+                "file": "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -138,7 +139,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "mermaid-tools:Open Mermaid Toolbar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -147,33 +147,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a0b071a5ffc139a",
+  "active": "f543b33677cbbf83",
   "lastOpenFiles": [
-    "NSU/Modern USA.md",
+    "Untitled.canvas",
+    "Nafim/HISTORY.md",
     "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
-    "NSU/SEM-1/CSE115/Assignment 1/Assignment 1.md",
-    "NSU/SEM-1/CSE115/Assignment 2",
-    "NSU/SEM-1/CSE115/Practice/CSE115 Program Exercise.md",
-    "NSU/SEM-1/CSE115/CSE115 - C.md",
-    "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240327235007.png",
-    "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317180727.png",
-    "NSU/SEM-1/CSE115/Assignment 1/Pasted image 20240317183045.png",
-    "NSU/SEM-1/CSE115/Assignment 1",
-    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
-    "NSU/Questions.md",
-    "NSU/Untitled.md",
-    "NSU/SEM-1/CSE115/Pasted image 20240214225532.png",
-    "NSU/SEM-1/CSE115/CSE115_NOTES.md",
-    "NSU/SEM-1/MAT120/Chapter-wise Notes/0 - Pre Calculus.md",
-    "NSU/SEM-1/MAT120/Course Outline MAT 120 Spring 2024.pdf",
-    "NSU/SEM-1/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
-    "Project based learning.md",
-    "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
-    "NSU/SEM-1/MAT120/Chapter-wise Notes",
-    "NSU/SEM-1/MAT120/MAT120_NOTES.md",
-    "NSU/SEM-1/CSE115/C_PRACTICE.md",
-    "Pasted image 20240214225437.png",
-    "Pasted image 20240214225730.png",
-    "NSU/SEM-1/ENG103/ENG103_NOTES.md"
+    "Nafim/Geography/Climate change/Resource_1_1.pdf",
+    "Untitled.md",
+    "Nafim/Geography/Environment and sustainability/PPT_2_renewable_resources_information_cards.pdf",
+    "Nafim/Geography/Environment and sustainability/PPT_1_Sustainability.pdf",
+    "Nafim/Geography.md",
+    "Nafim/Geography/Environment and sustainability/Geo_Resources_WS_The_Environment_and_Sustainability.pdf",
+    "Nafim/Geography/Climate change/Resource_3_1.pdf",
+    "Nafim/Geography/Climate change/Resource_2_1.pdf",
+    "Nafim/Geography/Climate change/Adaptation_and_Mitigation.pdf",
+    "Nafim/History/Terrorism/Handout-10_The_London_Bombing_UK.pdf",
+    "Nafim/History/Terrorism/PPT1_Terrorism_Through_History.pdf",
+    "Nafim/History/Terrorism/Handout-9_The_Ku_Klax_Klan.pdf",
+    "Nafim/Nafim Syllabus.md",
+    "Nafim/History/Modern history of india/Modern history of India.md",
+    "Nafim/ENGLISH LIT..md",
+    "Nafim/ENGLISH LANG..md",
+    "Nafim/বাাংলা ভাষা.md"
   ]
 }
