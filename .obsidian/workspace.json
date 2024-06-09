@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "d16f7b524ec4a9e3",
+        "id": "27e60ffd8cfa2775",
         "type": "tabs",
         "children": [
           {
-            "id": "f543b33677cbbf83",
+            "id": "c3b88deeb8648088",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project based learning.md",
+                "file": "JavaScript.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5026054382324
+    "width": 200
   },
   "right": {
     "id": "cedfcefe3f824f43",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project based learning.md",
+                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project based learning.md",
+                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,12 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project based learning.md"
+                "file": "JavaScript.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -147,14 +147,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f543b33677cbbf83",
+  "active": "c3b88deeb8648088",
   "lastOpenFiles": [
+    "JavaScript.md",
+    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
+    "Untitled.canvas",
     "NSU/SEM-1/ENG103/ENG103_NOTES.md",
+    "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
+    "NSU/SEM-1/CSE115/CSE115 - C.md",
+    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
+    "NSU/SEM-1/CSE115/Books/Sazzad M.S. Imran, Atiqur Rahman Ahad - Learn Programming with C An Easy Step-by-Step Self-Practice Book for Learning C-CRC Press (2023).pdf",
     "Project based learning.md",
+    "Untitled",
+    "Bangladesh studies.md",
     "CWEET.md",
     "Environment and sustainability.md",
     "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
-    "Untitled.canvas",
     "Nafim/ENGLISH LANG..md",
     "Nafim/HISTORY.md",
     "Nafim/Geography/Climate change/Resource_1_1.pdf",
@@ -164,10 +172,6 @@
     "Nafim/Geography/Environment and sustainability/Geo_Resources_WS_The_Environment_and_Sustainability.pdf",
     "Nafim/Geography/Climate change/Resource_3_1.pdf",
     "Nafim/Geography/Climate change/Resource_2_1.pdf",
-    "Nafim/Geography/Climate change/Adaptation_and_Mitigation.pdf",
-    "Nafim/History/Terrorism/Handout-10_The_London_Bombing_UK.pdf",
-    "Nafim/History/Terrorism/PPT1_Terrorism_Through_History.pdf",
-    "Nafim/History/Terrorism/Handout-9_The_Ku_Klax_Klan.pdf",
     "Nafim/Nafim Syllabus.md",
     "Nafim/History/Modern history of india/Modern history of India.md",
     "Nafim/ENGLISH LIT..md",

@@ -313,9 +313,9 @@ Each line inside a function is called a **statement**, all statements need to en
 | \uhhhh              | _Universal character name:_ Inserts the character represented by the Unicode value hhhh. | None                   | printf("Hello\u03A9World");<br> |
 
 # Preprocessor keywords
-#### Use of #include
+#### Use of `#include`
 `#include` is used to import libraries with pre-programmed functions that are essential for c , a common library is `<stdio.h>` which contains functions like `printf()` and `scanf()`  
-#### Use of #define
+#### Use of `#define`
 `#define` is used to define constant values outside the main function. This is done to decrease compiler time by defining values outside of the code instead of declaring it inside.
 For example
 # Data types and variables

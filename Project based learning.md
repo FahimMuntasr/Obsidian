@@ -2,28 +2,28 @@
 
 ## Table of Contents:
 
-- [C#](#c) *MUST DO* 
-- [C/C++](#cc) *MUST DO*
+- [C#](#c) *MUST* 
+- [C/C++](#cc) *MUST*
 - [Clojure](#clojure) 
-- [Dart](#dart) *MIGHT DO*
+- [Dart](#dart) *MIGHT*
 - [Elixir](#elixir)
 - [Erlang](#erlang)
 - [F#](#f)
 - [Go](#go)
 - [Haskell](#haskell)
-- [HTML/CSS](#html-and-css) *MUST DO*
-- [Java](#java) *MIGHT DO*
-- [JavaScript](#javascript) *MUST DO*
-- [Kotlin](#kotlin) *MIGHT DO*
+- [HTML/CSS](#html-and-css) *MUST*
+- [Java](#java) *MUST*
+- [JavaScript](#javascript) *MUST*
+- [Kotlin](#kotlin) *MIGHT*
 - [Lua](#lua)
 - [OCaml](#ocaml)
 - [PHP](#php)
-- [Python](#python) *MUST DO*
+- [Python](#python) *MUST*
 - [R](#r)
 - [Ruby](#ruby)
-- [Rust](#rust) *MIGHT DO*
+- [Rust](#rust) *MIGHT*
 - [Scala](#scala)
-- [Swift](#swift) *MIGHT DO*
+- [Swift](#swift) *MIGHT*
 - [Additional resources](#additional-resources)
 
 ## C/C++:
