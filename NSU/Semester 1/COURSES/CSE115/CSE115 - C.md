@@ -1,4 +1,4 @@
-`Fahim Muntasir`
+
 # Contents
 - [[#Computer Architecture]]
 - [[#Introduction to C]]

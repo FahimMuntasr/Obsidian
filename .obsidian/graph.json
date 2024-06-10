@@ -6,17 +6,46 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
+  "colorGroups": [
+    {
+      "query": "tag:#index  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:\"NSU/Semester 1/COURSES\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:Coding  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084290
+      }
+    },
+    {
+      "query": "path:\"NSU\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 14777077
+      }
+    }
+  ],
+  "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "textFadeMultiplier": -2.6,
+  "nodeSizeMultiplier": 1.94272370380398,
+  "lineSizeMultiplier": 2.49461215649113,
+  "collapse-forces": false,
+  "centerStrength": 0.826587247867876,
+  "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.6749363331864934,
-  "close": false
+  "linkDistance": 30,
+  "scale": 0.3823010968769973,
+  "close": true
 }

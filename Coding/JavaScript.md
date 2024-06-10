@@ -1,4 +1,7 @@
-#JavaScript #WebDev #Coding
+#JavaScript
+#WebDev
+#Coding
+[[Web Development]]
 # Arithmetic operators
 | Operator       | Syntax     |
 | -------------- | ---------- |

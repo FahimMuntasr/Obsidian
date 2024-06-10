@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3b88deeb8648088",
+            "id": "854dbb70ba3436e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "JavaScript.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#calculus",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "JavaScript.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -147,34 +139,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3b88deeb8648088",
+  "active": "854dbb70ba3436e1",
   "lastOpenFiles": [
-    "JavaScript.md",
-    "NSU/SEM-1/MAT116/MAT116_NOTES.md",
-    "Untitled.canvas",
-    "NSU/SEM-1/ENG103/ENG103_NOTES.md",
-    "NSU/SEM-1/ENG103/ENG103 Course Outline for Spring 2024.pdf",
-    "NSU/SEM-1/CSE115/CSE115 - C.md",
-    "NSU/SEM-1/CSE115/Course objective and outcome CSE115.pdf",
-    "NSU/SEM-1/CSE115/Books/Sazzad M.S. Imran, Atiqur Rahman Ahad - Learn Programming with C An Easy Step-by-Step Self-Practice Book for Learning C-CRC Press (2023).pdf",
-    "Project based learning.md",
-    "Untitled",
-    "Bangladesh studies.md",
-    "CWEET.md",
-    "Environment and sustainability.md",
-    "NSU/SEM-1/CSE115/Assignment 2/Assignment 2.md",
-    "Nafim/ENGLISH LANG..md",
-    "Nafim/HISTORY.md",
-    "Nafim/Geography/Climate change/Resource_1_1.pdf",
-    "Nafim/Geography/Environment and sustainability/PPT_2_renewable_resources_information_cards.pdf",
-    "Nafim/Geography/Environment and sustainability/PPT_1_Sustainability.pdf",
-    "Nafim/Geography.md",
-    "Nafim/Geography/Environment and sustainability/Geo_Resources_WS_The_Environment_and_Sustainability.pdf",
-    "Nafim/Geography/Climate change/Resource_3_1.pdf",
-    "Nafim/Geography/Climate change/Resource_2_1.pdf",
-    "Nafim/Nafim Syllabus.md",
-    "Nafim/History/Modern history of india/Modern history of India.md",
-    "Nafim/ENGLISH LIT..md",
-    "Nafim/বাাংলা ভাষা.md"
+    "Coding/Coding.md",
+    "NSU/Semester 1/COURSES/MAT120/Functions.md",
+    "NSU/Semester 1/COURSES/MAT120/Course Outline MAT 120 Spring 2024.pdf",
+    "NSU/Semester 1/COURSES/MAT116/Course_Outline_MAT_116_20 Spring 2024.pdf",
+    "NSU/Semester 1/COURSES/MAT120/MAT120.md",
+    "NSU/Semester 1/COURSES/MAT116/Circle.md",
+    "NSU/Semester 1/COURSES/MAT116/MAT116.md",
+    "NSU/Semester 1/COURSES/MAT116/Graph Sketching.md",
+    "Coding/JavaScript.md",
+    "NSU/Semester 1/COURSES/CSE115/CSE115 - C.md",
+    "NSU/Semester 1/COURSES/MAT120/Chapter-wise Notes/0 - Pre Calculus.md",
+    "Implicit Derivatives.md",
+    "NSU/Semester 1/SEM1.md",
+    "NSU/Semester 1/COURSES/CSE115/CSE115.md",
+    "NSU/Semester 1/COURSES/MAT116/Inequality.md",
+    "NSU/Semester 1/COURSES/MAT116/MAT116_NOTES.md",
+    "NSU/Semester 1/COURSES/ENG103/Creative Writing.md",
+    "NSU/Semester 1/COURSES/CSE115/Miscellaneous.md",
+    "NSU/Semester 1/COURSES/ENG103/ENG103.md",
+    "NSU/Semester 1/COURSES/ENG103/Grammar Concepts.md",
+    "NSU/Semester 2/SEM2.md",
+    "NSU/Semester 2/COURSES",
+    "NSU/Semester 1/COURSES/MAT120/Books/Howard Anton, Irl C. Bivens, Stephen Davis - Calculus Early Transcendentals (10th Edition).pdf",
+    "NSU/Semester 1/COURSES/MAT120/Chapter-wise Notes",
+    "NSU/Semester 1/COURSES/MAT120/Books",
+    "NSU/Semester 1/COURSES/MAT120",
+    "NSU/Semester 1/COURSES/MAT116/Books/Michael_Sullivan_Precalculus_9th_Edition.pdf",
+    "NSU/Semester 1/COURSES/MAT116/Books",
+    "NSU/Semester 1/COURSES/MAT116",
+    "NSU/Semester 1/COURSES/CSE115/C.md",
+    "NSU/Semester 1/MAT116/MAT116.md",
+    "NSU/NSU.md",
+    "NSU/Semester 1/ENG103/Creative Writing.md",
+    "NSU/Semester 1/MAT120/MAT120.md",
+    "NSU/Semester 1/ENG103/ENG103.md",
+    "Untitled.canvas"
   ]
 }
