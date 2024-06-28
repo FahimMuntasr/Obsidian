@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -8,44 +8,23 @@
   "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "tag:#index  ",
+      "query": "path:\"Computer Science\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
-      }
-    },
-    {
-      "query": "path:\"NSU/Semester 1/COURSES\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14069084
-      }
-    },
-    {
-      "query": "path:Coding  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084290
-      }
-    },
-    {
-      "query": "path:\"NSU\"  ",
-      "color": {
-        "a": 1,
-        "rgb": 14777077
+        "rgb": 7327212
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -2.6,
-  "nodeSizeMultiplier": 1.94272370380398,
-  "lineSizeMultiplier": 2.49461215649113,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1.62432651956139,
+  "lineSizeMultiplier": 2.60074455123866,
   "collapse-forces": false,
-  "centerStrength": 0.826587247867876,
+  "centerStrength": 0.683633410044673,
   "repelStrength": 20,
   "linkStrength": 1,
-  "linkDistance": 30,
-  "scale": 0.3823010968769973,
+  "linkDistance": 205,
+  "scale": 0.38230109687701125,
   "close": true
 }
