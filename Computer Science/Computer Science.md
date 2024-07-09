@@ -2,7 +2,6 @@ Fields of Computer Science:
 - [[Computer Architecture]]
 - [[Languages]]
 - [[Data Representation]]
-- [[Data Transmission]]
 - [[Programming concepts]]
 - [[Data Structures & Algorithms]]
 - [[Software Design]]
