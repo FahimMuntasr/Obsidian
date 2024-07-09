@@ -119,3 +119,16 @@ Practice: Find the truth table for $(P\lor \neg Q)\to (P\land Q)$
 | $T$ | $F$ | $T$      | $T$            | $F$        | $F$                            |
 | $F$ | $T$ | $F$      | $F$            | $F$        | $T$                            |
 | $F$ | $F$ | $T$      | $T$            | $F$        | $F$                            |
+**Operator precedence**
+
+| Operator          | Precedence |
+| ----------------- | ---------- |
+| $\neg$            | 1          |
+| $\land$           | 2          |
+| $\lor$            | 3          |
+| $\to$             | 4          |
+| $\leftrightarrow$ | 5          |
+**Propositional Equivalence**
+Tautology : A compound proposition that is always true and independent of the truth values of its constituent propositions
+Contradictions : A compound proposition that is always false and independent of the truth values of its constituent propositions
+Contingency : A compound proposition that is neither a tautology nor a contradiction.
