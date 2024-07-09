@@ -159,9 +159,38 @@ example:
 | $F$ | $T$ | $T$      | $T$      | $T$            |
 | $F$ | $F$ | $T$      | $T$      | $T$            |
 
+$(P\to Q) \equiv (\neg P \lor Q)$
+
 **De Morgan's Law** is used to convert conjunctions to disjunctions and vice versa.
 1. $\neg(P\lor Q) \equiv \neg P\land \neg Q$
 2. $\neg(P\land Q) \equiv \neg P\lor \neg Q$
 Similarly, for $n$ propositional variables;
 1. $\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$
 2. $\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$
+
+Practice : 
+Prove $(p\land q)\to(p\lor q)$ is a tautology.
+
+A tautology is a always true.
+$(p\land q)\to(p\lor q)\equiv \neg (p\land q)\lor (p\lor q)$
+$\equiv (\neg p \lor \neg q) \lor (p \lor q)$
+$\equiv (\neg p \lor p) \lor (\neg q\lor q)$ 
+$\equiv T \lor T$
+$\equiv T$
+
+Some important logical equivalencies:
+- $\neg(P\lor Q) \equiv \neg P\land \neg Q$
+- $\neg(P\land Q) \equiv \neg P\lor \neg Q$
+- $\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$
+- $\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$
+- $(P\to Q) \equiv (\neg P \lor Q)$
+- $P\land T\equiv P$
+- $P\land F\equiv F$
+- $P\lor F\equiv P$
+- $P\lor T\equiv T$
+- $(P\lor Q)\lor R\equiv P \lor (Q\lor R)$
+- $(P\land Q)\land R\equiv P \land (Q\land R)$
+- $P\lor Q\equiv Q\lor P$
+- $P\land Q\equiv Q\land P$
+- $P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$
+- $P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$
