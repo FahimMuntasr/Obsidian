@@ -33,7 +33,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/CSE173/Lectures/1/CSE_173_PROPOSITIONAL_LOGIC_FALL_2018.pdf"
+                "file": "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf"
               }
             }
           },
@@ -44,16 +44,6 @@
               "type": "pdf",
               "state": {
                 "file": "North South/CSE173/Syllabus/CSE_173_content.pdf"
-              }
-            }
-          },
-          {
-            "id": "24d428f237fbff8d",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications-McGraw Hill (2018)(Z-Lib.io).pdf"
               }
             }
           }
@@ -107,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 252.50260543823242
   },
   "right": {
     "id": "cedfcefe3f824f43",
@@ -187,22 +177,24 @@
   },
   "active": "74231cae2df1579f",
   "lastOpenFiles": [
+    "North South/CSE173/Practice/CSE 173 5.pdf",
+    "North South/CSE173/Practice/CSE 173 4.pdf",
+    "North South/CSE173/Practice/CSE 173 3.pdf",
+    "North South/CSE173/Practice/CSE 173 1.pdf",
+    "North South/CSE173/Discrete Mathematics.md",
+    "North South/CSE173/Lectures/7A/RELATION.pdf",
+    "North South/CSE173/Lectures/0/CSE173 INTRODUCTION.pdf",
+    "Kenneth Rosen - Discrete Mathematics and Its Applications-McGraw Hill (2018)(Z-Lib.io).pdf.md",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "Computer Science/C.md",
     "Computer Science/Computer Architecture.md",
-    "North South/CSE173/Discrete Mathematics.md",
-    "North South/CSE173/Lectures/1/CSE_173_PROPOSITIONAL_LOGIC_FALL_2018.pdf",
+    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
     "North South/CSE173/Syllabus/CSE_173_content.pdf",
     "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications-McGraw Hill (2018)(Z-Lib.io).pdf",
     "North South/CSE173/Lectures/0/CSE_173_INTRODUCTION.pdf",
     "Computer Science/Computer Science.md",
-    "North South/CSE173/Lectures/10B/CSE_173_NUMBER_II.pdf",
     "North South/CSE173/Lectures/0/Untitled.md",
     "Computer Science/Networking.md",
-    "North South/CSE173/Books",
-    "North South/CSE173/New folder",
-    "North South/CSE173/Practice/CSE_173_HW_5_FALL_2018.pdf",
-    "North South/CSE173/Practice/CSE_173_HW_5_FALL_2018.pdf.crdownload",
-    "North South/CSE173/Practice/CSE_173_HW_4_FALL_2018.pdf",
     "Computer Science/Cyber Security.md",
     "Computer Science/Data Transmission.md",
     "Computer Science/REACT.md",
@@ -222,7 +214,6 @@
     "Computer Science/Software Design.md",
     "Computer Science/Python.md",
     "Computer Science/Project based learning.md",
-    "Computer Science/Operating Systems.md",
     "Untitled.canvas"
   ]
 }
