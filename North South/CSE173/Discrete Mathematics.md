@@ -145,3 +145,23 @@ Practice: Find the truth table for $(P\lor \neg Q)\to (P\land Q)$
 Tautology : A compound proposition that is always true and independent of the truth values of its constituent propositions
 Contradictions : A compound proposition that is always false and independent of the truth values of its constituent propositions
 Contingency : A compound proposition that is neither a tautology nor a contradiction.
+
+**Logical Equivalence**
+
+When two compound propositions have the same truth values for all  possible cases, they are logically equivalent. This is denoted by $P\equiv Q$ .
+If $P\leftrightarrow Q$ is a tautology then $P\equiv Q$.
+example:
+
+| $P$ | $Q$ | $\neg P$ | $P\to Q$ | $\neg P\lor Q$ |
+| --- | --- | -------- | -------- | -------------- |
+| $T$ | $T$ | $F$      | $T$      | $T$            |
+| $T$ | $F$ | $F$      | $F$      | $F$            |
+| $F$ | $T$ | $T$      | $T$      | $T$            |
+| $F$ | $F$ | $T$      | $T$      | $T$            |
+
+**De Morgan's Law** is used to convert conjunctions to disjunctions and vice versa.
+1. $\neg(P\lor Q) \equiv \neg P\land \neg Q$
+2. $\neg(P\land Q) \equiv \neg P\lor \neg Q$
+Similarly, for $n$ propositional variables;
+1. $\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$
+2. $\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$
