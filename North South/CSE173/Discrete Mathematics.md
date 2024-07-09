@@ -74,10 +74,14 @@ Possible scenarios :
 | $F$ | $F$ | $T$      |
 **Biconditional statement** : Denoted by $P\leftrightarrow Q$, true only when both $P$ and $Q$ have same values and false otherwise.
 
-If $P\leftrightarrow Q$ denotes the proposition "A polygon is called a triangle only if it has three sides" where,
-$P\to$ "A polygon is a triangle"
-$Q\to$ "The polygon has three sides"
+If $P\leftrightarrow Q$ denotes the proposition "A shape is called a triangle only if it has three sides" where,
+$P\to$ "A shape is a triangle"
+$Q\to$ "The shape has three sides"
 Possible scenarios : 
+1. The shape is called a triangle ($P$ is true), and it has three sides ($Q$ is true). As this supports the original proposition, $P\leftrightarrow Q$ is true here.
+2. The shape is called a triangle ($P$ is true), but it does not have three sides ($Q$ is false). This contradicts the proposition which means $P\leftrightarrow Q$ is false.
+3. The shape is not called a triangle ($P$ is false), but it has three sides ($Q$ is true). This also contradicts the proposition which means $P\leftrightarrow Q$ is false.
+4. The shape is not called a triangle ($P$ is false), and it does not have three sides($Q$ is false). This supports the original proposition which means $P\leftrightarrow Q$ is true.
 
 | $P$ | $Q$ | $P\leftrightarrow Q$ |
 | --- | --- | -------------------- |
@@ -85,3 +89,33 @@ Possible scenarios :
 | $T$ | $F$ | $F$                  |
 | $F$ | $T$ | $F$                  |
 | $F$ | $F$ | $T$                  |
+**Converse, Contrapositive and Inverse** : 
+If $P\to Q$ is a proposition;
+- Converse : $Q\to P$
+- Contrapositive : $\neg Q\to \neg P$ 
+- Inverse : $\neg P\to \neg Q$ 
+The contrapositive of a proposition is effectively the same thing as the original proposition.
+
+Example : 
+Original proposition : $P\to Q$ ; "If it is raining, the ground will get wet"
+Contrapositive proposition : $\neg Q\to \neg P$ ; "If the ground is not wet, it is not raining"
+Converse proposition : $Q\to P$ ; "If the ground is wet, it is raining"
+Inverse proposition : $\neg P\to \neg Q$ ; "If it is not raining, the ground will not get wet"
+
+**Truth tables**
+
+| $P$ | $Q$ | $\neg P$ | $\neg Q$ | $P\land Q$ | $P\lor Q$ | $P\oplus Q$ | $P\to Q$ | $P\leftrightarrow Q$ |
+| --- | --- | -------- | -------- | ---------- | --------- | ----------- | -------- | -------------------- |
+| $T$ | $T$ | $F$      | $F$      | $T$        | $T$       | $F$         | $T$      | $T$                  |
+| $T$ | $F$ | $F$      | $T$      | $F$        | $T$       | $T$         | $F$      | $F$                  |
+| $F$ | $T$ | $T$      | $F$      | $F$        | $T$       | $T$         | $T$      | $F$                  |
+| $F$ | $F$ | $T$      | $T$      | $F$        | $F$       | $F$         | $T$      | $T$                  |
+
+Practice: Find the truth table for $(P\lor \neg Q)\to (P\land Q)$
+
+| $P$ | $Q$ | $\neg Q$ | $P\lor \neg Q$ | $P\land Q$ | $(P\lor \neg Q)\to (P\land Q)$ |
+| --- | --- | -------- | -------------- | ---------- | ------------------------------ |
+| $T$ | $T$ | $F$      | $T$            | $T$        | $T$                            |
+| $T$ | $F$ | $T$      | $T$            | $F$        | $F$                            |
+| $F$ | $T$ | $F$      | $F$            | $F$        | $T$                            |
+| $F$ | $F$ | $T$      | $T$            | $F$        | $F$                            |

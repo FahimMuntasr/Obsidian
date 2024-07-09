@@ -57,7 +57,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,11 +188,11 @@
   },
   "active": "74231cae2df1579f",
   "lastOpenFiles": [
-    "Pasted image 20240709230337.png",
-    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "North South/CSE173/Syllabus/CSE_173_content.pdf",
     "North South/CSE173/Discrete Mathematics.md",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
+    "Pasted image 20240709230337.png",
     "pull.bat",
     "New Text Document.txt",
     "push.bat",
