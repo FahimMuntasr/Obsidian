@@ -24,6 +24,7 @@ $\neg P$ is true when $P$ is false and vice versa.
 | --- | -------- |
 | $T$ | $F$      |
 | $F$ | $T$      |
+
 **Conjunction** : If $P$ and $Q$ are propositions, the conjunction of $P$ and $Q$ is $P\land Q$.
 $P\land Q$ is true when BOTH $P$ and $Q$ is true.
 `Same as an AND gate`
@@ -34,6 +35,7 @@ $P\land Q$ is true when BOTH $P$ and $Q$ is true.
 | $T$ | $F$ | $F$        |
 | $F$ | $T$ | $F$        |
 | $F$ | $F$ | $F$        |
+
 **Disjunction** : If $P$ and $Q$ are propositions, the disjunction of $P$ and $Q$ is $P\lor Q$.
 $P\lor Q$ is true when either $P$ and/or $Q$ is true.
 `Same as an OR gate`
@@ -44,6 +46,7 @@ $P\lor Q$ is true when either $P$ and/or $Q$ is true.
 | $T$ | $F$ | $T$       |
 | $F$ | $T$ | $T$       |
 | $F$ | $F$ | $F$       |
+
 **Exclusive or** : If $P$ and $Q$ are propositions, the *exclusive or* of $P$ and $Q$ is $P\oplus Q$.
 $P\oplus Q$ is true exclusively when either $P$ or $Q$ is true, but false when both have the same value.
 `Same as XOR gate`
@@ -54,6 +57,7 @@ $P\oplus Q$ is true exclusively when either $P$ or $Q$ is true, but false when b
 | $T$ | $F$ | $T$         |
 | $F$ | $T$ | $T$         |
 | $F$ | $F$ | $F$         |
+
 **Conditional Statements** : Denoted by $P\to Q$ , false only when $P$ is true and $Q$ is false, and is true otherwise.
 
 This might be confusing, giving an example will help:
@@ -72,6 +76,7 @@ Possible scenarios :
 | $T$ | $F$ | $F$      |
 | $F$ | $T$ | $T$      |
 | $F$ | $F$ | $T$      |
+
 **Biconditional statement** : Denoted by $P\leftrightarrow Q$, true only when both $P$ and $Q$ have same values and false otherwise.
 
 If $P\leftrightarrow Q$ denotes the proposition "A shape is called a triangle only if it has three sides" where,
@@ -89,6 +94,7 @@ Possible scenarios :
 | $T$ | $F$ | $F$                  |
 | $F$ | $T$ | $F$                  |
 | $F$ | $F$ | $T$                  |
+
 **Converse, Contrapositive and Inverse** : 
 If $P\to Q$ is a proposition;
 - Converse : $Q\to P$
@@ -119,6 +125,7 @@ Practice: Find the truth table for $(P\lor \neg Q)\to (P\land Q)$
 | $T$ | $F$ | $T$      | $T$            | $F$        | $F$                            |
 | $F$ | $T$ | $F$      | $F$            | $F$        | $T$                            |
 | $F$ | $F$ | $T$      | $T$            | $F$        | $F$                            |
+
 **Operator precedence**
 
 | Operator          | Precedence |
@@ -128,6 +135,7 @@ Practice: Find the truth table for $(P\lor \neg Q)\to (P\land Q)$
 | $\lor$            | 3          |
 | $\to$             | 4          |
 | $\leftrightarrow$ | 5          |
+
 **Propositional Equivalence**
 Tautology : A compound proposition that is always true and independent of the truth values of its constituent propositions
 Contradictions : A compound proposition that is always false and independent of the truth values of its constituent propositions
