@@ -65,6 +65,7 @@ If a proposition is "If it rains today, the ground will get wet", it is denoted 
 $P\to$ "It's raining today"
 $Q\to$ "The ground got wet"
 Possible scenarios :
+
 1. It rained today ($P$ is true), and the ground got wet ($Q$ is true). As this supports the original proposition, $P\to Q$ is true in this case.
 2. It rained today ($P$ is true), but the ground didn't get wet ($Q$ is false). As this **contradicts** the original proposition, $P\to Q$ is false in this situation.
 3. It did not rain today ($P$ is false), but the ground still got wet because of some other reason ($Q$ is true). This statement does not **contradict** the original proposition, $P\to Q$ is still true in this situation.
@@ -83,6 +84,7 @@ If $P\leftrightarrow Q$ denotes the proposition "A shape is called a triangle on
 $P\to$ "A shape is a triangle"
 $Q\to$ "The shape has three sides"
 Possible scenarios : 
+
 1. The shape is called a triangle ($P$ is true), and it has three sides ($Q$ is true). As this supports the original proposition, $P\leftrightarrow Q$ is true here.
 2. The shape is called a triangle ($P$ is true), but it does not have three sides ($Q$ is false). This contradicts the proposition which means $P\leftrightarrow Q$ is false.
 3. The shape is not called a triangle ($P$ is false), but it has three sides ($Q$ is true). This also contradicts the proposition which means $P\leftrightarrow Q$ is false.
@@ -96,6 +98,7 @@ Possible scenarios :
 | $F$ | $F$ | $T$                  |
 
 **Converse, Contrapositive and Inverse** : 
+
 If $P\to Q$ is a proposition;
 - Converse : $Q\to P$
 - Contrapositive : $\neg Q\to \neg P$ 
@@ -103,6 +106,7 @@ If $P\to Q$ is a proposition;
 The contrapositive of a proposition is effectively the same thing as the original proposition.
 
 Example : 
+
 Original proposition : $P\to Q$ ; "If it is raining, the ground will get wet"
 Contrapositive proposition : $\neg Q\to \neg P$ ; "If the ground is not wet, it is not raining"
 Converse proposition : $Q\to P$ ; "If the ground is wet, it is raining"
@@ -137,6 +141,7 @@ Practice: Find the truth table for $(P\lor \neg Q)\to (P\land Q)$
 | $\leftrightarrow$ | 5          |
 
 **Propositional Equivalence**
+
 Tautology : A compound proposition that is always true and independent of the truth values of its constituent propositions
 Contradictions : A compound proposition that is always false and independent of the truth values of its constituent propositions
 Contingency : A compound proposition that is neither a tautology nor a contradiction.
