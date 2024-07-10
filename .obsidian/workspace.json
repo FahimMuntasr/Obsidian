@@ -6,7 +6,7 @@
       {
         "id": "dff993049c5f9cb5",
         "type": "tabs",
-        "dimension": 43.657817109144545,
+        "dimension": 33.55457227138643,
         "children": [
           {
             "id": "74231cae2df1579f",
@@ -37,7 +37,7 @@
       {
         "id": "deacff6beaeac4dc",
         "type": "tabs",
-        "dimension": 56.342182890855455,
+        "dimension": 66.44542772861357,
         "children": [
           {
             "id": "b16c9c3d3c15d61c",
@@ -69,8 +69,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,6 +199,10 @@
   },
   "active": "74231cae2df1579f",
   "lastOpenFiles": [
+    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "North South/CSE173/Discrete Mathematics.md",
+    "North South/CSE173/Practice.md",
     "Computer Science/Python.md",
     "Computer Science/Project based learning.md",
     "Computer Science/Probability & Combinatrics.md",
@@ -223,11 +226,6 @@
     "Computer Science/Cryptography.md",
     "Computer Science/Computer Science.md",
     "Computer Science/Computer Architecture.md",
-    "Computer Science/C++.md",
-    "Computer Science/C.md",
-    "Computer Science/Backend.md",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
-    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
     "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
     "upload.bat",
     "download.bat",

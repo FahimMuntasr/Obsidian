@@ -217,5 +217,4 @@ $$P\lor Q\equiv Q\lor P$$
 $$P\land Q\equiv Q\land P$$
 $$P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$$
 $$P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$$
-
 # Predicate Quantifiers
