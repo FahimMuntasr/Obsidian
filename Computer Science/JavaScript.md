@@ -1,5 +1,9 @@
-[[Web Development]]
-[[REACT]]
+---
+Relations:
+  - "[[Web Development]]"
+  - "[[REACT]]"
+---
+
 # Arithmetic operators
 | Operator       | Syntax     |
 | -------------- | ---------- |

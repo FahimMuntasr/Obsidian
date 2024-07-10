@@ -1,2 +1,5 @@
-[[JavaScript]]
-[[REACT]]
+---
+Relations:
+  - "[[JavaScript]]"
+  - "[[REACT]]"
+---

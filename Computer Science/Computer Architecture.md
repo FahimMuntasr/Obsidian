@@ -1,4 +1,7 @@
-[[The Elements of Computing Systems.pdf]]
+---
+Books:
+  - "[[The Elements of Computing Systems.pdf]]"
+---
 
 # **Fundamental Questions and Topics**
 

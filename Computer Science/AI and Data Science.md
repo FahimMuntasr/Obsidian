@@ -1,3 +1,6 @@
-[[Probability & Combinatrics]]
-[[Economics]]
-[[Data Analysis]]
+---
+Relations:
+  - "[[Probability & Combinatrics]]"
+  - "[[Economics]]"
+  - "[[Data Analysis]]"
+---

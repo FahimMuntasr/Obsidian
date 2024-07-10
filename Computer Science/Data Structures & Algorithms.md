@@ -1,1 +1,4 @@
-[[Languages]]
+---
+Relations:
+  - "[[Languages]]"
+---

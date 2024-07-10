@@ -6,7 +6,7 @@
       {
         "id": "dff993049c5f9cb5",
         "type": "tabs",
-        "dimension": 48.008849557522126,
+        "dimension": 43.657817109144545,
         "children": [
           {
             "id": "74231cae2df1579f",
@@ -19,13 +19,25 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d7d0a4b4f3632420",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "North South/CSE173/Practice.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       },
       {
         "id": "deacff6beaeac4dc",
         "type": "tabs",
-        "dimension": 51.991150442477874,
+        "dimension": 56.342182890855455,
         "children": [
           {
             "id": "b16c9c3d3c15d61c",
@@ -124,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+                "file": "North South/CSE173/Discrete Mathematics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+                "file": "North South/CSE173/Discrete Mathematics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+                "file": "North South/CSE173/Discrete Mathematics.md"
               }
             }
           }
@@ -186,12 +198,37 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "69e897de218000aa",
+  "active": "74231cae2df1579f",
   "lastOpenFiles": [
-    "North South/CSE173/Discrete Mathematics.md",
+    "Computer Science/Python.md",
+    "Computer Science/Project based learning.md",
+    "Computer Science/Probability & Combinatrics.md",
+    "Computer Science/Operating Systems.md",
+    "Computer Science/Node.js.md",
+    "Computer Science/Networking.md",
+    "Computer Science/MongoDB.md",
+    "Computer Science/Linux.md",
+    "Computer Science/Languages.md",
+    "Computer Science/JavaScript.md",
+    "Computer Science/Java.md",
+    "Computer Science/Full Stack.md",
+    "Computer Science/Frontend.md",
+    "Computer Science/Economics.md",
+    "Computer Science/Digital Forensics.md",
+    "Computer Science/Databases.md",
+    "Computer Science/Data Transmission.md",
+    "Computer Science/Data Structures & Algorithms.md",
+    "Computer Science/Data Analysis.md",
+    "Computer Science/Cyber Security.md",
+    "Computer Science/Cryptography.md",
+    "Computer Science/Computer Science.md",
+    "Computer Science/Computer Architecture.md",
+    "Computer Science/C++.md",
+    "Computer Science/C.md",
+    "Computer Science/Backend.md",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
     "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "upload.bat",
     "download.bat",
     "pull.bat",
@@ -200,31 +237,7 @@
     "Pasted image 20240709230337.png",
     "New Text Document.txt",
     "North South/CSE173/Practice/CSE 173 5.pdf",
-    "Kenneth Rosen - Discrete Mathematics and Its Applications-McGraw Hill (2018)(Z-Lib.io).pdf.md",
-    "Computer Science/C.md",
-    "Computer Science/Computer Architecture.md",
-    "Computer Science/Computer Science.md",
-    "North South/CSE173/Lectures/0/Untitled.md",
-    "Computer Science/Networking.md",
-    "Computer Science/Cyber Security.md",
-    "Computer Science/Data Transmission.md",
-    "Computer Science/REACT.md",
-    "Computer Science/Java.md",
-    "Computer Science/JavaScript.md",
-    "Computer Science/C++.md",
     "Reference pictures/Pasted image 20240625233012.png",
-    "Computer Science/Node.js.md",
-    "Computer Science/Full Stack.md",
-    "Computer Science/Databases.md",
-    "Computer Science/Probability & Combinatrics.md",
-    "Computer Science/Economics.md",
-    "Computer Science/AI and Data Science.md",
-    "Computer Science/Web Development.md",
-    "Noam Nisan, Shimon Schocken - The Elements of Computing Systems_ Building a Modern Computer from First Principles-The MIT Press (2005)(Z-Lib.io).pdf.md",
-    "AI and Data Science.md",
-    "Computer Science/Software Design.md",
-    "Computer Science/Python.md",
-    "Computer Science/Project based learning.md",
     "Untitled.canvas"
   ]
 }

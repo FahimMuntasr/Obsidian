@@ -1,11 +1,34 @@
-# Reference
-Syllabus : [[CSE_173_content.pdf]]
-Related to : [[Computer Science]],[[AI and Data Science]],[[Probability & Combinatrics]]
-Lectures : [[CSE173 INTRODUCTION.pdf]],[[PROPOSITIONAL LOGIC.pdf]],[[PREDICATE QUANTIFIER.pdf]],[[RULE OF INFERENCE.pdf]],[[PROOF TECHNIQUES.pdf]],[[SET FUNCTIONS.pdf]],[[SET FUNCTIONS II.pdf]],[[SUM SEQUENCE.pdf]],[[RELATION.pdf]],[[RELATION II.pdf]],[[RECURSION COUNTING.pdf]],[[GRAPHS.pdf]],[[NUMBER II.pdf]]
-Sample Questions : [[CSE 173 0.pdf]],[[CSE 173 1.pdf]],[[CSE 173 2.pdf]],[[CSE 173 4.pdf]],[[CSE 173 3.pdf]],[[CSE 173 5.pdf]]
-Books : [[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]
-
 ---
+Syllabus: "[[CSE_173_content.pdf]]"
+Relations:
+  - "[[Computer Science]]"
+  - "[[AI and Data Science]]"
+  - "[[Probability & Combinatrics]]"
+Reference:
+  - "[[CSE173 INTRODUCTION.pdf]]"
+  - "[[PROPOSITIONAL LOGIC.pdf]]"
+  - "[[PREDICATE QUANTIFIER.pdf]]"
+  - "[[RULE OF INFERENCE.pdf]]"
+  - "[[PROOF TECHNIQUES.pdf]]"
+  - "[[SET FUNCTIONS.pdf]]"
+  - "[[SET FUNCTIONS II.pdf]]"
+  - "[[SUM SEQUENCE.pdf]]"
+  - "[[RELATION.pdf]]"
+  - "[[RELATION II.pdf]]"
+  - "[[RECURSION COUNTING.pdf]]"
+  - "[[GRAPHS.pdf]]"
+  - "[[NUMBER II.pdf]]"
+Practice:
+  - "[[CSE 173 0.pdf]]"
+  - "[[CSE 173 1.pdf]]"
+  - "[[CSE 173 2.pdf]]"
+  - "[[CSE 173 3.pdf]]"
+  - "[[CSE 173 4.pdf]]"
+  - "[[CSE 173 5.pdf]]"
+Books:
+  - "[[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]"
+---
+
 # Propositional Logic
 
 Syllogism : A logical argument which relies on two or more propositions to come to a conclusion.
@@ -179,18 +202,20 @@ $\equiv T \lor T$
 $\equiv T$
 
 Some important logical equivalencies:
-- $\neg(P\lor Q) \equiv \neg P\land \neg Q$
-- $\neg(P\land Q) \equiv \neg P\lor \neg Q$
-- $\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$
-- $\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$
-- $(P\to Q) \equiv (\neg P \lor Q)$
-- $P\land T\equiv P$
-- $P\land F\equiv F$
-- $P\lor F\equiv P$
-- $P\lor T\equiv T$
-- $(P\lor Q)\lor R\equiv P \lor (Q\lor R)$
-- $(P\land Q)\land R\equiv P \land (Q\land R)$
-- $P\lor Q\equiv Q\lor P$
-- $P\land Q\equiv Q\land P$
-- $P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$
-- $P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$
+$$\neg(P\lor Q) \equiv \neg P\land \neg Q$$
+$$\neg(P\land Q) \equiv \neg P\lor \neg Q$$
+$$\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$$
+$$\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$$
+$$(P\to Q) \equiv (\neg P \lor Q)$$
+$$P\land T\equiv P$$
+$$P\land F\equiv F$$
+$$P\lor F\equiv P$$
+$$P\lor T\equiv T$$
+$$(P\lor Q)\lor R\equiv P \lor (Q\lor R)$$
+$$(P\land Q)\land R\equiv P \land (Q\land R)$$
+$$P\lor Q\equiv Q\lor P$$
+$$P\land Q\equiv Q\land P$$
+$$P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$$
+$$P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$$
+
+# Predicate Quantifiers

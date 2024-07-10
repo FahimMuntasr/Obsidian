@@ -1,2 +1,5 @@
-[[Frontend]]
-[[Backend]]
+---
+Relations:
+  - "[[Frontend]]"
+  - "[[Backend]]"
+---

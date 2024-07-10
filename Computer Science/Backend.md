@@ -1,1 +1,4 @@
-[[MongoDB]]
+---
+Relations:
+  - "[[MongoDB]]"
+---

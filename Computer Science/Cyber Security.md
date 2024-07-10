@@ -1,8 +1,11 @@
-[[Operating Systems]]
-[[Digital Forensics]]
-[[Networking]]
-[[Cryptography]]
-[[Data Transmission]]
+---
+Relations:
+  - "[[Operating Systems]]"
+  - "[[Digital Forensics]]"
+  - "[[Networking]]"
+  - "[[Cryptography]]"
+  - "[[Data Transmission]]"
+---
 
 ### Types of penetration tests
 
