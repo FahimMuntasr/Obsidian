@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dff993049c5f9cb5",
+        "id": "1a6a53d0da137f41",
         "type": "tabs",
-        "dimension": 33.55457227138643,
+        "dimension": 45.65043894652833,
         "children": [
           {
-            "id": "74231cae2df1579f",
+            "id": "438a34c96c7c9f2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d7d0a4b4f3632420",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "North South/CSE173/Practice.md",
+                "file": "North South/ECO101/Introduction to Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,41 +23,42 @@
         ]
       },
       {
-        "id": "deacff6beaeac4dc",
+        "id": "80964bdc4646f2d2",
         "type": "tabs",
-        "dimension": 66.44542772861357,
+        "dimension": 54.349561053471675,
         "children": [
           {
-            "id": "b16c9c3d3c15d61c",
+            "id": "a1de6574f71b736b",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf"
+                "file": "North South/ECO101/Syllabus/ECO 101 syllabus.pdf"
               }
             }
           },
           {
-            "id": "004b26d1436a3971",
+            "id": "2d8589edf678cde8",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/CSE173/Syllabus/CSE_173_content.pdf"
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf"
               }
             }
           },
           {
-            "id": "69e897de218000aa",
+            "id": "d7d8ee3659854597",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+                "file": "North South/ECO101/Books/(R)Economics.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +70,7 @@
       {
         "id": "3a016246b5a99509",
         "type": "tabs",
+        "dimension": 68.6298076923077,
         "children": [
           {
             "id": "5440f253ae6670d2",
@@ -116,10 +106,25 @@
             }
           }
         ]
+      },
+      {
+        "id": "afa6b77bf16fe815",
+        "type": "tabs",
+        "dimension": 31.370192307692307,
+        "children": [
+          {
+            "id": "16439f88e92caa36",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5026054382324
   },
   "right": {
     "id": "cedfcefe3f824f43",
@@ -135,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md"
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf"
               }
             }
           }
@@ -197,12 +202,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74231cae2df1579f",
+  "active": "2d8589edf678cde8",
   "lastOpenFiles": [
-    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "North South/ECO101/Introduction to Microeconomics.md",
+    "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+    "North South/ECO101/Books/(R)Economics.pdf",
+    "North South/ECO101/Syllabus/ECO 101 syllabus.pdf",
+    "Computer Science/Computer Science.md",
+    "North South/MAT125/Introduction to Linear Algebra.md",
     "North South/CSE173/Discrete Mathematics.md",
+    "North South/MAT130/Calculus and Analytic Geometry.md",
+    "Topics",
+    "Untitled.md",
+    "2024-07-11.md",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "Topics/Mathematics.md",
+    "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
+    "North South/MAT125/Syllabus",
+    "North South/MAT125/Books/Elementary linear algebra with applications. Solutions.pdf",
     "North South/CSE173/Practice.md",
+    "North South/MAT130/Books/Calculus.pdf",
+    "North South/MAT130/Books",
+    "North South/MAT130/New folder",
     "Computer Science/Python.md",
     "Computer Science/Project based learning.md",
     "Computer Science/Probability & Combinatrics.md",
@@ -219,23 +241,7 @@
     "Computer Science/Economics.md",
     "Computer Science/Digital Forensics.md",
     "Computer Science/Databases.md",
-    "Computer Science/Data Transmission.md",
-    "Computer Science/Data Structures & Algorithms.md",
-    "Computer Science/Data Analysis.md",
-    "Computer Science/Cyber Security.md",
-    "Computer Science/Cryptography.md",
-    "Computer Science/Computer Science.md",
-    "Computer Science/Computer Architecture.md",
-    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
-    "upload.bat",
-    "download.bat",
-    "pull.bat",
-    "push.bat",
-    "North South/CSE173/Syllabus/CSE_173_content.pdf",
     "Pasted image 20240709230337.png",
-    "New Text Document.txt",
-    "North South/CSE173/Practice/CSE 173 5.pdf",
-    "Reference pictures/Pasted image 20240625233012.png",
-    "Untitled.canvas"
+    "Reference pictures/Pasted image 20240625233012.png"
   ]
 }

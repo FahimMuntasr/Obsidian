@@ -4,6 +4,8 @@ Relations:
   - "[[Computer Science]]"
   - "[[AI and Data Science]]"
   - "[[Probability & Combinatrics]]"
+  - "[[Calculus and Analytic Geometry]]"
+  - "[[Introduction to Linear Algebra]]"
 Reference:
   - "[[CSE173 INTRODUCTION.pdf]]"
   - "[[PROPOSITIONAL LOGIC.pdf]]"
