@@ -47,8 +47,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +169,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md"
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
               }
             }
           }
@@ -192,11 +191,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "438a34c96c7c9f2b",
+  "active": "a1de6574f71b736b",
   "lastOpenFiles": [
-    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "North South/CSE173/Discrete Mathematics.md",
+    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
+    "North South/MAT125/Introduction to Linear Algebra.md",
+    "North South/MAT125/Syllabus/MAT125_content.pdf",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "North South/CSE173/Syllabus/CSE_173_content.pdf",
     "North South/ECO101/Syllabus/ECO 101 syllabus.pdf",
     "North South/ECO101/Introduction to Microeconomics.md",
@@ -206,9 +207,7 @@
     "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
     "North South/MAT130/Syllabus",
     "Computer Science/Computer Science.md",
-    "North South/MAT125/Introduction to Linear Algebra.md",
     "North South/MAT130/Calculus and Analytic Geometry.md",
-    "Topics",
     "Untitled.md",
     "2024-07-11.md",
     "Untitled 1.canvas",

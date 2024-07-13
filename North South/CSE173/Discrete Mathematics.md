@@ -221,21 +221,31 @@ $$P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$$
 $$P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$$
 # Predicate Quantifiers
 
+### Predicates
 Predicates: Statements that, due to lack of information are neither true or false.
 `x>3 is a predicate as without knowing the value of x we cannot definitively say if it is true or false.`
 Predicates are denoted as a propositional function;
 $$P(x)=x>3$$
 When we assign a value to x and **quantify** it, the propositional function becomes a proposition that is either TRUE or FALSE.
-
+### Quantifiers
 Types of quantifications:
 - Universal quantification: Where a predicate is true for every element in a set. Denoted by $$\forall xP(x)$$
 - Existential quantification: Where a predicate is true for at least one element in a set. Denoted by $$\exists xP(x)$$
-Negating quantified expressions
+$\forall$ and $\exists$ quantifiers have a higher precedence than all other logical operators
+$$\forall x(P(x)\land Q(x))\equiv\forall xP(x)\land\forall xQ(x)$$
+### Negating quantified expressions
 Let $P(x)$ denote 'It has rained today'
 Thus, $\forall xP(x)$ denotes 'It has rained everyday'
 Negating this function would give $\neg\forall xP(x)$ 'It is not the  case that it has rained everyday'
 This statement is the same as 'There is at least one day where it has not rained' which is denoted by $\exists x\neg P(x)$
 $$\therefore\neg\forall xP(x)\equiv\exists x\neg P(x)$$
+$$\therefore\neg\exists xP(x)\equiv\forall x\neg P(x)$$
+### Uniqueness quantifier
 
+When it is stated that 'There exists a unique singular value of $x$ such that $P(x)$ is true", it is denoted as $\exists !xP(x)$ 
 
-
+### Nested Quantifiers
+When one quantifier is within the scope of another quantifier it is called a nested quantifier.
+Example:
+$$\forall x\exists y P(x,y)$$
+This translates to; "For all values of $x$, there exists at least one value of $y$ for which $P(x,y)$ is true"
