@@ -251,3 +251,53 @@ $$\forall x\exists y P(x,y)$$
 This translates to; "For all values of $x$, there exists at least one value of $y$ for which $P(x,y)$ is true"
 
 ## Rules of Inference
+
+Inference : A conclusion based on reasoning and evidence.
+
+You must have a **valid** **argument** to prove anything in mathematics. 
+
+An argument is a sequence of statements that end with a conclusion, it is only valid when the conclusion follows the truth of the preceding premises/statements.
+
+Fallacies : Invalid arguments that are based on incorrect reasoning. 
+
+Example: If an argument is denoted by $p\to q$, it has 3 truth values ($p$,$q$,$p\to q$). If we have only 2 out of these 3 values we can *infer* the value of the third proposition.
+
+When $p\to q$ and $p$ are both true, the only possible value of $q$ is true . Hence we can *infer* $q$ is true.
+
+#### Modus Ponens
+ `Mode that affirms`
+$$(p\land(p\to q))\to q$$
+If $p$ is *true*, and $p$ implies $q$, $\therefore$ we can infer that $q$ is also *true* 
+	$p$
+	$p\to q$
+	$\therefore$ $q$
+#### Modus Tollens
+`Mode that denies`
+$$(\neg\land(p\to q))\to\neg p$$
+If $q$ is false, and $p$ implies $q$ is true, $\therefore$ we can infer that p is also *false*
+	$\neg q$
+	$p\to q$
+	$\therefore\neg p$
+#### Hypothetical syllogism
+`Syllogistic reasoning using two different hypothesis`
+$$((p\to q)\land(q\to r))\to(p\to r)$$
+If  $p$ implies $q$, and $q$ implies $r$, $\therefore$ we can infer that $p$ implies $r$
+	$p\to q$
+	$q\to r$
+	$\therefore p\to r$
+#### Disjunctive syllogism 
+`Syllogistic reasoning using disjunction`
+$$((p\lor q)\land\neg p)\to q$$
+If $p$ OR $q$ is *true*, and $p$ is *false*, $\therefore$ we can infer that $q$ is *true* 
+	$p\lor q$
+	$\neg p$
+	$\therefore q$
+#### Addition
+``
+$$p\to(p\lor q)$$
+If $p$ is *true*, $\therefore$ disjunction of $p$ and $q$ must be *true*
+	$p$
+	$\therefore p\lor q$
+#### Simplification
+
+$$(p\land q)\to p$$

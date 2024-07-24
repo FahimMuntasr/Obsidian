@@ -6,7 +6,6 @@
       {
         "id": "1a6a53d0da137f41",
         "type": "tabs",
-        "dimension": 45.65043894652833,
         "children": [
           {
             "id": "438a34c96c7c9f2b",
@@ -14,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/ECO101/Introduction to Microeconomics.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,27 +22,36 @@
         ]
       },
       {
-        "id": "80964bdc4646f2d2",
+        "id": "62ca509d9713e7e9",
         "type": "tabs",
-        "dimension": 54.34956105347167,
         "children": [
-          {
-            "id": "a1de6574f71b736b",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
-              }
-            }
-          },
           {
             "id": "9f1215e854e36028",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf"
+                "file": "North South/ECO101/Syllabus/ECO 101 syllabus.pdf"
+              }
+            }
+          },
+          {
+            "id": "a1de6574f71b736b",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf"
+              }
+            }
+          },
+          {
+            "id": "f230e85460d4f7bd",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/ECO101/Books/(R)Economics.pdf"
               }
             }
           }
@@ -60,7 +68,7 @@
       {
         "id": "3a016246b5a99509",
         "type": "tabs",
-        "dimension": 64.42307692307692,
+        "dimension": 65.86538461538461,
         "children": [
           {
             "id": "5440f253ae6670d2",
@@ -100,7 +108,7 @@
       {
         "id": "afa6b77bf16fe815",
         "type": "tabs",
-        "dimension": 35.57692307692307,
+        "dimension": 34.13461538461539,
         "children": [
           {
             "id": "16439f88e92caa36",
@@ -114,7 +122,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 362.5026054382324
+    "width": 309.5026054382324
   },
   "right": {
     "id": "cedfcefe3f824f43",
@@ -130,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md"
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf"
               }
             }
           }
@@ -192,21 +200,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "16439f88e92caa36",
+  "active": "a1de6574f71b736b",
   "lastOpenFiles": [
-    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
-    "North South/CSE173/Discrete Mathematics.md",
-    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
-    "North South/MAT125/Introduction to Linear Algebra.md",
-    "North South/MAT125/Syllabus/MAT125_content.pdf",
-    "North South/CSE173/Syllabus/CSE_173_content.pdf",
-    "North South/ECO101/Syllabus/ECO 101 syllabus.pdf",
     "North South/ECO101/Introduction to Microeconomics.md",
-    "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+    "North South/ECO101/Syllabus/ECO 101 syllabus.pdf",
+    "North South/CSE173/Discrete Mathematics.md",
+    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
     "North South/ECO101/Books/(R)Economics.pdf",
-    "North South/MAT125/Books/Elementary linear algebra with applications. Solutions.pdf",
-    "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
+    "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "Computer Science/C.md",
+    "scripts/Windows/upload.bat",
+    "scripts/Windows/download.bat",
+    "scripts/Linux/push.sh",
+    "scripts/Linux/pull.sh",
+    "scripts/Windows",
+    "North South/MAT125/Introduction to Linear Algebra.md",
     "Computer Science/Computer Science.md",
     "North South/MAT130/Calculus and Analytic Geometry.md",
     "Untitled.md",
@@ -230,7 +239,6 @@
     "Computer Science/Frontend.md",
     "Computer Science/Economics.md",
     "Computer Science/Digital Forensics.md",
-    "Computer Science/Databases.md",
     "Pasted image 20240709230337.png",
     "Reference pictures/Pasted image 20240625233012.png"
   ]
