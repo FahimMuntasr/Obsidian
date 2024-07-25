@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "eecd04af410f8d58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Reference/Clipboard.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "f230e85460d4f7bd",
             "type": "leaf",
             "state": {
@@ -56,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -138,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+                "file": "Reference/Clipboard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+                "file": "Reference/Clipboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +190,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf"
+                "file": "Reference/Clipboard.md"
               }
             }
           }
@@ -200,14 +212,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1de6574f71b736b",
+  "active": "eecd04af410f8d58",
   "lastOpenFiles": [
+    "Reference/Pasted image 20240725113750.png",
+    "Reference/Pasted image 20240725114028.png",
+    "Reference/Pasted image 20240725112946.png",
+    "Reference/Clipboard.md",
+    "Reference/Pasted image 20240725031950.png",
+    "Pasted image 20240725113150.png",
+    "Untitled 1.md",
+    "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
     "North South/ECO101/Introduction to Microeconomics.md",
     "North South/ECO101/Syllabus/ECO 101 syllabus.pdf",
     "North South/CSE173/Discrete Mathematics.md",
     "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
     "North South/ECO101/Books/(R)Economics.pdf",
-    "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
     "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "Computer Science/C.md",
     "scripts/Windows/upload.bat",
@@ -218,7 +237,6 @@
     "North South/MAT125/Introduction to Linear Algebra.md",
     "Computer Science/Computer Science.md",
     "North South/MAT130/Calculus and Analytic Geometry.md",
-    "Untitled.md",
     "2024-07-11.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
@@ -238,7 +256,6 @@
     "Computer Science/Full Stack.md",
     "Computer Science/Frontend.md",
     "Computer Science/Economics.md",
-    "Computer Science/Digital Forensics.md",
     "Pasted image 20240709230337.png",
     "Reference pictures/Pasted image 20240625233012.png"
   ]
