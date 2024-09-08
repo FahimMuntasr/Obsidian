@@ -96,12 +96,12 @@ Possible scenarios :
 3. It did not rain today ($P$ is false), but the ground still got wet because of some other reason ($Q$ is true). This statement does not **contradict** the original proposition, $P\to Q$ is still true in this situation.
 4. It did not rain today ($P$ is false), and the ground did not get wet ($Q$ is false). This supports the original proposition so $P\to Q$ is true in this situation.
 
-| $P$ | $Q$ | $P\to Q$ |
-| --- | --- | -------- |
-| $T$ | $T$ | $T$      |
-| $T$ | $F$ | $F$      |
-| $F$ | $T$ | $T$      |
-| $F$ | $F$ | $T$      |
+| $P$ | $Q$ | $P\to Q$ | $\neg P \lor Q$ |
+| --- | --- | -------- | --------------- |
+| $T$ | $T$ | $T$      | $T$             |
+| $T$ | $F$ | $F$      | $F$             |
+| $F$ | $T$ | $T$      | $T$             |
+| $F$ | $F$ | $T$      | $T$             |
 
 **Biconditional statement** : Denoted by $P\leftrightarrow Q$, true only when both $P$ and $Q$ have same values and false otherwise.
 
@@ -196,13 +196,12 @@ Similarly, for $n$ propositional variables;
 Practice : 
 Prove $(p\land q)\to(p\lor q)$ is a tautology.
 
-A tautology is a always true.
-$(p\land q)\to(p\lor q)\equiv \neg (p\land q)\lor (p\lor q)$
-$\equiv (\neg p \lor \neg q) \lor (p \lor q)$
-$\equiv (\neg p \lor p) \lor (\neg q\lor q)$ 
-$\equiv T \lor T$
-$\equiv T$
-
+A tautology is always true.
+$(p\land q)\to(p\lor q) \equiv \neg(p\land q)\lor (p\lor q)$
+$\neg(p\land q)\lor (p\lor q)\equiv\neg p \lor \neg q \lor(p\lor q)$
+$\neg p \lor \neg q \lor(p\lor q)\equiv (\neg p\lor p)\lor(\neg q\lor q)$
+$(\neg p\lor p)\lor(\neg q\lor q)\equiv T \lor T$
+$T \lor T\equiv T$
 Some important logical equivalencies:
 $$\neg(P\lor Q) \equiv \neg P\land \neg Q$$
 $$\neg(P\land Q) \equiv \neg P\lor \neg Q$$
@@ -222,7 +221,7 @@ $$P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$$
 ## Predicate Quantifiers
 
 #### Predicates
-Predicates: Statements that, due to lack of information are neither true or false.
+Predicates: Statements that, due to lack of information, are neither true or false.
 `x>3 is a predicate as without knowing the value of x we cannot definitively say if it is true or false.`
 Predicates are denoted as a propositional function;
 $$P(x)=x>3$$
@@ -273,7 +272,7 @@ If $p$ is *true*, and $p$ implies $q$, $\therefore$ we can infer that $q$ is als
 	$\therefore$ $q$
 #### Modus Tollens
 `Mode that denies`
-$$(\neg\land(p\to q))\to\neg p$$
+$$(\neg q\land(p\to q))\to\neg p$$
 If $q$ is false, and $p$ implies $q$ is true, $\therefore$ we can infer that p is also *false*
 	$\neg q$
 	$p\to q$
@@ -293,7 +292,6 @@ If $p$ OR $q$ is *true*, and $p$ is *false*, $\therefore$ we can infer that $q$ 
 	$\neg p$
 	$\therefore q$
 #### Addition
-``
 $$p\to(p\lor q)$$
 If $p$ is *true*, $\therefore$ disjunction of $p$ and $q$ must be *true*
 	$p$

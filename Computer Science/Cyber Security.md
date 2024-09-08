@@ -5,6 +5,7 @@ Relations:
   - "[[Networking]]"
   - "[[Cryptography]]"
   - "[[Data Transmission]]"
+  - "[[Python]]"
 ---
 
 ### Types of penetration tests
