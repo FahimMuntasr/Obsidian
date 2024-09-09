@@ -4,45 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "bf4cffe3490c824f",
-        "type": "split",
+        "id": "d87da73228e2e197",
+        "type": "tabs",
         "children": [
           {
-            "id": "c39a175250d80c71",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "111c4f586d29ae73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "North South/CSE173/Discrete Mathematics.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
+            "id": "b7ef332a804a6bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutoring/Adia A2/Unit 4/Topical/4.4 Capacitance.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           },
           {
-            "id": "d750a45b4f1076ca",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c6a25270a6d7d324",
-                "type": "leaf",
-                "state": {
-                  "type": "pdf",
-                  "state": {
-                    "file": "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf"
-                  }
-                }
+            "id": "e974ffbcef87ffa3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
+                "mode": "source",
+                "source": false
               }
-            ]
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md"
+                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md"
               }
             }
           }
@@ -186,54 +176,55 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "111c4f586d29ae73",
+  "active": "e974ffbcef87ffa3",
   "lastOpenFiles": [
-    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical PDF/1.6 Stretching Materials.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical/1.5 Density, Upthrust & Viscous Drag.md",
+    "Tutoring/Adia A2/Unit 1/Topical PDF/1.5 Density, Upthrust & Viscous Drag.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical/1.4 Work, Energy & Power.md",
+    "Tutoring/Adia A2/Unit 1/Topical PDF/1.4 Work, Energy & Power.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical/1.3 Moments.md",
+    "Tutoring/Adia A2/Unit 1/Topical PDF/1.3 Moments.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical/1.2 Forces & Momentum.md",
+    "Tutoring/Adia A2/Unit 1/Topical PDF/1.2 Forces & Momentum.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical/1.1 Motion.md",
+    "Tutoring/Adia A2/Unit 1/Topical PDF/1.1 Motion.pdf",
+    "Tutoring/Adia A2/Unit 1/Topical PDF",
+    "Tutoring/Adia A2/Unit 1/New folder",
+    "Pasted image 20240908234642.png",
+    "Pasted image 20240908234634.png",
+    "Pasted image 20240908234610.png",
+    "Pasted image 20240908234601.png",
+    "Pasted image 20240908234553.png",
+    "Pasted image 20240908234538.png",
+    "Pasted image 20240908234532.png",
+    "Pasted image 20240908234515.png",
+    "Tutoring/Adia A2/Unit 4/Topical/4.4 Capacitance.md",
+    "4.5 Magnetic Fields.md",
+    "Pasted image 20240908234353.png",
+    "Pasted image 20240908234348.png",
+    "Tutoring/Adia A2/Unit 4/Topical/4.3 Electric Fields.md",
+    "Tutoring/Adia A2/Unit 4/Topical/4.2 Circular Motion.md",
+    "Tutoring/Adia A2/Unit 4/Topical/4.1 Momentum & Impudence.md",
+    "Tutoring/Adia A2/Unit 4/Topical",
+    "Tutoring/Adia A2/Unit 4/Past Papers",
+    "Tutoring/Adia A2/Unit 4",
+    "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
+    "Tutoring/Adia A2/Untitled.md",
+    "Tutoring/Adia A2/Study Plan.md",
     "North South/CSE173/Discrete Mathematics.md",
     "Tutoring/Adia A2/Physics Formulae.md",
-    "Diagrams/perpendicular-distance-downloadable-as-and-a-level-physics-revision-notesperpendicular-distance-downloadable-as-and-a-level-physics-revision-notes.avif",
-    "Diagrams/2.1.2-Projectile-Motion.avif",
-    "Pasted image 20240905214912.png",
-    "Diagrams/1.1.3-Resolving-Vectors_1.avif",
-    "Diagrams",
-    "Diagrams/2.1.1-Motion-graphs-3.avif",
-    "Diagrams/2.1.1-Motion-graphs-2.avif",
-    "Diagrams/2.1.1-Motion-graphs-1.avif",
-    "Tutoring/Sifat O'level",
-    "Tutoring/Adia A2",
-    "Tutoring",
     "Computer Science/Linux.md",
     "Reference/Wifi Hack/WPA2 hacking.md",
     "Computer Science/Cyber Security.md",
     "Computer Science/Networking.md",
-    "Reference/Wifi Hack",
     "Computer Science/Python.md",
     "Computer Science/Operating Systems.md",
-    "Books/linux-commands-handbook.pdf",
-    "Books/linux-commands-handbook.pdf.crdownload",
-    "Reference/Pasted image 20240725114028.png",
-    "Reference/Pasted image 20240725113750.png",
     "Reference/Clipboard.md",
     "North South/ECO101/Introduction to Microeconomics.md",
-    "Reference/Pasted image 20240725112946.png",
     "Untitled 1.md",
-    "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
     "Computer Science/C.md",
-    "North South/MAT125/Introduction to Linear Algebra.md",
-    "Computer Science/Computer Science.md",
-    "North South/MAT130/Calculus and Analytic Geometry.md",
-    "2024-07-11.md",
     "Untitled 1.canvas",
-    "Untitled.canvas",
-    "Topics/Mathematics.md",
-    "North South/CSE173/Practice.md",
-    "Computer Science/Project based learning.md",
-    "Computer Science/Probability & Combinatrics.md",
-    "Computer Science/Node.js.md",
-    "Computer Science/MongoDB.md",
-    "Computer Science/Languages.md",
-    "Computer Science/JavaScript.md",
-    "Computer Science/Java.md"
+    "Untitled.canvas"
   ]
 }
