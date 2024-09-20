@@ -30,7 +30,7 @@ Practice:
 Books:
   - "[[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]"
 ---
-# Foundational Logic and Proofs
+ # Foundational Logic and Proofs
 ## Propositional Logic
 
 Syllogism : A logical argument which relies on two or more propositions to come to a conclusion.
@@ -65,12 +65,12 @@ $P\land Q$ is true when BOTH $P$ and $Q$ is true.
 $P\lor Q$ is true when either $P$ and/or $Q$ is true.
 `Same as an OR gate`
 
-| $P$ | $Q$ | $P\lor Q$ |
-| --- | --- | --------- |
-| $T$ | $T$ | $T$       |
-| $T$ | $F$ | $T$       |
-| $F$ | $T$ | $T$       |
-| $F$ | $F$ | $F$       |
+| $P$ | $Q$ | $P\lor Q$ |     |
+| --- | --- | --------- | --- |
+| $T$ | $T$ | $T$       |     |
+| $T$ | $F$ | $T$       |     |
+| $F$ | $T$ | $T$       |     |
+| $F$ | $F$ | $F$       |     |
 
 **Exclusive or** : If $P$ and $Q$ are propositions, the *exclusive or* of $P$ and $Q$ is $P\oplus Q$.
 $P\oplus Q$ is true exclusively when either $P$ or $Q$ is true, but false when both have the same value.

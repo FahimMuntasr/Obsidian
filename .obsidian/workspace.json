@@ -4,35 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d87da73228e2e197",
+        "id": "759d747d54d29050",
         "type": "tabs",
         "children": [
           {
-            "id": "b7ef332a804a6bf5",
+            "id": "99e7d2d103d32f44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Tutoring/Adia A2/Unit 4/Topical/4.4 Capacitance.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e974ffbcef87ffa3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
-                "mode": "source",
-                "source": false
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md"
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
               }
             }
           }
@@ -176,21 +161,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e974ffbcef87ffa3",
+  "active": "99e7d2d103d32f44",
   "lastOpenFiles": [
-    "Tutoring/Adia A2/Unit 1/Topical PDF/1.6 Stretching Materials.pdf",
+    "North South/CSE173/Assignments/CSE173_Assignment_1.pdf",
+    "North South/CSE173/Assignments",
+    "North South/CSE173/New folder",
+    "North South/CSE173/Discrete Mathematics.md",
+    "North South/MAT130/Books/Calculus.pdf",
+    "North South/MAT125/Books/Elementary linear algebra with applications. Solutions.pdf",
+    "North South/MAT130/Calculus and Analytic Geometry.md",
+    "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
+    "North South/CSE173/Practice/CSE 173 0.pdf",
+    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
+    "North South/CSE173/Lectures/4/PROOF TECHNIQUES.pdf",
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
+    "Tutoring/Adia A2/Unit 4/Topical/4.2 Circular Motion.md",
+    "Tutoring/Adia A2/Unit 4/Topical/4.1 Momentum & Impudence.md",
+    "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.5 Density, Upthrust & Viscous Drag.md",
-    "Tutoring/Adia A2/Unit 1/Topical PDF/1.5 Density, Upthrust & Viscous Drag.pdf",
     "Tutoring/Adia A2/Unit 1/Topical/1.4 Work, Energy & Power.md",
-    "Tutoring/Adia A2/Unit 1/Topical PDF/1.4 Work, Energy & Power.pdf",
     "Tutoring/Adia A2/Unit 1/Topical/1.3 Moments.md",
-    "Tutoring/Adia A2/Unit 1/Topical PDF/1.3 Moments.pdf",
     "Tutoring/Adia A2/Unit 1/Topical/1.2 Forces & Momentum.md",
-    "Tutoring/Adia A2/Unit 1/Topical PDF/1.2 Forces & Momentum.pdf",
     "Tutoring/Adia A2/Unit 1/Topical/1.1 Motion.md",
-    "Tutoring/Adia A2/Unit 1/Topical PDF/1.1 Motion.pdf",
-    "Tutoring/Adia A2/Unit 1/Topical PDF",
-    "Tutoring/Adia A2/Unit 1/New folder",
     "Pasted image 20240908234642.png",
     "Pasted image 20240908234634.png",
     "Pasted image 20240908234610.png",
@@ -204,15 +197,8 @@
     "Pasted image 20240908234353.png",
     "Pasted image 20240908234348.png",
     "Tutoring/Adia A2/Unit 4/Topical/4.3 Electric Fields.md",
-    "Tutoring/Adia A2/Unit 4/Topical/4.2 Circular Motion.md",
-    "Tutoring/Adia A2/Unit 4/Topical/4.1 Momentum & Impudence.md",
-    "Tutoring/Adia A2/Unit 4/Topical",
-    "Tutoring/Adia A2/Unit 4/Past Papers",
-    "Tutoring/Adia A2/Unit 4",
-    "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
     "Tutoring/Adia A2/Untitled.md",
     "Tutoring/Adia A2/Study Plan.md",
-    "North South/CSE173/Discrete Mathematics.md",
     "Tutoring/Adia A2/Physics Formulae.md",
     "Computer Science/Linux.md",
     "Reference/Wifi Hack/WPA2 hacking.md",
@@ -223,7 +209,6 @@
     "Reference/Clipboard.md",
     "North South/ECO101/Introduction to Microeconomics.md",
     "Untitled 1.md",
-    "Computer Science/C.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
