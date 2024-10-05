@@ -36,5 +36,32 @@ $$\int\frac{du}{u\sqrt{a^2-u^2}}=-\frac{1}{a}\ln\left|\frac{a+\sqrt{a^2-u^2}}{u}
 $$\int\frac{du}{u\sqrt{a^2+u^2}}=-\frac{1}{a}\ln\left|\frac{a+\sqrt{a^2+u^2}}{u}\right|+C$$
 ---
 $$\int f(x)g(x)\;dx = f(x)G(x)\;dx\;-\int f'(x)G(x)\;dx\; ,\;G(x) = \int g(x)\;dx$$
-$$\int\sin ^n x\;dx=-\frac{1}{n}\sin ^{n-1}x\cos x+\frac{n-1}{n}\int\sin^{n-2}x\;dx$$
-$$\int\cos^nx\;dx=\frac{1}{n}\cos^{n-1}x\sin x+\frac{n-1}{n}\int\cos^{n-2}x\;dx$$
+---
+$$\int\sin ^n x\;dx=-\frac{\sin ^{n-1}x\cos x}{n}+\frac{n-1}{n}\int\sin^{n-2}x\;dx$$
+$$\int\cos^nx\;dx=\frac{\cos^{n-1}x\sin x}{n}+\frac{n-1}{n}\int\cos^{n-2}x\;dx$$
+For $\int\sin ^mx\cos ^nx\;dx$ ;
+$n$ is odd, $u=\sin x$ , $\cos ^2x=1-\sin ^2x$
+$m$ is odd,$u=\cos x$ , $\sin ^2x = 1-\cos ^2x$
+$m$ and $n$ is even, $\sin^2x=\frac{1}{2}(1-\cos2x)$, $\cos^2x=\frac{1}{2}(1+\cos2x)$
+
+---
+
+$$\int\tan^n\;dx=\frac{\tan^{n-1}x}{n-1}-\int\tan^{n-2}x\;dx$$
+$$\int\sec^nx\;dx=\frac{\sec^{n-2}x\;tanx}{n-1}+\frac{n-2}{n-1}\int\sec^{n-2}x\;dx$$
+$$\int\tan x\;dx=\ln|\sec x|+C$$
+$$\int\sec x\;dx=\ln|\sec x+\tan x|+C$$
+For $\int\tan^mx\sec^nx\;dx$ ;
+$n$ is even, $u=\tan x$ , $\sec ^2x=\tan ^2x+1$
+$m$ is odd,$u=\sec x$ , $\tan ^2x =\sec ^2x-1$
+$m$ is even and $n$ is odd, $\tan ^2x =\sec ^2x-1$
+
+---
+
+$$\sin\alpha\cos\beta=\frac{1}{2}[\sin(\alpha-\beta)+\sin(\alpha+\beta)]$$
+$$\sin\alpha\sin\beta=\frac{1}{2}[\cos(\alpha-\beta)-\cos(\alpha+\beta)]$$
+$$\cos\alpha\cos\beta=\frac{1}{2}[\cos(\alpha-\beta)+\cos(\alpha+\beta)]$$
+---
+Trigonometric substitutions;
+$\sqrt{a^2-x^2} \rightarrow x=a\sin\theta\rightarrow a^2-a^2\sin ^2\theta\rightarrow a^2(1-\sin ^2\theta)\rightarrow a^2\cos ^2\theta$ 
+$\sqrt{a^2+x^2}\rightarrow x=a\tan\theta\rightarrow a^2+a^2\tan ^2\theta\rightarrow a^2(1+\tan ^2\theta)\rightarrow a^2\sec ^2\theta$
+$\sqrt{x^2-a^2}\rightarrow x=a\sec\theta\rightarrow a^2\sec ^2\theta -a^2\rightarrow a^2(\sec ^2\theta -1)\rightarrow a^2\tan ^2\theta$

@@ -4,16 +4,58 @@
     "type": "split",
     "children": [
       {
-        "id": "759d747d54d29050",
+        "id": "8f3e17331922e8fd",
         "type": "tabs",
+        "dimension": 55.08849557522124,
         "children": [
           {
-            "id": "99e7d2d103d32f44",
+            "id": "79c3716e43901f87",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+                "file": "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf"
+              }
+            }
+          },
+          {
+            "id": "ef2b6684e950b163",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a1f06f83fcaad40a",
+        "type": "tabs",
+        "dimension": 44.91150442477876,
+        "children": [
+          {
+            "id": "3161b163ab2e15b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "North South/CSE173/Chapter-1 Questions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e323b4ae9e2562b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "North South/CSE173/Discrete Mathematics.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -78,8 +120,21 @@
               "type": "graph",
               "state": {}
             }
+          },
+          {
+            "id": "6f58d741e9e0cd47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To-Do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -99,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+                "file": "North South/CSE173/Chapter-1 Questions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+                "file": "North South/CSE173/Chapter-1 Questions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+                "file": "North South/CSE173/Chapter-1 Questions.md"
               }
             }
           }
@@ -161,21 +216,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "99e7d2d103d32f44",
+  "active": "3161b163ab2e15b2",
   "lastOpenFiles": [
-    "North South/CSE173/Assignments/CSE173_Assignment_1.pdf",
-    "North South/CSE173/Assignments",
-    "North South/CSE173/New folder",
+    "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf",
     "North South/CSE173/Discrete Mathematics.md",
-    "North South/MAT130/Books/Calculus.pdf",
-    "North South/MAT125/Books/Elementary linear algebra with applications. Solutions.pdf",
-    "North South/MAT130/Calculus and Analytic Geometry.md",
-    "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
-    "North South/CSE173/Practice/CSE 173 0.pdf",
-    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
-    "North South/CSE173/Lectures/4/PROOF TECHNIQUES.pdf",
+    "North South/CSE173/Chapter-1 Questions.md",
+    "To-Do.md",
     "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "Reference/Pasted image 20241004120326.png",
+    "Reference/Pasted image 20241004120128.png",
+    "Reference/Pasted image 20241004120119.png",
+    "Reference/Pasted image 20241004120112.png",
+    "Reference/Pasted image 20241004120104.png",
+    "Reference/Pasted image 20241004115229.png",
+    "Reference/Pasted image 20241004113522.png",
+    "Tutoring/Adia A2/Unit 1/Unit-1 Mock-1.md",
+    "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf.crdownload",
+    "Reference/Pasted image 20241002181356.png",
+    "North South/CSE173/Lectures/4/PROOF TECHNIQUES.pdf",
+    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
+    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
+    "North South/CSE173/Lectures/0/CSE173 INTRODUCTION.pdf",
+    "North South/MAT125/Introduction to Linear Algebra.md",
     "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
+    "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
+    "North South/MAT125/Books/Elementary linear algebra with applications. Solutions.pdf",
+    "North South/ECO101/Introduction to Microeconomics.md",
+    "North South/MAT130/Calculus and Analytic Geometry.md",
     "Tutoring/Adia A2/Unit 4/Topical/4.2 Circular Motion.md",
     "Tutoring/Adia A2/Unit 4/Topical/4.1 Momentum & Impudence.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
@@ -186,16 +253,8 @@
     "Tutoring/Adia A2/Unit 1/Topical/1.1 Motion.md",
     "Pasted image 20240908234642.png",
     "Pasted image 20240908234634.png",
-    "Pasted image 20240908234610.png",
-    "Pasted image 20240908234601.png",
-    "Pasted image 20240908234553.png",
-    "Pasted image 20240908234538.png",
-    "Pasted image 20240908234532.png",
-    "Pasted image 20240908234515.png",
     "Tutoring/Adia A2/Unit 4/Topical/4.4 Capacitance.md",
     "4.5 Magnetic Fields.md",
-    "Pasted image 20240908234353.png",
-    "Pasted image 20240908234348.png",
     "Tutoring/Adia A2/Unit 4/Topical/4.3 Electric Fields.md",
     "Tutoring/Adia A2/Untitled.md",
     "Tutoring/Adia A2/Study Plan.md",
@@ -204,11 +263,6 @@
     "Reference/Wifi Hack/WPA2 hacking.md",
     "Computer Science/Cyber Security.md",
     "Computer Science/Networking.md",
-    "Computer Science/Python.md",
-    "Computer Science/Operating Systems.md",
-    "Reference/Clipboard.md",
-    "North South/ECO101/Introduction to Microeconomics.md",
-    "Untitled 1.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

@@ -30,6 +30,7 @@ Practice:
 Books:
   - "[[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]"
 ---
+`Fahim Muntasir` 
  # Foundational Logic and Proofs
 ## Propositional Logic
 
@@ -203,21 +204,22 @@ $\neg p \lor \neg q \lor(p\lor q)\equiv (\neg p\lor p)\lor(\neg q\lor q)$
 $(\neg p\lor p)\lor(\neg q\lor q)\equiv T \lor T$
 $T \lor T\equiv T$
 Some important logical equivalencies:
-$$\neg(P\lor Q) \equiv \neg P\land \neg Q$$
-$$\neg(P\land Q) \equiv \neg P\lor \neg Q$$
-$$\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$$
-$$\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$$
-$$(P\to Q) \equiv (\neg P \lor Q)$$
-$$P\land T\equiv P$$
-$$P\land F\equiv F$$
-$$P\lor F\equiv P$$
-$$P\lor T\equiv T$$
-$$(P\lor Q)\lor R\equiv P \lor (Q\lor R)$$
-$$(P\land Q)\land R\equiv P \land (Q\land R)$$
-$$P\lor Q\equiv Q\lor P$$
-$$P\land Q\equiv Q\land P$$
-$$P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$$
-$$P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$$
+
+| Equivalence                                                                                                                                                                                                                                                                                                         | Name                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| $$P\land T\equiv P$$$$P\lor F\equiv P$$                                                                                                                                                                                                                                                                             | Identity laws               |
+| $$P\land F\equiv F$$$$P\lor T\equiv T\;$$                                                                                                                                                                                                                                                                           | Domination laws             |
+| $$P\land P\equiv P $$$$P\lor P\equiv P$$                                                                                                                                                                                                                                                                            | Idempotent laws             |
+| $$\neg(\neg P)\equiv P$$                                                                                                                                                                                                                                                                                            | Double negation law         |
+| $$P\lor Q\equiv Q\lor P$$$$P\land Q\equiv Q\land P$$                                                                                                                                                                                                                                                                | Commutative laws            |
+| $$(P\lor Q)\lor R\equiv P \lor (Q\lor R)$$<br>$$(P\land Q)\land R\equiv P \land (Q\land R)$$                                                                                                                                                                                                                        | Associative laws            |
+| $$P\lor(Q\land R)\equiv(P\lor Q)\land (P\lor R)$$<br>$$P\land(Q\lor R)\equiv(P\land Q)\lor (P\land R)$$                                                                                                                                                                                                             | Distributive laws           |
+| $$\neg(P\lor Q) \equiv \neg P\land \neg Q$$<br>$$\neg(P\land Q) \equiv \neg P\lor \neg Q$$<br>$$\neg(P_1\lor P_2\lor P_3 ... \lor P_n) \equiv \neg P_1\land \neg P_2\land \neg P_3 ... \land \neg P_n$$<br>$$\neg(P_1\land P_2\land P_3 ... \lor P_n) \equiv \neg P_1\lor \neg P_2\lor \neg P_3 ... \lor \neg P_n$$ | De Morgan's laws            |
+| $$(P\to Q) \equiv (\neg P \lor Q)$$                                                                                                                                                                                                                                                                                 | Definition of Implication   |
+| $$P\lor(P\land Q)\equiv P$$$$P\land(P\lor Q)\equiv P$$                                                                                                                                                                                                                                                              | Absorption laws             |
+| $$P\lor\neg P\equiv T$$$$P\land\neg P\equiv F$$                                                                                                                                                                                                                                                                     | Negation laws               |
+| $$P\leftrightarrow Q\equiv (P\to Q)\land(Q\to P)$$                                                                                                                                                                                                                                                                  | Definition of biconditional |
+
 ## Predicate Quantifiers
 
 #### Predicates
@@ -245,13 +247,17 @@ When it is stated that 'There exists a unique singular value of $x$ such that $P
 
 #### Nested Quantifiers
 When one quantifier is within the scope of another quantifier it is called a nested quantifier.
-Example:
-$$\forall x\exists y P(x,y)$$
-This translates to; "For all values of $x$, there exists at least one value of $y$ for which $P(x,y)$ is true"
+
+| Statement                                            | When True                                                | When False                                                |
+| ---------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------------- |
+| $\forall x\forall yP(x,y)$$\forall y\forall xP(x,y)$ | $P(x,y)$ is true for every pair $x,y$                    | There is a pair $x,y$ for which $P(x,y)$ is false         |
+| $\forall x\exists yP(x,y)$                           | For every $x$ there is a $y$ for which $P(x,y)$ is true  | There is an $x$ such that $P(x,y)$ is false for every $y$ |
+| $\exists x\forall yP(x,y)$                           | There is an $x$ for which $P(x,y)$ is true for every $y$ | For every $x$ there is a $y$ for which $P(x,y)$ is false  |
+| $\exists x\exists yP(x,y)$$\exists y\exists xP(x,y)$ | There is a pair $x,y$ for which $P(x,y)$ is true         | $P(x,y)$ is false for every pair $x,y$.                   |
 
 ## Rules of Inference
 
-Inference : A conclusion based on reasoning and evidence.
+Inference : The process of reaching a conclusion using premises
 
 You must have a **valid** **argument** to prove anything in mathematics. 
 
@@ -263,6 +269,7 @@ Example: If an argument is denoted by $p\to q$, it has 3 truth values ($p$,$q$,$
 
 When $p\to q$ and $p$ are both true, the only possible value of $q$ is true . Hence we can *infer* $q$ is true.
 
+### Inference Laws
 #### Modus Ponens
  `Mode that affirms`
 $$(p\land(p\to q))\to q$$
@@ -297,5 +304,75 @@ If $p$ is *true*, $\therefore$ disjunction of $p$ and $q$ must be *true*
 	$p$
 	$\therefore p\lor q$
 #### Simplification
-
 $$(p\land q)\to p$$
+If both $p$ AND $q$ are *true*, $\therefore$ $p$ must also be *true*
+	$p\land q$
+	$\therefore p$
+#### Conjunction
+$$((p)\land(q))\to(p\land q)$$
+If $p$ is *true*, and $q$ is also *true*, $\therefore$ Conjunction between $p$ and $q$ must also be *true* 
+	$p$
+	$q$
+	$\therefore p\land q$
+#### Resolution
+$$((p\lor q)\land(\neg p\lor r))\to(q\lor r)$$
+If $p$ OR $q$ is true, and negation of $p$ or $r$ is also true, $\therefore$ Disjunction between $q$ and $r$ must be *true*
+	$p\lor q$
+	$\neg p\lor r$
+	$\therefore q\lor r$
+
+### Validity of an argument
+If an argument consists of $n$ number of $p$ premises and a conclusion $q$, the argument is only valid when $(p_1\land p_2\land p_3\land ...\land p_n)\to q$ is a tautology
+## Proof Techniques
+**Theorem**: A statement that can be shown to be true
+
+**Axioms**: Statements that we assume to be true
+
+**Lemma**: A less important theorem that is helpful in the proof of other results
+
+**Corrolary**: It is a theorem that can be established directly from a proven theorem
+
+**Conjecture**: A statement that is proposed as true statement, usually on the basis of some partial evidence.
+
+### Types of proof
+
+**Direct proof** : Use of standard rules of inference to draw a conclusion without changing the problem statement.
+	Example: Prove that if $m$ is even and $n$ is odd, their sum is always odd
+	$n = 2k+1\;,\;k\in\mathbb{Z}$
+	$m = 2j\;,\;j\in\mathbb{Z}$
+	$\therefore m+n = 2j+2k+1 = 2(j+k) + 1$ 
+	As both $j$ and $k$ are integers ($\mathbb{Z}$), $j+k$ must also be an integer. Therefore $m+n$ is odd by definition.
+
+**Indirect proof** : Changing the problem statement and proving the new statement
+
+Types of Indirect Proof
+- Contrapositive : if we cant directly prove $p\to q$, we can prove the contrapositive of the statement which is $\neg q\to\neg p$   
+	Example: Given $n\in\mathbb{Z}$ and $3n+2$ is odd, show that $n$ is odd.
+	$p$ : $3n+2$ is odd
+	$q$ : $n$ is odd
+	Problem statement in propositional terms ; $p\to q$
+	The contrapositive of this statement is $\neg q\to\neg p$
+	Which translates to : If $n$ is even, $3n+2$ is even (Proving this will prove the original statement).
+	$n = 2k\;,\;k\in\mathbb{Z}$
+	$\therefore 3n+2=3(2k)+2 = 2(3k+1)$ (Even number definition).
+	As $\neg q\to\neg p$ has been proven, this indirectly proves $p\to q$
+- Proof by cases : Given $x$ is an integer, prove  that $x^2 +x$ is even
+	Here there are two cases where $x$ can either be even or odd, if both of these individual cases can be proven then the problem statement can be proven to be true.
+	Case 1
+		$p:x = 2n$ (even)
+		$x^2+x=(2n)^2+2n=4n^2+2n=2(2n^2+n)$ (even)
+	Case 2
+		$q:x=2n+1$ (odd)
+		$x^2+x=(2n+1)^2+2n+1= (4n^2+6n+2) = 2(2n^2+3n+1)$ (even)
+	As both cases are true, the problem statement is also proved.
+- Proof by contradiction : Instead of proving the statement, we can prove the negation of the statement to be false.
+	Example: Prove that $\sqrt 2$ is irrational.
+	$P : \sqrt 2 \in\mathbb{I}$
+	$\neg P:\sqrt 2\in\mathbb{Q}$
+	All rational numbers can be expressed in the form $\frac{P}{Q}$ where it is in its lowest terms.
+	$\sqrt 2 = \frac{P}{Q}$
+	$2 = \frac{P^2}{Q^2}$
+	$P^2=2Q^2$ ($P^2$ is in even form , $\therefore P$ is also even)
+	$(2k)^2 = 2Q^2 \equiv 2k^2 = Q^2$($\therefore Q$ is also even)  
+	As both $P$ and $Q$ are even, both of them have a common factor of $2$ , which contradicts with the fact that $\frac{P}{Q}$ has to be in its lowest terms.
+	As we proved the negation of $P$ to be false, this proves $P$ to be true $[\neg(\neg P)\equiv P\equiv T]$  

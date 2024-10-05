@@ -1,0 +1,8 @@
+- [ ] Catch up to CSE173
+- [x] Catch up to MAT125
+- [x] Catch up to MAT130
+- [ ] Catch up to ECO101
+- [x] Catch up to CSE215
+- [ ] Learn REACT
+- [x] Create a question paper for Adia (Unit 1)
+- [x] Finish Logo anim
