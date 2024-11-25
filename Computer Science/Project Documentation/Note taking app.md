@@ -1,0 +1,13 @@
+Barebones features:
+- [x] **Basic Text Editor**
+	 - _Functionality_: Implement a simple text editor for creating and editing notes in plain text.
+	 - _Implementation Tip_: Use JavaFX’s `TextArea` component, which provides basic text input and editing. This will be your main interface for creating and updating notes.
+- [x] **File-Based Storage**
+	- _Functionality_: Store each note as a plain text file (`.txt`) in a dedicated folder on disk.
+	- _Implementation Tip_: Set up functions for reading from and writing to `.txt` files. Implement "save" and "save as" options, along with auto-save if desired.
+- [ ] **File Navigation and Management**
+	- _Functionality_: Display a sidebar with a list of available notes, allowing users to open and create new notes directly within the app.
+	- _Implementation Tip_: Use a directory structure that mimics a file tree in the sidebar. Clicking on a note in the sidebar should open it in the editor.
+- [ ] **Basic UI Design**
+	- _Functionality_: Keep the interface clean, with a clear separation between the editor, the note list, and any potential options or tools.
+	- _Implementation Tip_: JavaFX’s `SplitPane` is useful for setting up a simple UI where the note list and editor can be resized, with basic buttons for creating and deleting notes.

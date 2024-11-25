@@ -1,5 +1,0 @@
----
-Relations:
-  - "[[JavaScript]]"
-  - "[[REACT]]"
----

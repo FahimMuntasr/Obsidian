@@ -65,3 +65,12 @@ Trigonometric substitutions;
 $\sqrt{a^2-x^2} \rightarrow x=a\sin\theta\rightarrow a^2-a^2\sin ^2\theta\rightarrow a^2(1-\sin ^2\theta)\rightarrow a^2\cos ^2\theta$ 
 $\sqrt{a^2+x^2}\rightarrow x=a\tan\theta\rightarrow a^2+a^2\tan ^2\theta\rightarrow a^2(1+\tan ^2\theta)\rightarrow a^2\sec ^2\theta$
 $\sqrt{x^2-a^2}\rightarrow x=a\sec\theta\rightarrow a^2\sec ^2\theta -a^2\rightarrow a^2(\sec ^2\theta -1)\rightarrow a^2\tan ^2\theta$
+---
+Area between two curves
+For two continuous functions $f$ and $g$ , if $f(x)\ge g(x)$ for  $a\le x\le b$, the area between these functions is defined as;$$A=\int_{a}^{b}[f(x)-g(x)]\;dx$$
+Volume of a solid with a cross sectional area of $A(x)$ $$V=\int_{a}^{b} A(x)\;dx$$
+Volume by disks perpendicular to the $x$-axis$$V=\int_{a}^{b}A(x)\;dx=\int_{a}^{b}\pi[f(x)]^2\;dx$$
+Volume by washers perpendicular to the $x$-axis$$V=\int_{a}^{b}A(x)\;dx=\pi\int_{a}^{b}[f(x)]^2-[g(x)]^2\;dx$$
+Volume of solids of revolution$$V=\int_{a}^{b}2\pi xf(x)\;dx$$
+Length of arc $$L=\int_{a}^{b}\sqrt{1+[f'(x)]^2}\;dx$$
+Surface area of a surface of revolution$$S=\int_{a}^{b}2\pi f(x)\sqrt{1+[f'(x)]^2}\;dx$$

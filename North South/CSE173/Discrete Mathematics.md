@@ -1,9 +1,6 @@
 ---
 Syllabus: "[[CSE_173_content.pdf]]"
 Relations:
-  - "[[Computer Science]]"
-  - "[[AI and Data Science]]"
-  - "[[Probability & Combinatrics]]"
   - "[[Calculus and Analytic Geometry]]"
   - "[[Introduction to Linear Algebra]]"
 Reference:
@@ -31,7 +28,8 @@ Books:
   - "[[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]"
 ---
 `Fahim Muntasir` 
- # Foundational Logic and Proofs
+# Foundational Logic and Proofs
+
 ## Propositional Logic
 
 Syllogism : A logical argument which relies on two or more propositions to come to a conclusion.
@@ -376,3 +374,188 @@ Types of Indirect Proof
 	$(2k)^2 = 2Q^2 \equiv 2k^2 = Q^2$($\therefore Q$ is also even)  
 	As both $P$ and $Q$ are even, both of them have a common factor of $2$ , which contradicts with the fact that $\frac{P}{Q}$ has to be in its lowest terms.
 	As we proved the negation of $P$ to be false, this proves $P$ to be true $[\neg(\neg P)\equiv P\equiv T]$  
+
+# Sets, Functions
+
+## Sets
+#### Describing a Set
+A set is an unordered collection of distinct non-repeating elements.
+Ways to describe a set:
+- **Roster Method :** Listing out all the elements of the set$$A=\{1,2,3,4,5,6,7,8\}$$
+- **Set Builder Notation :** Instead of listing out all the elements the characteristics $$A = \{x|x\;\text{is an odd positive integer less than 10}\}$$
+#### Cardinality
+The **cardinality** of a set is the number of elements in that set.
+Sets with a **cardinality** of 0 are called **Null** sets$$\varnothing=\{\}\;;\;|\varnothing| = 0$$
+Sets with a **cardinality** of 1 are called **singleton** sets
+#### Subsets
+If set $A$ is a *subset* of set $B$, then set $B$ is a superset of set $A$. Where every element in set $A$ is an element of set $B$.
+$$A \subseteq B$$
+#### Power Sets
+For a set $A$, the *power set* of $A$ is the set of all subsets of the set $S$. Denoted by $\mathcal{P}(A)$
+$A = \{ 0,1,2\}$
+$\mathcal{P}(A) = \{ \emptyset , \{0\},\{1\},\{2\},\{0,1\},\{0,2\},\{1,2\},\{0,1,2\}\}$
+$|\mathcal{P}(A)| = 2^{|A|}$
+#### Cartesian Product
+The cartesian product of sets $A$ and $B$ is the set of all ordered pairs $(a,b)$.
+$A = \{1,2,3\}$
+$B = \{a,b,c\}$
+$A\times B = \{(1,a),(1,b),(1,c),(2,a),(2,b),(2,c),(3,a),(3,b),(3,c)\}$
+## Set Operations
+#### Union
+Let;
+	$A = \{x|x\in A\}$
+	$B=\{x|x\in B\}$
+The union of sets $A$ and $B$ is denoted by;
+	$A\cup B\equiv\{x|x\in A\lor x\in B\}$
+#### Intersection
+Let;$$A=\{x|x\in A\}$$$$B=\{x|x\in B\}$$The intersection of sets $A$ and $B$ is denoted by;$$A\cap B\equiv \{x|x\in A\land x\in B\}$$
+#### Complement 
+The complement of set $A$ is the set of all elements that is not in $A$ 
+$\overline{A} = \{x|x\notin A\}$
+#### Disjoint sets
+When the intersection of multiple sets result in a null set, the sets are said to be disjoint$$A\cap B=\varnothing$$
+#### Difference 
+The difference of set $A$ and $B$ is the set of elements that are in $A$ but not in $B$ 
+$A-B = \{x|x\in A\cap x\notin B\}$
+	   $=\{x|x\in A\cap x\in\overline{B}\}$
+	   $=\{x|x\in A\cap\overline{B}\}$
+$A-B = A\cap\overline{B}$
+
+#### Set Identities
+
+| Identity                                                                                            | Name                 |
+| --------------------------------------------------------------------------------------------------- | -------------------- |
+| $$A\cap U=A$$$$A\cup\emptyset=A$$                                                                   | Identity laws        |
+| $$A\cup U=U$$$$A\cap\emptyset=\emptyset$$                                                           | Domination laws      |
+| $$A\cup A=A$$$$A\cap A=A$$                                                                          | Idempotent laws      |
+| $$\overline{(\overline A)}=A$$                                                                      | Complementation laws |
+| $$A\cup B=B\cup A$$$$A\cap B=B\cap A$$                                                              | Commutative laws     |
+| $$A\cup(B\cup C)=(A\cup B)\cup C$$$$A\cap(B\cap C)=(A\cap B)\cap C$$                                | Associative laws     |
+| $$A\cup(B\cap C)=(A\cup B)\cap(A\cup C)$$$$A\cap(B\cup C)=(A\cap B)\cup(A\cap C)$$                  | Distributive laws    |
+| $$\overline{ A\cap B}=\overline A\cup\overline B$$$$\overline{A\cup B}=\overline A\cap\overline B$$ | De Morgan's laws     |
+| $$A\cup(A\cap B)=A$$$$A\cap(A\cup B)=A$$                                                            | Absorption laws      |
+| $$A\cup\overline A=U$$$$A\cap\overline A=\emptyset$$                                                | Complement laws      |
+## Functions
+A function maps each element from a non-empty set $A$ to exactly one element from a non-empty set $B$.
+#### Types of functions
+- Injective (One-to-One)
+	`A function f is one-to-one if and only if f(a) = f(b) implies a=b for all values of $a$ and $b$ within the domain of f.`
+	`For a function f(x) = x, all distinct values of x within the domain must have a distinct corresponding value of f(x)`
+	For the function $f:A\to B$ , if it is injective
+	$|A|\le |B|$
+- Surjective (Onto)
+	`A function f is onto if and only if every element in the codomain of the function can be mapped from an element of the domain.`
+	For the function $f:A\to B$, if it is surjective
+	$|A|\ge |B|$
+- Bijective (One-to-One correspondence)
+	`A function f is bijective if both it is both one-to-one and onto`
+	For the function $f:A\to B$ if it is bijective,
+	$|A|=|B|$
+#### Increasing and Decreasing functions
+For a function $f(x)$, 
+- **INCREASING** when $x_2>x_1$ and $f(x_2)\ge f(x_1)$
+- **STRICTLY INCREASING** when $x_2>x_1$ and $f(x_2)> f(x_1)$
+- **DECREASING** when $x_2>x_1$ and $f(x_2)\le f(x_1)$
+- **STRICTLY DECREASING** when $x_2>x_1$ and $f(x_2)< f(x_1)$
+
+A function reaches a stationary point when $\frac{d}{dx}=0$
+A function reaches a minima when $\frac{d^2}{dx^2}>0$
+A function reaches a maxima when $\frac{d^2}{dx^2}<0$
+#### Inverse Functions
+For a function $f:A\to B$ which is bijective, the inverse of $f$ assigns codomain elements to a unique domain element such $f(a)=b$ when $f^{-1}(b) = a$ 
+**ONLY BIJECTIVE FUNCTIONS CAN BE INVERSED**
+#### Floor and Ceiling Functions
+Floor functions
+- The floor of a variable $x$ is denoted by $\lfloor x\rfloor$, it is defined as the largest integer that is smaller than $x$.
+Ceiling functions
+- The ceiling of a variable $x$ is denoted by $\lceil x\rceil$, it is defined as the smallest integer that is larger than $x$.
+## Cardinality of Sets
+#### Countable Sets
+If a set is finite then it is said to be countable.
+If a set is infinite then it can also be said to be countable, with a condition that the cardinality of the set must be equal to the cardinality of positive integers ($\mathbb{N}:\{1,2,3,4,5,....\}$)
+## Recursion
+A function/relation that repeats or uses its own previous term to calculate subsequent terms 
+The factorial function is a basic example of a recursive function;
+$f(x)=x!$ 
+$f(5) = 5! = 5 \times 4\times 3\times 2\times 1$
+$f(5) = 5\times 4!$
+$f(5) = 5\times f(4)$
+$\therefore f(x) = x\times f(x-1)$ , where $f(0) = 1$ 
+
+## Sequences & Summation
+A sequence is a function which maps elements from a subset of integers to a set $S$.  
+It is a discrete structure used to represent an ordered list
+#### Types of sequences
+- Geometric
+	A common ratio $r$ exists between two subsequent terms.$$n^{th}\;term = ar^{n-1},\;where\;n=1 \;for\;the \;first\;term$$
+	Summation ;$$\sum_{i=0}^{n}ar^i=\frac{ar^{n+1}-a}{r-1}\;,r\ne1$$
+- Arithmetic
+	A common difference $d$ exists between two subsequent terms.$$n^{th}\;term=a+(n-1)d,\;where\;n=1\;for\;the\;first \;term$$
+	Summation;$$\sum_{i=0}^{n-1}a+id=\frac{n}{2}[2a+(n-1)d]$$
+#### Useful summation formulae
+
+| Sum                                     | Closed Form/Equivalent Form          |
+| --------------------------------------- | ------------------------------------ |
+| $$\sum^{n}_{k=0}ar^k\;(r\neq 0)$$       | $$\frac{ar^{n+1}-a}{r-1},\;r\neq 1$$ |
+| $$\sum^n_{k=1}k$$                       | $$\frac{n(n+1)}{2}$$                 |
+| $$\sum^n_{k=1}k^2$$                     | $$\frac{n(n+1)(2n+1)}{6}$$           |
+| $$\sum^n_{k=1}k^3$$                     | $$\frac{n^2(n+1)^2}{4}$$             |
+| $$\sum^n_{k=1}c$$                       | $$nc$$                               |
+| $$\sum^{\infty}_{k=0}x^k,\|x\|<1$$      | $$\frac{1}{1-x}$$                    |
+| $$\sum^{\infty}_{k=1}kx^{k-1},\|x\|<1$$ | $$\frac{1}{(1-x)^2}$$                |
+| $$\sum^a_bf(x)$$                        | $$\sum^a_1f(x)-\sum^{b-1}_1f(x)$$    |
+| $$\sum^a_b kf(x)$$                      | $$k\sum^a_bf(x)$$                    |
+| $$\sum^a_b[f(x)+k]$$                    | $$\sum^a_bf(x)+\sum^a_bk$$           |
+# Relations
+
+#### Relation between two sets
+A relation $R$ from two sets $A$ to $B$ is a subset of $A\times B$ $$R\subseteq A\times B$$
+#### Relation on a set
+A relation $R$ on a set $A$ is a subset of $A\times A$$$R\subseteq A\times A$$
+#### Relational Matrix
+A relational Matrix $M_r$ representing a relation $R$ on a set $A$ looks like this:
+if set $A$ is defined as; $$A=\{0,1,2\}$$
+And relation $R$ is defined as;$$R = \{(1,0),(0,1),(1,1),(1,2),(2,2)\}$$
+The relational matrix $M_r$ is defined as; $$M_r=\begin{bmatrix}0&1&0\\1&1&0\\0&1&1\end{bmatrix}$$
+#### Types of relations
+##### Reflexive
+A relation $R$ on a set $A$ is called *reflexive* if $(a,a)\in R$ for every element $a\in A$ 
+
+The trace of $M_r$ will be equal to the cardinality of $A$ , as the main diagonal will all be 1s.$$tr(M_r) = |A|$$
+##### Symmetric
+A relation $R$ on a set $A$ is called symmetric if $(b, a) ∈ R$ whenever $(a, b) ∈ R$, for all $a, b ∈ A$
+
+The trace of $M_r$ will be equal to cardinality of $A$ , as the main diagonal will all be 1s.$$tr(M_r)=|A|$$
+The matrix formed be transposing $M_r$ will be identical to $M_r$
+$$(M_r)^T\equiv M_r$$
+##### Antisymmetric
+A relation $R$ on a set $A$ such that for all $a, b ∈ A$, if $(a, b) ∈ R$ and $(b, a) ∈ R$, then $a = b$ is called antisymmetric.
+
+The trace of $M_r$ will be equal to cardinality of $A$ , as the main diagonal will all be 1s.$$tr(M_r)=|A|$$
+The matrix formed be transposing $M_r$ can NOT be identical to $M_r$\[Unless $M_r$ is an identity matrix\]$$(M_r)^T\not\equiv M_r\;, M_r\not\equiv I$$
+##### Transitive 
+A relation $R$ on a set $A$ is called transitive if whenever $(a, b) ∈ R$ and $(b, c) ∈ R$, then $(a, c) ∈ R$, for all $a, b, c ∈ A$
+`No notable property can be observed from a transitive matrix , unlike the other types`
+##### Composite relations 
+$$\text{if , }R=\{(a,b)\in R|a\in A, b\in B\}$$$$\text{and , }S=\{(b,c)\in S|b\in B, c\in C\}$$$$\text{then , }R\circ S=\{(a,c)\in R\circ S|a\in A, c\in C\}$$
+##### Powers of a relation
+If $R$ is a relation on set $A$, then the $n^{th}$ power of $R$ , is defined recursively as ;$$R^n = R^{n-1}\circ R\;,n=1,2,3,...$$
+**SIDE NOTE**
+	The relation $R$ on set $A$ is transitive if and only if $R^n\subseteq R$ for $n=1,2,3,...$ 
+##### Transitive closure
+The **transitive closure** of a relation $R$ on a set $A$ is the smallest transitive relation $T$ on $A$ such that $R⊆T$ . 
+
+If $M_R$ is an $n\times n$ matrix, the transitive closure denoted by $M_{R*}$ is defined as;$$M_{R*}=M_R\lor M^{[2]}_R\lor M^{[3]}_R\lor...\lor M^{[n]}_R$$where, $$M^{[k]}_R = M^{[k-1]}_R\odot M_R$$
+##### Equivalence relations
+A relation on set $A$ is called an *equivalence relation* if it is reflexive, symmetric, and transitive.
+
+# Counting
+
+#### Product rule 
+If a task can be split into a sequence of two tasks, where there are $n_1$  ways to do the first task and for each of these ways of doing the first task, there are $n_2$ ways to do the second task, then there are $n_1n_2$ ways to do the task.
+
+#### Sum rule
+If a task can be done either in one of $n_1$ ways or in one of $n_2$ ways, where none of the set of $n_1$ ways is the same as any of the set of $n_2$ ways, then there are $n_1 + n_2$ ways to do the task.
+
+#### Subtraction rule (Inclusion-Exclusion Principle)
+If a task can be done in either $n_1$ ways or $n_2$ ways, then the number of ways to do the task is $n_1 + n_2$ minus the number of ways to do the task that are common to the two different ways$$|A_1\cup A_2|=|A_1|+|A_2|-|A_1\cap A_2|$$

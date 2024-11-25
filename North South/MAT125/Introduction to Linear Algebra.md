@@ -8,6 +8,7 @@ Books:
 Syllabus: "[[MAT125_content.pdf]]"
 ---
 
+### Linear Systems
 #### Linear Equations
 A linear equation in $n$ variables $x_1$,$x_2$,$x_3$,...,$x_n$ is expressed in the form $$a_1x_1+a_2x_2+...+a_nx_n=b$$
 where $a_1$,$a_2$,...,$a_n$  and $b$ are real constants
@@ -45,3 +46,4 @@ Possibilities of a homogenous system;
 - The system has infinitely many solutions in addition to the trivial solution
 
 A homogenous system of linear equations with more unknowns than equations has infinitely many solutions.
+### Euclidean Vector Spaces

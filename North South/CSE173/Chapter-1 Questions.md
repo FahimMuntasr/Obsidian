@@ -567,3 +567,74 @@ What rule of inference is used in each of these arguments?
 ### Question 23
 ### Question 24
 ### Question 30
+
+### Question 15
+$F(x):$ $x$ likes fruit
+$P(x):$ $x$ is a parrot
+1. $\forall x(P(x)\to F(x))$ \[Premise]
+2. $P(pet)\to F(pet)$ \[Universal instantiation of 1]
+3. $\neg P(pet)$ \[Premise]
+4. $\therefore\neg F(pet)$ 
+
+
+| $P(pet)$ | $F(pet)$ | $\neg P(pet)$ | $P(pet)\to F(pet)$ | $\neg F(pet)$ | $(\neg P(pet)\land (P(pet)\to F(pet)))$ |
+| -------- | -------- | ------------- | ------------------ | ------------- | --------------------------------------- |
+| T        | T        | F             | T                  | F             | F                                       |
+| T        | F        | F             | F                  | T             | F                                       |
+| F        | T        | T             | T                  | F             | T                                       |
+| F        | F        | T             | T                  | T             | T                                       |
+Critical rows don't match up therefore invalid
+$$(\neg P(pet)\land (P(pet)\to F(pet)))\to\neg F\equiv(P(pet)\lor ( P(pet)\land\neg F(pet)))\lor \neg F$$
+
+Karims chances of doing well in CSE 173 at NSU are minimized if and only if Karim does not  study sincerely or he does not submit HW timely. 
+Karims chances of doing well are minimized only if the CSE 173 lectures are online  or Karim is absent from CSE173  lectures .
+The class at NSU is happening in offline mode and NSU is not closed .
+Karim is present whenever NSU is not closed. 
+
+Therefore, Karim studies sincerely or Karim dislikes science or Karim does not like studying discrete mathematics at NSU
+$q\lor\neg v\lor\neg w$
+
+$p$ : Karim does well in CSE 173
+$q:$ Karim studies sincerely
+$r$ : Karim submits HW timely
+$s$ : CSE173 lectures are online
+$t$ : Karim is absent from CSE173 lectures
+$u$ : NSU is closed
+$v$ : Karim likes science
+$w$ : Karim likes studying discrete mathematics at NSU
+
+Premises
+1. $\neg p\leftrightarrow (\neg q\lor\neg r)$
+2. $\neg p \to(s\lor t)$
+3. $\neg u\land\neg s$
+4. $\neg u\to\neg t$
+
+5. $\neg u$ \[Simplification of 3]
+6. $\neg s$ \[Simplification of 3]
+7. $\neg t$ \[Modus ponens of 4 and 5]
+8. $\neg s\land\neg t$ \[Conjunction of 6 and 7]
+9. $\neg(s\lor t)$ \[DeMorgans law on 8]
+10. $p$ \[Modus tollens of 2 and 9]
+
+
+${6^n -1} = 5m$ , where $m$ is an integer
+
+Base case;
+	$n=1$
+	$\frac{6-1}{5} = \frac{5}{5} = 1$
+	1 is an integer
+	$n = 2$
+	$\frac{36-1}{5} = \frac{35}{5} = 7$
+	7 is an integer
+Inductive step;
+	Lets assume that the statement is true for $n=k$
+	$\frac{6^k-1}{5} =q$ , where $q$ is an integer
+	$6^k-1 = 5q$
+	Lets assume that the statement is true for $n=k+1$
+	${6^{k+1}-1} = (6^k\times 6) -1$
+	${(6^k\times 6)}-1= (6\times 6^k)-6+6-1$
+	$(6\times 6^k)-6+6-1=6(6^k-1)+5$
+	We know that $6^k-1 =5q$,
+	$\therefore 6(5q)+5 = 30q+5 = 5(6q+1)$ 
+	As $q$ is an integer, $6q+1$ is also an integer which proves $6^{k+1} -1$ is divisible by 5
+	As statement is true for both $n=k$ and $n=k+1$ it is true for all values of $n$

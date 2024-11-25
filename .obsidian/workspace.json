@@ -4,51 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "8f3e17331922e8fd",
+        "id": "77d158707868d530",
         "type": "tabs",
-        "dimension": 55.08849557522124,
+        "dimension": 39.60176991150443,
         "children": [
           {
-            "id": "79c3716e43901f87",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf"
-              }
-            }
-          },
-          {
-            "id": "ef2b6684e950b163",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf"
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a1f06f83fcaad40a",
-        "type": "tabs",
-        "dimension": 44.91150442477876,
-        "children": [
-          {
-            "id": "3161b163ab2e15b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "North South/CSE173/Chapter-1 Questions.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e323b4ae9e2562b4",
+            "id": "73468a76ca008d17",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,7 +17,28 @@
                 "file": "North South/CSE173/Discrete Mathematics.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Discrete Mathematics"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7e49dd7447b72b94",
+        "type": "tabs",
+        "dimension": 60.39823008849557,
+        "children": [
+          {
+            "id": "63ad121073aeaa99",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Kenneth Rosen - Discrete Mathematics and Its Applications"
             }
           }
         ]
@@ -71,7 +53,7 @@
       {
         "id": "3a016246b5a99509",
         "type": "tabs",
-        "dimension": 65.86538461538461,
+        "dimension": 70.79326923076923,
         "children": [
           {
             "id": "5440f253ae6670d2",
@@ -80,7 +62,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -95,7 +79,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -103,7 +89,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -111,14 +99,16 @@
       {
         "id": "afa6b77bf16fe815",
         "type": "tabs",
-        "dimension": 34.13461538461539,
+        "dimension": 29.20673076923077,
         "children": [
           {
             "id": "16439f88e92caa36",
             "type": "leaf",
             "state": {
               "type": "graph",
-              "state": {}
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -130,11 +120,12 @@
                 "file": "To-Do.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "To-Do"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -154,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/CSE173/Chapter-1 Questions.md",
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +153,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for (M)Principles of Microeconomics"
             }
           },
           {
@@ -171,10 +164,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/CSE173/Chapter-1 Questions.md",
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from (M)Principles of Microeconomics"
             }
           },
           {
@@ -185,7 +180,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -194,12 +191,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/CSE173/Chapter-1 Questions.md"
-              }
+                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of (M)Principles of Microeconomics"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -216,53 +214,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3161b163ab2e15b2",
+  "active": "63ad121073aeaa99",
   "lastOpenFiles": [
-    "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf",
     "North South/CSE173/Discrete Mathematics.md",
-    "North South/CSE173/Chapter-1 Questions.md",
-    "To-Do.md",
     "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
-    "Reference/Pasted image 20241004120326.png",
-    "Reference/Pasted image 20241004120128.png",
-    "Reference/Pasted image 20241004120119.png",
-    "Reference/Pasted image 20241004120112.png",
-    "Reference/Pasted image 20241004120104.png",
-    "Reference/Pasted image 20241004115229.png",
-    "Reference/Pasted image 20241004113522.png",
-    "Tutoring/Adia A2/Unit 1/Unit-1 Mock-1.md",
-    "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf.crdownload",
-    "Reference/Pasted image 20241002181356.png",
-    "North South/CSE173/Lectures/4/PROOF TECHNIQUES.pdf",
-    "North South/CSE173/Lectures/3/RULE OF INFERENCE.pdf",
-    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
-    "North South/CSE173/Lectures/0/CSE173 INTRODUCTION.pdf",
+    "North South/CSE173/Lectures/7A/RELATION.pdf",
+    "Reference/Pasted image 20241118221454.png",
+    "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf",
+    "North South/CSE173/Lectures/6/SUM SEQUENCE.pdf",
+    "North South/CSE173/Lectures/5B/SET FUNCTIONS II.pdf",
+    "North South/CSE173/Lectures/10/NUMBER II.pdf",
+    "North South/CSE173/Lectures/9/GRAPHS.pdf",
+    "North South/CSE173/Lectures/8/RECURSION COUNTING.pdf",
+    "Tutoring/Alishaan AS/P1_Mock2.md",
+    "Reference/Pasted image 20241111232356.png",
+    "North South/CSE173/Chapter-1 Questions.md",
     "North South/MAT125/Introduction to Linear Algebra.md",
-    "North South/CSE173/Lectures/2/PREDICATE QUANTIFIER.pdf",
-    "North South/MAT125/Books/Elementary Linear Algebra with Applications.pdf",
-    "North South/MAT125/Books/Elementary linear algebra with applications. Solutions.pdf",
-    "North South/ECO101/Introduction to Microeconomics.md",
+    "Reference/Pasted image 20241118221436.png",
+    "Reference/Pasted image 20241118221413.png",
+    "Reference/Pasted image 20241118221324.png",
+    "Reference/Pasted image 20241118221303.png",
+    "Reference/Pasted image 20241117212657.png",
+    "Reference/Pasted image 20241117212425.png",
+    "Reference/Pasted image 20241117212351.png",
+    "Reference/Pasted image 20241117212332.png",
     "North South/MAT130/Calculus and Analytic Geometry.md",
-    "Tutoring/Adia A2/Unit 4/Topical/4.2 Circular Motion.md",
-    "Tutoring/Adia A2/Unit 4/Topical/4.1 Momentum & Impudence.md",
-    "Tutoring/Adia A2/Unit 1/Topical/1.6 Stretching Materials.md",
-    "Tutoring/Adia A2/Unit 1/Topical/1.5 Density, Upthrust & Viscous Drag.md",
-    "Tutoring/Adia A2/Unit 1/Topical/1.4 Work, Energy & Power.md",
+    "North South/MAT130/Books/Calculus.pdf",
+    "Computer Science/C.md",
+    "Tutoring/Alishaan AS/P1_Mock1.md",
+    "Tutoring/Alishaan AS/M1_Mock1.md",
+    "Computer Science/Project Documentation/Note taking app.md",
+    "North South/ECO101/Introduction to Microeconomics.md",
+    "Computer Science/Project Documentation/Coding Projects.md",
+    "Computer Science/Project Documentation/Note taking app 1.md",
+    "Computer Science/Project Documentation",
+    "To-Do.md",
+    "North South/CSE215/Java.md",
+    "Tutoring/Adia A2/Unit 1 Mock.md",
+    "Tutoring/Adia A2/Study Plan.md",
+    "Tutoring/Adia A2/Physics Formulae.md",
+    "Tutoring/Adia A2/Unit 1/Unit-1 Mock-1.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.3 Moments.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.2 Forces & Momentum.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.1 Motion.md",
-    "Pasted image 20240908234642.png",
-    "Pasted image 20240908234634.png",
-    "Tutoring/Adia A2/Unit 4/Topical/4.4 Capacitance.md",
-    "4.5 Magnetic Fields.md",
-    "Tutoring/Adia A2/Unit 4/Topical/4.3 Electric Fields.md",
-    "Tutoring/Adia A2/Untitled.md",
-    "Tutoring/Adia A2/Study Plan.md",
-    "Tutoring/Adia A2/Physics Formulae.md",
-    "Computer Science/Linux.md",
-    "Reference/Wifi Hack/WPA2 hacking.md",
-    "Computer Science/Cyber Security.md",
     "Computer Science/Networking.md",
+    "Computer Science/Linux.md",
+    "Computer Science/Languages.md",
+    "Computer Science/JavaScript.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

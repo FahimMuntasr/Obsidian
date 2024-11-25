@@ -1,7 +1,5 @@
 ---
-Relations:
-  - "[[Web Development]]"
-  - "[[REACT]]"
+Relations: []
 ---
 
 # Arithmetic operators
