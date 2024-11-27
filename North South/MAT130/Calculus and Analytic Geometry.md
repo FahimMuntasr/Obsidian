@@ -74,3 +74,18 @@ Volume by washers perpendicular to the $x$-axis$$V=\int_{a}^{b}A(x)\;dx=\pi\int_
 Volume of solids of revolution$$V=\int_{a}^{b}2\pi xf(x)\;dx$$
 Length of arc $$L=\int_{a}^{b}\sqrt{1+[f'(x)]^2}\;dx$$
 Surface area of a surface of revolution$$S=\int_{a}^{b}2\pi f(x)\sqrt{1+[f'(x)]^2}\;dx$$
+
+
+---
+Properties of Cardioid equations in the form ;$$r=a+b\sin(n\theta)$$![[Pasted image 20241126200133.png]]
+$$A=\int^\frac{\pi}{2}_{-\frac{\pi}{2}}r^2\;d\theta$$
+Properties of Cardioid equations in the form;$$r=a+b\cos(n\theta)$$![[Pasted image 20241126200312.png]]
+$$A=\int^\pi_{0}r^2\;d\theta$$
+---
+Area of rose equations;
+where $a$ = 0;
+
+|                       | $$\sin$$                                        | $$\cos$$                                |
+| --------------------- | ----------------------------------------------- | --------------------------------------- |
+| $$n \text{ is even}$$ | $$n\int^\frac{\pi}{n}_0r^2\;d\theta$$           | $$2n\int^\frac{\pi}{2n}_0r^2\;d\theta$$ |
+| $$n\text{ is odd}$$   | $$\frac{n}{2}\int^\frac{\pi}{n}_0r^2\;d\theta$$ | $$n\int^\frac{\pi}{2n}_0r^2\;d\theta$$  |

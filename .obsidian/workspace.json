@@ -6,7 +6,6 @@
       {
         "id": "77d158707868d530",
         "type": "tabs",
-        "dimension": 39.60176991150443,
         "children": [
           {
             "id": "73468a76ca008d17",
@@ -14,31 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "North South/CSE173/Discrete Mathematics.md",
+                "file": "Computer Science/Cyber Security.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discrete Mathematics"
+              "title": "Cyber Security"
             }
-          }
-        ]
-      },
-      {
-        "id": "7e49dd7447b72b94",
-        "type": "tabs",
-        "dimension": 60.39823008849557,
-        "children": [
+          },
           {
-            "id": "63ad121073aeaa99",
+            "id": "78747f18766526f4",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+                "file": "North South/MAT130/Calculus and Analytic Geometry.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Kenneth Rosen - Discrete Mathematics and Its Applications"
+              "icon": "lucide-file",
+              "title": "Calculus and Analytic Geometry"
             }
           }
         ]
@@ -214,8 +208,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "63ad121073aeaa99",
+  "active": "73468a76ca008d17",
   "lastOpenFiles": [
+    "Computer Science/JavaScript.md",
+    "Computer Science/Languages.md",
+    "Computer Science/Linux.md",
+    "Computer Science/Networking.md",
+    "Reference/Pasted image 20241126200312.png",
+    "North South/MAT130/Books/Calculus.pdf",
+    "North South/MAT130/Calculus and Analytic Geometry.md",
+    "Reference/Pasted image 20241126200309.png",
+    "Reference/Pasted image 20241126200133.png",
     "North South/CSE173/Discrete Mathematics.md",
     "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "North South/CSE173/Lectures/7A/RELATION.pdf",
@@ -235,11 +238,6 @@
     "Reference/Pasted image 20241118221324.png",
     "Reference/Pasted image 20241118221303.png",
     "Reference/Pasted image 20241117212657.png",
-    "Reference/Pasted image 20241117212425.png",
-    "Reference/Pasted image 20241117212351.png",
-    "Reference/Pasted image 20241117212332.png",
-    "North South/MAT130/Calculus and Analytic Geometry.md",
-    "North South/MAT130/Books/Calculus.pdf",
     "Computer Science/C.md",
     "Tutoring/Alishaan AS/P1_Mock1.md",
     "Tutoring/Alishaan AS/M1_Mock1.md",
@@ -257,10 +255,6 @@
     "Tutoring/Adia A2/Unit 1/Topical/1.3 Moments.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.2 Forces & Momentum.md",
     "Tutoring/Adia A2/Unit 1/Topical/1.1 Motion.md",
-    "Computer Science/Networking.md",
-    "Computer Science/Linux.md",
-    "Computer Science/Languages.md",
-    "Computer Science/JavaScript.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
