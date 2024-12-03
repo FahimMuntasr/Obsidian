@@ -47,3 +47,5 @@ Possibilities of a homogenous system;
 
 A homogenous system of linear equations with more unknowns than equations has infinitely many solutions.
 ### Euclidean Vector Spaces
+
+

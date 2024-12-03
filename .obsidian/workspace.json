@@ -4,38 +4,55 @@
     "type": "split",
     "children": [
       {
-        "id": "77d158707868d530",
+        "id": "17eec392091ffbc0",
         "type": "tabs",
         "children": [
           {
-            "id": "73468a76ca008d17",
+            "id": "94e216adebee6c42",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Cyber Security.md",
+                "file": "North South/CSE173/Discrete Mathematics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cyber Security"
-            }
-          },
-          {
-            "id": "78747f18766526f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "North South/MAT130/Calculus and Analytic Geometry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Calculus and Analytic Geometry"
+              "title": "Discrete Mathematics"
             }
           }
         ]
+      },
+      {
+        "id": "528a89779ab68aff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "222221dad2a9db26",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "PROPOSITIONAL LOGIC"
+            }
+          },
+          {
+            "id": "2178055e5d8741d5",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Kenneth Rosen - Discrete Mathematics and Its Applications"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,19 +225,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73468a76ca008d17",
+  "active": "94e216adebee6c42",
   "lastOpenFiles": [
+    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
+    "North South/CSE173/Discrete Mathematics.md",
+    "North South/CSE173/Assignments/CSE173_Assignment_1.pdf",
+    "North South/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
+    "North South/MAT125/Introduction to Linear Algebra.md",
+    "Pasted image 20241130205300.png",
+    "Project Report.md",
+    "UML.md",
+    "North South/MAT130/Calculus and Analytic Geometry.md",
+    "Computer Science/Cyber Security.md",
     "Computer Science/JavaScript.md",
     "Computer Science/Languages.md",
     "Computer Science/Linux.md",
     "Computer Science/Networking.md",
     "Reference/Pasted image 20241126200312.png",
     "North South/MAT130/Books/Calculus.pdf",
-    "North South/MAT130/Calculus and Analytic Geometry.md",
     "Reference/Pasted image 20241126200309.png",
     "Reference/Pasted image 20241126200133.png",
-    "North South/CSE173/Discrete Mathematics.md",
-    "North South/CSE173/Books/Kenneth Rosen - Discrete Mathematics and Its Applications.pdf",
     "North South/CSE173/Lectures/7A/RELATION.pdf",
     "Reference/Pasted image 20241118221454.png",
     "North South/CSE173/Books/Kenneth Rosen 7th edition.pdf",
@@ -228,16 +252,13 @@
     "North South/CSE173/Lectures/5B/SET FUNCTIONS II.pdf",
     "North South/CSE173/Lectures/10/NUMBER II.pdf",
     "North South/CSE173/Lectures/9/GRAPHS.pdf",
-    "North South/CSE173/Lectures/8/RECURSION COUNTING.pdf",
     "Tutoring/Alishaan AS/P1_Mock2.md",
     "Reference/Pasted image 20241111232356.png",
     "North South/CSE173/Chapter-1 Questions.md",
-    "North South/MAT125/Introduction to Linear Algebra.md",
     "Reference/Pasted image 20241118221436.png",
     "Reference/Pasted image 20241118221413.png",
     "Reference/Pasted image 20241118221324.png",
     "Reference/Pasted image 20241118221303.png",
-    "Reference/Pasted image 20241117212657.png",
     "Computer Science/C.md",
     "Tutoring/Alishaan AS/P1_Mock1.md",
     "Tutoring/Alishaan AS/M1_Mock1.md",
@@ -245,16 +266,12 @@
     "North South/ECO101/Introduction to Microeconomics.md",
     "Computer Science/Project Documentation/Coding Projects.md",
     "Computer Science/Project Documentation/Note taking app 1.md",
-    "Computer Science/Project Documentation",
     "To-Do.md",
     "North South/CSE215/Java.md",
     "Tutoring/Adia A2/Unit 1 Mock.md",
     "Tutoring/Adia A2/Study Plan.md",
     "Tutoring/Adia A2/Physics Formulae.md",
     "Tutoring/Adia A2/Unit 1/Unit-1 Mock-1.md",
-    "Tutoring/Adia A2/Unit 1/Topical/1.3 Moments.md",
-    "Tutoring/Adia A2/Unit 1/Topical/1.2 Forces & Momentum.md",
-    "Tutoring/Adia A2/Unit 1/Topical/1.1 Motion.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
