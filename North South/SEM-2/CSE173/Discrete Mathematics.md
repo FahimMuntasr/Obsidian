@@ -217,7 +217,7 @@ Some important logical equivalencies:
 | $$P\lor(P\land Q)\equiv P$$$$P\land(P\lor Q)\equiv P$$                                                                                                                                                                                                                                                              | Absorption laws             |
 | $$P\lor\neg P\equiv T$$$$P\land\neg P\equiv F$$                                                                                                                                                                                                                                                                     | Negation laws               |
 | $$P\leftrightarrow Q\equiv (P\to Q)\land(Q\to P)$$                                                                                                                                                                                                                                                                  | Definition of biconditional |
-
+S
 ## Predicate Quantifiers
 
 #### Predicates
@@ -488,10 +488,10 @@ It is a discrete structure used to represent an ordered list
 #### Types of sequences
 - Geometric
 	A common ratio $r$ exists between two subsequent terms.$$n^{th}\;term = ar^{n-1},\;where\;n=1 \;for\;the \;first\;term$$
-	Summation ;$$\sum_{i=0}^{n}ar^i=\frac{ar^{n+1}-a}{r-1}\;,r\ne1$$
+	Summation ;$$S_n=\frac{ar^{n}-a}{r-1}\;,r\ne1$$
 - Arithmetic
 	A common difference $d$ exists between two subsequent terms.$$n^{th}\;term=a+(n-1)d,\;where\;n=1\;for\;the\;first \;term$$
-	Summation;$$\sum_{i=0}^{n-1}a+id=\frac{n}{2}[2a+(n-1)d]$$
+	Summation;$$S_n=\frac{n}{2}[2a+(n-1)d]$$
 #### Useful summation formulae
 
 | Sum                                     | Closed Form/Equivalent Form          |

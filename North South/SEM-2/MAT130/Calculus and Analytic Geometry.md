@@ -35,7 +35,7 @@ $$\int\frac{du}{a^2-u^2} = \frac{1}{2a}\ln\left|\frac{a+u}{a-u}\right|+C$$
 $$\int\frac{du}{u\sqrt{a^2-u^2}}=-\frac{1}{a}\ln\left|\frac{a+\sqrt{a^2-u^2}}{u}\right|+C$$
 $$\int\frac{du}{u\sqrt{a^2+u^2}}=-\frac{1}{a}\ln\left|\frac{a+\sqrt{a^2+u^2}}{u}\right|+C$$
 ---
-$$\int f(x)g(x)\;dx = f(x)G(x)\;dx\;-\int f'(x)G(x)\;dx\; ,\;G(x) = \int g(x)\;dx$$
+$$\int Uv = UV-\int uV\;;U=\int u\;;V=\int v$$
 ---
 $$\int\sin ^n x\;dx=-\frac{\sin ^{n-1}x\cos x}{n}+\frac{n-1}{n}\int\sin^{n-2}x\;dx$$
 $$\int\cos^nx\;dx=\frac{\cos^{n-1}x\sin x}{n}+\frac{n-1}{n}\int\cos^{n-2}x\;dx$$

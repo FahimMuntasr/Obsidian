@@ -1,6 +1,0 @@
-- [x] Catch up to CSE173
-- [x] Catch up to MAT125
-- [x] Catch up to MAT130
-- [x] Catch up to ECO101
-- [x] Catch up to CSE215
-- [x] Learn REACT
