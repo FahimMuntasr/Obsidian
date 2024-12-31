@@ -11,10 +11,14 @@
             "id": "75369c8a995ac648",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro to Machine Learning.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Intro to Machine Learning"
             }
           }
         ]
@@ -203,8 +207,10 @@
       "mermaid-tools:Open Mermaid Toolbar": false
     }
   },
-  "active": "5440f253ae6670d2",
+  "active": "75369c8a995ac648",
   "lastOpenFiles": [
+    "Intro to Machine Learning.md",
+    "Untitled",
     "Pasted image 20241220180347.png",
     "Pasted image 20241220224156.png",
     "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
@@ -216,7 +222,6 @@
     "Diagrams/Pasted image 20240908223728.png",
     "Diagrams/Pasted image 20240908222809.png",
     "Diagrams/Pasted image 20240908222741.png",
-    "Diagrams/Pasted image 20240908222723.png",
     "Computer Science/Networking.md",
     "Computer Science/Linux.md",
     "Computer Science/Languages.md",
@@ -245,7 +250,6 @@
     "Computer Science/-Note-19-37.xopp",
     "North South/SEM-2/CSE173/Lectures/1/PROPOSITIONAL LOGIC.pdf",
     "North South/SEM-2/MAT125/Introduction to Linear Algebra.md",
-    "North South/SEM-2/CSE173/Lectures/7A/RELATION.pdf",
     "Tutoring/Alishaan AS/P1_Mock2.md",
     "North South/SEM-2/CSE173/Chapter-1 Questions.md",
     "Tutoring/Alishaan AS/P1_Mock1.md",
