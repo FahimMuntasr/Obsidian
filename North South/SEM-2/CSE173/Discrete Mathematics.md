@@ -1,32 +1,3 @@
----
-Syllabus: "[[CSE_173_content.pdf]]"
-Relations:
-  - "[[Calculus and Analytic Geometry]]"
-  - "[[Introduction to Linear Algebra]]"
-Reference:
-  - "[[CSE173 INTRODUCTION.pdf]]"
-  - "[[PROPOSITIONAL LOGIC.pdf]]"
-  - "[[PREDICATE QUANTIFIER.pdf]]"
-  - "[[RULE OF INFERENCE.pdf]]"
-  - "[[PROOF TECHNIQUES.pdf]]"
-  - "[[SET FUNCTIONS.pdf]]"
-  - "[[SET FUNCTIONS II.pdf]]"
-  - "[[SUM SEQUENCE.pdf]]"
-  - "[[RELATION.pdf]]"
-  - "[[RELATION II.pdf]]"
-  - "[[RECURSION COUNTING.pdf]]"
-  - "[[GRAPHS.pdf]]"
-  - "[[NUMBER II.pdf]]"
-Practice:
-  - "[[CSE 173 0.pdf]]"
-  - "[[CSE 173 1.pdf]]"
-  - "[[CSE 173 2.pdf]]"
-  - "[[CSE 173 3.pdf]]"
-  - "[[CSE 173 4.pdf]]"
-  - "[[CSE 173 5.pdf]]"
-Books:
-  - "[[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]"
----
 `Fahim Muntasir` 
 # Foundational Logic and Proofs
 
