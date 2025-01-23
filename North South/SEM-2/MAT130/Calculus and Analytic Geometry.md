@@ -77,9 +77,9 @@ Surface area of a surface of revolution$$S=\int_{a}^{b}2\pi f(x)\sqrt{1+[f'(x)]^
 
 
 ---
-Properties of Cardioid equations in the form ;$$r=a+b\sin(n\theta)$$![[Pasted image 20241126200133.png]]
+Properties of Cardioid equations in the form ;$$r=a+b\sin(n\theta)$$![[Pasted image 20250114004443.png]]
 $$A=\int^\frac{\pi}{2}_{-\frac{\pi}{2}}r^2\;d\theta$$
-Properties of Cardioid equations in the form;$$r=a+b\cos(n\theta)$$![[Pasted image 20241126200312.png]]
+Properties of Cardioid equations in the form;$$r=a+b\cos(n\theta)$$![[Pasted image 20250114004533.png]]
 $$A=\int^\pi_{0}r^2\;d\theta$$
 ---
 Area of rose equations;
