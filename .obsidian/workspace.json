@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "55af8b2ea7ca1e41",
+        "id": "88d79d580098bf02",
         "type": "tabs",
         "children": [
           {
-            "id": "86841000209a687a",
+            "id": "367e5cac0e0c3c68",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "ba1a53294f6073ab",
+        "id": "6f40bd7d6a2249cd",
         "type": "tabs",
         "children": [
           {
-            "id": "26675496a2fe9d32",
+            "id": "f3769edec71c2145",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -222,24 +222,34 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
-      "mermaid-tools:Open Mermaid Toolbar": false
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "26675496a2fe9d32",
+  "active": "f3769edec71c2145",
   "lastOpenFiles": [
     "North South/SEM-3/CSE225/Lectures/DS-Lec-01-Introduction to DS_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-03-Complexity of Algorithm_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-02-Types of Algorithm_MMA1.pdf",
     "North South/SEM-3/CSE225/CSE225.md",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-01-Introduction to DS_MMA1.ppt",
-    "North South/SEM-3/CSE225/NSU_CSE_225_Outline_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures",
-    "North South/SEM-3/EEE141/Lectures/Lecture Slides 1 Series Circuits.pdf",
-    "North South/SEM-3/EEE141/Lectures",
-    "North South/SEM-3/EEE141/EEE141.pdf",
+    "Excalidraw/CSE225 2025-01-23 22.43.50.excalidraw.md",
+    "Excalidraw/CSE225 2025-01-23 21.42.20.excalidraw.md",
+    "Excalidraw/my-obsidian-library.excalidrawlib",
+    "Excalidraw/microsoft-fabric-architecture-icons.excalidrawlib",
+    "Excalidraw/software-architecture.excalidrawlib",
+    "Excalidraw/system-design.excalidrawlib",
+    "Excalidraw/architecture-diagram-components.excalidrawlib",
+    "Excalidraw/drwnio.excalidrawlib",
+    "Excalidraw/stick-figures.excalidrawlib",
+    "Excalidraw/UML-ER-library.excalidrawlib",
+    "Excalidraw/forms.excalidrawlib",
+    "Excalidraw/awesome-icons.excalidrawlib",
+    "Excalidraw/Drawing 2025-01-23 21.41.57.excalidraw.md",
+    "Excalidraw/CSE225 2025-01-23 20.51.58.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-23 19.28.45.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-23 19.22.04.excalidraw.md",
+    "Excalidraw/Drawing 2025-01-23 19.22.01.excalidraw.md",
     "North South/SEM-3/EEE141/EEE141.md",
     "Intro to Machine Learning.md",
-    "North South/SEM-3/EEE141",
     "Pasted image 20250116114546.png",
     "Pasted image 20250116114515.png",
     "Pasted image 20250116114436.png",
@@ -265,13 +275,6 @@
     "Computer Science/Languages.md",
     "Computer Science/Cyber Security.md",
     "Computer Science/JavaScript.md",
-    "Computer Science/Computer Architecture.md",
-    "Computer Science/Project Documentation/Coding Projects.md",
-    "Computer Science/Project Documentation/Note taking app.md",
-    "North South/CSE215/Java.md",
-    "Project Report.md",
-    "To-Do.md",
-    "UML.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
