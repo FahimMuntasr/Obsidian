@@ -6,42 +6,35 @@
       {
         "id": "88d79d580098bf02",
         "type": "tabs",
-        "dimension": 47.86135693215339,
         "children": [
           {
-            "id": "f3769edec71c2145",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "North South/SEM-3/CSE225/CSE225.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CSE225"
-            }
-          }
-        ]
-      },
-      {
-        "id": "cbd13b678e8bbedb",
-        "type": "tabs",
-        "dimension": 52.138643067846616,
-        "children": [
-          {
-            "id": "367e5cac0e0c3c68",
+            "id": "c88d6ed7f484678c",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-02-Types of Algorithm_MMA1.pdf"
+                "file": "North South/SEM-3/EEE141/Lectures/Lecture4.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "DS-lec-02-Types of Algorithm_MMA1"
+              "title": "Lecture4"
+            }
+          },
+          {
+            "id": "367e5cac0e0c3c68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "North South/SEM-3/EEE141/EEE141.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "EEE141"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -61,7 +54,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -228,10 +222,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f3769edec71c2145",
+  "active": "367e5cac0e0c3c68",
   "lastOpenFiles": [
-    "North South/SEM-3/CSE225/Lectures/DS-lec-02-Types of Algorithm_MMA1.pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture4.pdf",
+    "North South/SEM-3/EEE141/EEE141.md",
+    "Excalidraw/EEE141 2025-02-01 00.29.22.excalidraw.md",
+    "North South/SEM-3/EEE141/Lectures/Lecture3.pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture2.pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture1.pdf",
+    "Excalidraw/EEE141 2025-01-31 01.52.04.excalidraw.md",
+    "Excalidraw/EEE141 2025-01-30 22.02.44.excalidraw.md",
     "North South/SEM-3/CSE225/CSE225.md",
+    "North South/SEM-3/EEE141/Lectures/Lecture Slides 1 Series Circuits.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-lec-02-Types of Algorithm_MMA1.pdf",
     "Project.md",
     "North South/SEM-3/CSE225/Lectures/DS-Lec-01-Introduction to DS_MMA1.pdf",
     "Excalidraw/CSE225 2025-01-26 22.04.38.excalidraw.md",
@@ -249,16 +252,10 @@
     "Excalidraw/CSE225 2025-01-23 22.43.50.excalidraw.md",
     "Excalidraw/CSE225 2025-01-23 21.42.20.excalidraw.md",
     "Excalidraw/my-obsidian-library.excalidrawlib",
-    "Excalidraw/microsoft-fabric-architecture-icons.excalidrawlib",
-    "Excalidraw/software-architecture.excalidrawlib",
-    "Excalidraw/system-design.excalidrawlib",
-    "Excalidraw/architecture-diagram-components.excalidrawlib",
-    "Excalidraw/drwnio.excalidrawlib",
     "Excalidraw/CSE225 2025-01-23 20.51.58.excalidraw.md",
     "Excalidraw/Drawing 2025-01-23 19.28.45.excalidraw.md",
     "Excalidraw/Drawing 2025-01-23 19.22.04.excalidraw.md",
     "Excalidraw/Drawing 2025-01-23 19.22.01.excalidraw.md",
-    "North South/SEM-3/EEE141/EEE141.md",
     "Intro to Machine Learning.md",
     "Pasted image 20250116114546.png",
     "Pasted image 20250116114515.png",
@@ -270,9 +267,6 @@
     "Pasted image 20250114004443.png",
     "Adia.md",
     "North South/SEM-2/MAT130/Calculus and Analytic Geometry.md",
-    "North South/SEM-2/MAT125/Introduction to Linear Algebra.md",
-    "North South/SEM-2/ECO101/ECO101.md",
-    "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
     "Pasted image 20250104164909.png",
     "Pasted image 20250104164919.png",
     "Untitled 1.canvas",
