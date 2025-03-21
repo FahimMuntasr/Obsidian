@@ -4,19 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "2cfb2c9bd7873b25",
+        "id": "df493912c4421ae9",
         "type": "tabs",
         "children": [
           {
-            "id": "3e3e8473e23eb60a",
+            "id": "9fc6fae3858a6ebc",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/SEM-3/EEE141/Lectures/Lecture7.pdf"
+                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Lecture7"
+              "title": "DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1)"
+            }
+          },
+          {
+            "id": "300f643eaac7fa49",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DS-lec-15 BST_P2_MMA1"
+            }
+          },
+          {
+            "id": "3186403ecf927e56",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "DS-Lec-17-Huffman_Coding MMA1"
             }
           }
         ]
@@ -108,7 +132,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 456.5026054382324
   },
   "right": {
     "id": "cedfcefe3f824f43",
@@ -207,19 +231,31 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3e3e8473e23eb60a",
+  "active": "5440f253ae6670d2",
   "lastOpenFiles": [
-    "North South/SEM-3/EEE141/Lectures/Lecture8.pdf",
-    "North South/SEM-3/EEE141/Lectures/Lecture9.pdf",
-    "North South/SEM-3/EEE141/Lectures/Lecture1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-11-Stack_MMA1.pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture10.pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture11.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-lec-13-StackQueue_LinkedList_MMA1.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-12-Queue_MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-lec-10-UnsortedList_SortedList LinkedList_MMA1.pptx.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-11-Stack_MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-Lec-09-LinkList_MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-Lec-08-SortedList_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-07-UnsortedList_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-06-Array-Pointer-LinearSearch-BinarySearch_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-04-05-cplusplus_MMA1 (2).pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-03-Complexity of Algorithm_MMA1.pdf",
+    "Unit-4 Circular Motion.md",
+    "Unit-4 Momentum.md",
+    "Pasted image 20250311220537.png",
+    "Pasted image 20250311220514.png",
+    "Pasted image 20250311220506.png",
+    "Pasted image 20250311220438.png",
+    "Pasted image 20250311220429.png",
+    "Pasted image 20250311220345.png",
+    "Pasted image 20250311220334.png",
+    "Pasted image 20250311220327.png",
+    "Pasted image 20250311220313.png",
+    "Pasted image 20250311220305.png",
     "North South/SEM-3/EEE141/EEE141.md",
     "North South/SEM-3/CSE225/CSE225.md",
     "North South/SEM-2/CSE173/Discrete Mathematics.md",
@@ -243,18 +279,6 @@
     "Excalidraw/CSE225 2025-01-23 20.51.58.excalidraw.md",
     "Excalidraw/Drawing 2025-01-23 19.28.45.excalidraw.md",
     "Excalidraw/Drawing 2025-01-23 19.22.04.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-23 19.22.01.excalidraw.md",
-    "Intro to Machine Learning.md",
-    "Pasted image 20250116114546.png",
-    "Pasted image 20250116114515.png",
-    "Pasted image 20250116114436.png",
-    "Pasted image 20250116114312.png",
-    "Pasted image 20250116114201.png",
-    "Pasted image 20250116114120.png",
-    "Pasted image 20250114004533.png",
-    "Pasted image 20250114004443.png",
-    "Pasted image 20250104164909.png",
-    "Pasted image 20250104164919.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
