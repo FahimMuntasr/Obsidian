@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df493912c4421ae9",
+        "id": "300ae4623b4a446c",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc6fae3858a6ebc",
+            "id": "41b499d3bcd46839",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1)"
-            }
-          },
-          {
-            "id": "300f643eaac7fa49",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DS-lec-15 BST_P2_MMA1"
-            }
-          },
-          {
-            "id": "3186403ecf927e56",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DS-Lec-17-Huffman_Coding MMA1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -132,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 456.5026054382324
+    "width": 353.5026054382324
   },
   "right": {
     "id": "cedfcefe3f824f43",
@@ -231,19 +205,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5440f253ae6670d2",
+  "active": "41b499d3bcd46839",
   "lastOpenFiles": [
-    "North South/SEM-3/EEE141/Lectures/Lecture10.pdf",
-    "North South/SEM-3/EEE141/Lectures/Lecture11.pdf",
+    "North South/SEM-2/CSE215/215.md",
+    "Arch Maintenance.md",
+    "North South/SEM-2/CSE173/Discrete Mathematics.pdf",
+    "North South/SEM-2/CSE173/Assignments/CSE173_Assignment_1.pdf",
+    "North South/SEM-3/CSE225/CSE225.pdf",
+    "README.md",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-16-Heap-Priority Queue MMA1_Mod.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-21-Hashing MMA1.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-19-BFS-DFS MMA1.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-20-SortingAndSearching MMA1.pdf",
+    "North South/SEM-3/CSE225/Lectures/DS-Lec-18-Graph MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-13-StackQueue_LinkedList_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-12-Queue_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-10-UnsortedList_SortedList LinkedList_MMA1.pptx.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-11-Stack_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-09-LinkList_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-08-SortedList_MMA1.pdf",
+    "North South/SEM-3/EEE141/EEE141.md",
     "Unit-4 Circular Motion.md",
     "Unit-4 Momentum.md",
     "Pasted image 20250311220537.png",
@@ -256,10 +233,8 @@
     "Pasted image 20250311220327.png",
     "Pasted image 20250311220313.png",
     "Pasted image 20250311220305.png",
-    "North South/SEM-3/EEE141/EEE141.md",
     "North South/SEM-3/CSE225/CSE225.md",
     "North South/SEM-2/CSE173/Discrete Mathematics.md",
-    "North South/SEM-2/CSE215/215.md",
     "Excalidraw/EEE141 2025-02-01 00.29.22.excalidraw.md",
     "Excalidraw/EEE141 2025-01-31 01.52.04.excalidraw.md",
     "Excalidraw/EEE141 2025-01-30 22.02.44.excalidraw.md",
@@ -277,8 +252,6 @@
     "Excalidraw/CSE225 2025-01-23 22.43.50.excalidraw.md",
     "Excalidraw/CSE225 2025-01-23 21.42.20.excalidraw.md",
     "Excalidraw/CSE225 2025-01-23 20.51.58.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-23 19.28.45.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-23 19.22.04.excalidraw.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
