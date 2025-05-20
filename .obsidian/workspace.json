@@ -4,43 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "df493912c4421ae9",
+        "id": "b278c796dcf78d96",
         "type": "tabs",
         "children": [
           {
-            "id": "9fc6fae3858a6ebc",
+            "id": "bf8c3b9a9d932c54",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1)"
-            }
-          },
-          {
-            "id": "300f643eaac7fa49",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DS-lec-15 BST_P2_MMA1"
-            }
-          },
-          {
-            "id": "3186403ecf927e56",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "DS-Lec-17-Huffman_Coding MMA1"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -206,8 +180,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ],
@@ -231,13 +205,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5440f253ae6670d2",
+  "active": "bf8c3b9a9d932c54",
   "lastOpenFiles": [
-    "North South/SEM-3/EEE141/Lectures/Lecture10.pdf",
-    "North South/SEM-3/EEE141/Lectures/Lecture11.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture10.pdf",
+    "North South/SEM-3/EEE141/Lectures/Lecture11.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-lec-13-StackQueue_LinkedList_MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-Lec-12-Queue_MMA1.pdf",
     "North South/SEM-3/CSE225/Lectures/DS-lec-10-UnsortedList_SortedList LinkedList_MMA1.pptx.pdf",
