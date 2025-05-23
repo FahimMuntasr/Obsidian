@@ -13,3 +13,18 @@ Linux is a [[Unix]] based operating system. At the core it is a [kernel](Kernel.
 | /home/`user-name` | Data owned the current user logged in                                 |
 | /proc             | Runtime process data                                                  |
 | /tmp              | Temporary data storage                                                |
+
+Types of files,
+when running the `ls -ld` command,
+the output starts with the file-type as a letter where
+- `-` is a regular file
+- `d` is a directory
+- `l` is a symbolic link
+- `p` is a named pipe
+- `c` is a character device file
+- `b` is a block device file
+- `s` is a unix socket
+
+Symlinks
+- Special type of file that points to the location of another file
+- Created with `ln -s` 
