@@ -1,46 +1,70 @@
 {
   "main": {
-    "id": "bed0e8949b941221",
+    "id": "701c67fb5a5c1636",
     "type": "split",
     "children": [
       {
-<<<<<<< HEAD
-        "id": "b278c796dcf78d96",
+        "id": "d49c6e83b0f52170",
         "type": "tabs",
         "children": [
           {
-            "id": "bf8c3b9a9d932c54",
-=======
-        "id": "300ae4623b4a446c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "41b499d3bcd46839",
->>>>>>> 5cca17e503b9c009be73c8119e42f7e7f6ecc234
+            "id": "3d70295a68e0d423",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Linux/Shell.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Shell"
+            }
+          },
+          {
+            "id": "8bff1e547b75ed96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Linux/Bash.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bash"
+            }
+          },
+          {
+            "id": "b8cad4b3a449109d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Linux/Kernel.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kernel"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "df7d3314ce8602b2",
+    "id": "66de8fc78fbe6043",
     "type": "split",
     "children": [
       {
-        "id": "3a016246b5a99509",
+        "id": "2f013acbfdbfca08",
         "type": "tabs",
-        "dimension": 70.79326923076923,
         "children": [
           {
-            "id": "5440f253ae6670d2",
+            "id": "56a9471ffd40e18b",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -53,7 +77,7 @@
             }
           },
           {
-            "id": "ffdc373763c61072",
+            "id": "d76dc03817900f80",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -70,7 +94,7 @@
             }
           },
           {
-            "id": "c6d5fa09cd7ebb66",
+            "id": "996534564e9a6bdd",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -82,12 +106,11 @@
         ]
       },
       {
-        "id": "afa6b77bf16fe815",
+        "id": "226e863d9e9ccc39",
         "type": "tabs",
-        "dimension": 29.20673076923077,
         "children": [
           {
-            "id": "16439f88e92caa36",
+            "id": "ee53aaaad3537912",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -95,42 +118,28 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "6f58d741e9e0cd47",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To-Do.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "To-Do"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 353.5026054382324
+    "width": 300
   },
   "right": {
-    "id": "cedfcefe3f824f43",
+    "id": "3d3e4a1d441f257d",
     "type": "split",
     "children": [
       {
-        "id": "8d773f94344dd85c",
+        "id": "2e2a111484ea0cc4",
         "type": "tabs",
         "children": [
           {
-            "id": "4d2cbe1ba1ebdb8b",
+            "id": "2b0ca296ba2d6220",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+                "file": "Computer Science/Linux/Bash.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,64 +149,58 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for (M)Principles of Microeconomics"
+              "title": "Backlinks for Bash"
             }
           },
           {
-            "id": "9b6efc1ab28ecfd2",
+            "id": "21c721bc55a4a9f6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "North South/ECO101/Books/(M)Principles of Microeconomics.pdf",
+                "file": "Computer Science/Linux/Bash.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from (M)Principles of Microeconomics"
+              "title": "Outgoing links from Bash"
             }
           },
           {
-            "id": "0594c9891cbf28a9",
+            "id": "93c983467ea78899",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "8f0392d490f87ddf",
+            "id": "69d893a9dd6c0cd4",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "North South/SEM-3/EEE141/EEE141.md"
+                "file": "Computer Science/Linux/Bash.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of EEE141"
-            }
-          },
-          {
-            "id": "6f7f03873a187ff2",
-            "type": "leaf",
-            "state": {
-              "type": "mermaid-toolbar-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Outline of Bash"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -213,70 +216,24 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-<<<<<<< HEAD
-  "active": "bf8c3b9a9d932c54",
+  "active": "56a9471ffd40e18b",
   "lastOpenFiles": [
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-14 Tree-BinaryTree-BST_P1_MMA1 (1).pdf",
-    "North South/SEM-3/EEE141/Lectures/Lecture10.pdf",
-    "North South/SEM-3/EEE141/Lectures/Lecture11.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-13-StackQueue_LinkedList_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-12-Queue_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-10-UnsortedList_SortedList LinkedList_MMA1.pptx.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-11-Stack_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-09-LinkList_MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-08-SortedList_MMA1.pdf",
-=======
-  "active": "41b499d3bcd46839",
-  "lastOpenFiles": [
+    "Computer Science/Linux/Bash.md",
+    "Computer Science/Linux/Shell.md",
+    "Computer Science/Linux/Linux.md",
+    "Computer Science/Linux/Kernel.md",
+    "North South/SEM-2/ECO101/ECO101.md",
     "North South/SEM-2/CSE215/215.md",
-    "Arch Maintenance.md",
-    "North South/SEM-2/CSE173/Discrete Mathematics.pdf",
-    "North South/SEM-2/CSE173/Assignments/CSE173_Assignment_1.pdf",
-    "North South/SEM-3/CSE225/CSE225.pdf",
-    "README.md",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-16-Heap-Priority Queue MMA1_Mod.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-21-Hashing MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-19-BFS-DFS MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-20-SortingAndSearching MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-18-Graph MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-Lec-17-Huffman_Coding MMA1.pdf",
-    "North South/SEM-3/CSE225/Lectures/DS-lec-15 BST_P2_MMA1.pdf",
     "North South/SEM-3/EEE141/EEE141.md",
->>>>>>> 5cca17e503b9c009be73c8119e42f7e7f6ecc234
-    "Unit-4 Circular Motion.md",
-    "Unit-4 Momentum.md",
-    "Pasted image 20250311220537.png",
-    "Pasted image 20250311220514.png",
-    "Pasted image 20250311220506.png",
-    "Pasted image 20250311220438.png",
-    "Pasted image 20250311220429.png",
-    "Pasted image 20250311220345.png",
-    "Pasted image 20250311220334.png",
-    "Pasted image 20250311220327.png",
-    "Pasted image 20250311220313.png",
-    "Pasted image 20250311220305.png",
+    "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
     "North South/SEM-3/CSE225/CSE225.md",
-    "North South/SEM-2/CSE173/Discrete Mathematics.md",
-    "Excalidraw/EEE141 2025-02-01 00.29.22.excalidraw.md",
-    "Excalidraw/EEE141 2025-01-31 01.52.04.excalidraw.md",
-    "Excalidraw/EEE141 2025-01-30 22.02.44.excalidraw.md",
-    "Project.md",
-    "Excalidraw/CSE225 2025-01-26 22.04.38.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.40.36.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.46.38.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.47.26.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.44.39.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-26 00.22.03.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.53.19.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.33.43.excalidraw.md",
-    "Excalidraw/Drawing 2025-01-23 21.41.57.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-24 20.06.06.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-23 22.43.50.excalidraw.md",
+    "North South/SEM-2/MAT130/Calculus and Analytic Geometry.md",
     "Excalidraw/CSE225 2025-01-23 21.42.20.excalidraw.md",
-    "Excalidraw/CSE225 2025-01-23 20.51.58.excalidraw.md",
-    "Untitled 1.canvas",
-    "Untitled.canvas"
+    "Computer Science/Linux/Unix.md",
+    "Tutoring/Adia A2/IAL_Physics.pdf",
+    "Tutoring/Adia A2/Unit 1 Mock.md",
+    "().md",
+    "Computer Science/Linux",
+    "Arch Maintenance.md"
   ]
 }

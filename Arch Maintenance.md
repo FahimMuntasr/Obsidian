@@ -1,21 +1,4 @@
 
-## 🔧 Arch Linux Maintenance Guide (Video Summary)
-
-### **Introduction**
-
-- The speaker emphasizes the importance of regular system maintenance on Arch Linux, especially due to its **rolling release nature**.
-    
-- Their personal experience: no crashes or issues thanks to consistent maintenance.
-    
-- Resources:
-    
-    - ArchWiki: System Maintenance
-        
-    - ArchWiki: Pacman Tips and Tricks
-        
-
----
-
 ## 🛠️ Common Maintenance Tasks
 
 ### 1. **Check for Failed `systemd` Services**

@@ -1,7 +1,6 @@
 ---
 Syllabus: "[[ECO 101 syllabus.pdf]]"
-Relations:
-  - "[[Economics]]"
+Relations: []
 Books:
   - "[[(M)Principles of Microeconomics.pdf]]"
   - "[[(R)Economics.pdf]]"
@@ -80,11 +79,11 @@ Types of elasticity of Demand
 - Price Elasticity of Demand
 	$$PED = \frac{\%\triangle demand}{\%\triangle price}$$
 	$$PED=\frac{\frac{Q_2-Q_1}{\frac{Q_2+Q_1}{2}}}{\frac{P_2-P_1}{\frac{P_2+P_1}{2}}}$$
-	![[Pasted image 20241102025034.png]]
+	
 - Income Elasticity of Demand
-	$$YED = \frac{\%\triangle demand}{\%\triangle income}$$$$PED=\frac{\frac{Q_2-Q_1}{\frac{Q_2+Q_1}{2}}}{\frac{I_2-I_1}{\frac{I_2+I_1}{2}}}$$![[Pasted image 20241102025750.png]]
+	$$YED = \frac{\%\triangle demand}{\%\triangle income}$$$$PED=\frac{\frac{Q_2-Q_1}{\frac{Q_2+Q_1}{2}}}{\frac{I_2-I_1}{\frac{I_2+I_1}{2}}}$$
 - Cross Price Elasticity of Demand
-	$$XED_{A,B} = \frac{\%\triangle demand\;of\;A}{\%\triangle price\;of\;B}$$$$PED=\frac{\frac{Q_{A2}-Q_{A1}}{\frac{Q_{A2}+Q_{A1}}{2}}}{\frac{P_{B2}-P_{B1}}{\frac{P_{B2}+P_{B1}}{2}}}$$![[Pasted image 20241102030042.png]]
+	$$XED_{A,B} = \frac{\%\triangle demand\;of\;A}{\%\triangle price\;of\;B}$$$$PED=\frac{\frac{Q_{A2}-Q_{A1}}{\frac{Q_{A2}+Q_{A1}}{2}}}{\frac{P_{B2}-P_{B1}}{\frac{P_{B2}+P_{B1}}{2}}}$$
 - Price elasticity of Supply
 	$$PES=\frac{\%\triangle supply}{\%\triangle price}$$
 	$$PES=\frac{\frac{Q_2-Q_1}{\frac{Q_2+Q_1}{2}}}{\frac{P_2-P_1}{
