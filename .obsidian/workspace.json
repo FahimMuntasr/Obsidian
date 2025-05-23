@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Linux/Bash.md",
+                "file": "Computer Science/Linux/Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bash"
+              "title": "Linux"
             }
           },
           {
@@ -216,7 +216,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "56a9471ffd40e18b",
+  "active": "8bff1e547b75ed96",
   "lastOpenFiles": [
     "Computer Science/Linux/Bash.md",
     "Computer Science/Linux/Shell.md",
