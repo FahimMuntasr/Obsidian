@@ -28,3 +28,4 @@ the output starts with the file-type as a letter where
 Symlinks
 - Special type of file that points to the location of another file
 - Created with `ln -s` 
+
