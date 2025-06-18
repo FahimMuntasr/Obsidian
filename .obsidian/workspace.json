@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5d95dbeedd76fa20",
+        "id": "7659b72d64e93de3",
         "type": "tabs",
         "children": [
           {
-            "id": "9676f5c915a42ec5",
+            "id": "9fd41b20f6161df8",
             "type": "leaf",
             "state": {
               "type": "pdf",
@@ -17,6 +17,18 @@
               },
               "icon": "lucide-file-text",
               "title": "Lecture_1_2"
+            }
+          },
+          {
+            "id": "8e5b17a90bc0b7c0",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "North South/SEM-4/GEO205/Lecture_3_4.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Lecture_3_4"
             }
           }
         ]
@@ -31,6 +43,7 @@
       {
         "id": "2f013acbfdbfca08",
         "type": "tabs",
+        "dimension": 75.96153846153847,
         "children": [
           {
             "id": "56a9471ffd40e18b",
@@ -77,6 +90,7 @@
       {
         "id": "226e863d9e9ccc39",
         "type": "tabs",
+        "dimension": 24.038461538461537,
         "children": [
           {
             "id": "ee53aaaad3537912",
@@ -196,20 +210,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9676f5c915a42ec5",
+  "active": "9fd41b20f6161df8",
   "lastOpenFiles": [
-    "North South/SEM-4/GEO205/Lecture_1_2.pdf",
     "North South/SEM-4/GEO205/Lecture_3_4.pdf",
-    "North South/SEM-4/GEO205/Lecture_5.pdf",
-    "North South/SEM-4/GEO205/Lectures PPT - 1 - 2.pdf",
-    "North South/SEM-4/GEO205/Lecture_1-2.pdf",
-    "North South/SEM-4/GEO205/Lecture PPT - 5.pdf",
-    "North South/SEM-4/GEO205/Lecture 03_04_Elements of Globe Map Scale Time zone and GIS RS.pdf",
-    "North South/SEM-4/PHY107/PHY107_Notes.md",
+    "North South/SEM-4/GEO205/Lecture_1_2.pdf",
+    "North South/SEM-4/CSE231/Digital_Design.pdf",
+    "North South/SEM-4/PHY107/Practice_Questions/L5_Prac_2.pdf",
+    "North South/SEM-4/PHY107/Practice_Questions/L4_Prac.pdf",
     "North South/SEM-4/PHY107/Lectures/Lecture_5.pdf",
     "North South/SEM-4/PHY107/Lectures/Lecture_4.pdf",
     "North South/SEM-4/PHY107/Lectures/Lecture_3.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_2.pdf",
+    "North South/SEM-4/PHY107/Practice_Questions/L5_Prac.pdf",
+    "North South/SEM-4/PHY107/Practice_Questions/L3_Prac.pdf",
+    "North South/SEM-4/PHY107/Practice_Questions/L2_Prac_2.pdf",
+    "North South/SEM-2/CSE173/Discrete Mathematics.md",
+    "North South/SEM-4/PHY107/PHY107_Notes.md",
     "North South/SEM-4/HIS103/HIS103_Notes.md",
     "Computer Science/Linux/Shell.md",
     "Computer Science/Linux/Linux.md",
