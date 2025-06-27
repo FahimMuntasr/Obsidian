@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7659b72d64e93de3",
+        "id": "d28b61416699f302",
         "type": "tabs",
         "children": [
           {
-            "id": "9fd41b20f6161df8",
+            "id": "b778f81f84cef224",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-4/GEO205/Lecture_1_2.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture_1_2"
-            }
-          },
-          {
-            "id": "8e5b17a90bc0b7c0",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-4/GEO205/Lecture_3_4.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Lecture_3_4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -106,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d3e4a1d441f257d",
@@ -210,19 +197,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9fd41b20f6161df8",
+  "active": "b778f81f84cef224",
   "lastOpenFiles": [
+    "North South/SEM-4/GEO205/Lecture_7.pdf",
+    "North South/SEM-4/GEO205/Lecture_6.pdf",
+    "North South/SEM-4/GEO205/Lecture_5.pdf",
     "North South/SEM-4/GEO205/Lecture_3_4.pdf",
-    "North South/SEM-4/GEO205/Lecture_1_2.pdf",
+    "North South/SEM-2/CSE215/215_Book.pdf",
+    "North South/SEM-2/CSE215/215.md",
     "North South/SEM-4/CSE231/Digital_Design.pdf",
+    "North South/SEM-4/GEO205/Lecture_1_2.pdf",
     "North South/SEM-4/PHY107/Practice_Questions/L5_Prac_2.pdf",
     "North South/SEM-4/PHY107/Practice_Questions/L4_Prac.pdf",
     "North South/SEM-4/PHY107/Lectures/Lecture_5.pdf",
     "North South/SEM-4/PHY107/Lectures/Lecture_4.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_3.pdf",
-    "North South/SEM-4/PHY107/Practice_Questions/L5_Prac.pdf",
-    "North South/SEM-4/PHY107/Practice_Questions/L3_Prac.pdf",
-    "North South/SEM-4/PHY107/Practice_Questions/L2_Prac_2.pdf",
     "North South/SEM-2/CSE173/Discrete Mathematics.md",
     "North South/SEM-4/PHY107/PHY107_Notes.md",
     "North South/SEM-4/HIS103/HIS103_Notes.md",
@@ -231,7 +219,6 @@
     "Computer Science/Linux/Bash.md",
     "Computer Science/Linux/Kernel.md",
     "North South/SEM-2/ECO101/ECO101.md",
-    "North South/SEM-2/CSE215/215.md",
     "North South/SEM-3/EEE141/EEE141.md",
     "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
     "North South/SEM-3/CSE225/CSE225.md",
