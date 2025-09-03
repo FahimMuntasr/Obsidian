@@ -4,47 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "5e8e4d3030d313d0",
+        "id": "6598707e8ab93d07",
         "type": "tabs",
         "children": [
           {
-            "id": "fe9fb803a089d121",
+            "id": "421fd34b879065aa",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "excalidraw",
               "state": {
-                "file": "North South/SEM-4/PHY107/Lectures/Lecture_13.pdf"
+                "file": "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md"
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture_13"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-08-31 16.41.50.excalidraw"
             }
           },
           {
-            "id": "08aedcf1c1637f53",
+            "id": "50c805ba928f7d82",
             "type": "leaf",
             "state": {
               "type": "pdf",
               "state": {
-                "file": "North South/SEM-4/PHY107/Fundamentals_of_Physics.pdf"
+                "file": "North South/SEM-4/GEO205/Lecture_17_18.pdf"
               },
               "icon": "lucide-file-text",
-              "title": "Fundamentals_of_Physics"
-            }
-          },
-          {
-            "id": "1a0a081c63e6a48c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "North South/SEM-4/PHY107/Practice_Questions/L13_Prac.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "L13_Prac"
+              "title": "Lecture_17_18"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,26 +209,45 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "08aedcf1c1637f53",
+  "active": "421fd34b879065aa",
   "lastOpenFiles": [
-    "North South/SEM-4/PHY107/Lectures/Lecture_13.pdf",
-    "North South/SEM-4/PHY107/Fundamentals_of_Physics.pdf",
-    "North South/SEM-4/PHY107/PHY107_Outline.pdf",
-    "North South/SEM-4/PHY107/PHY107_Notes.md",
-    "North South/SEM-4/PHY107/Practice_Questions/L13_Prac.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_22.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_21.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_20.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_19.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_18.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_17.pdf",
-    "North South/SEM-4/PHY107/Lectures/Lecture_16.pdf",
-    "Arch Maintenance.md",
-    "North South/SEM-4/HIS103/HIS103_Notes.md",
+    "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
+    "North South/SEM-4/GEO205/Lecture_17_18.pdf",
+    "North South/SEM-4/GEO205/Lecture_16.pdf",
+    "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
+    "North South/SEM-4/GEO205/Lecture_15.pdf",
+    "Pasted Image 20250901023732_344.png",
+    "North South/SEM-4/GEO205/Lecture_1_2.pdf",
+    "Drawing 2025-08-31 01.42.25.excalidraw.md",
     "Untitled.md",
+    "Pasted Image 20250827215457_401.png",
+    "Pasted Image 20250827215637_110.png",
+    "North South/SEM-4/GEO205/Lecture_14.pdf",
+    "North South/SEM-4/HIS103/HIS103_Notes.md",
+    "Projects/Fume extractor",
+    "North South/SEM-4/HIS103/Drawing 2025-08-29 10.38.21.excalidraw.md",
+    "North South/SEM-4/HIS103/Final Exam Question Bank & Answer Spring 2024-1.pdf",
+    "Pasted Image 20250830002757_319.png",
+    "Projects/8bit_computer/Drawing 2025-08-29 21.42.41.excalidraw.md",
+    "Projects/8bit_computer",
+    "Projects",
+    "Excalidraw/Drawing 2025-08-27 21.29.33.excalidraw.md",
+    "Pasted Image 20250827225016_449.png",
+    "Pasted Image 20250827224026_983.png",
+    "Pasted Image 20250827221605_450.png",
+    "North South/SEM-4/CSE231/CSE231_Notes.md",
+    "North South/SEM-4/CSE231/Digital_Design.pdf",
+    "Pasted Image 20250829013406_500.png",
+    "Pasted Image 20250829013342_164.png",
+    "North South/SEM-4/CSE231/Drawing 2025-08-28 22.20.56.excalidraw.md",
+    "North South/SEM-4/PHY107/Lectures/PHY107_QUESTIONS.excalidraw.md",
+    "Pasted Image 20250828023547_525.png",
+    "Arch Maintenance.md",
+    "North South/SEM-4/PHY107/Practice_Questions/Drawing 2025-08-27 21.25.53.excalidraw.md",
+    "North South/SEM-4/PHY107/PHY107_Notes.md",
     "North South/SEM-4/CSE231/Hardware cost analysis.md",
     "North South/NSUPS/Week-1/Template.md",
     "North South/SEM-2/CSE215/215.md",
@@ -252,12 +258,6 @@
     "Computer Science/Linux/Kernel.md",
     "North South/SEM-2/ECO101/ECO101.md",
     "North South/SEM-3/EEE141/EEE141.md",
-    "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
-    "North South/SEM-3/CSE225/CSE225.md",
-    "North South/SEM-2/MAT130/Calculus and Analytic Geometry.md",
-    "Excalidraw/CSE225 2025-01-23 21.42.20.excalidraw.md",
-    "Computer Science/Linux/Unix.md",
-    "Tutoring/Adia A2/Unit 1 Mock.md",
-    "().md"
+    "North South/SEM-2/ECO101/Introduction to Microeconomics.md"
   ]
 }

@@ -1,5 +1,5 @@
 `Fahim Muntasir`
-
+[[Drawing 2025-08-29 10.38.21.excalidraw]]
 
 
 # 📘 Session 2 – Trader to Ruler (1600–1757)
