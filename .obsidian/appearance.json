@@ -4,5 +4,6 @@
     "snip"
   ],
   "baseFontSize": 16,
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "cssTheme": "Catppuccin"
 }

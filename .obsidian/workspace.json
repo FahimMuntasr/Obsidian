@@ -23,15 +23,18 @@
             "id": "50c805ba928f7d82",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "North South/SEM-4/GEO205/Lecture_17_18.pdf"
+                "file": "Arch Maintenance.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Lecture_17_18"
+              "icon": "lucide-file",
+              "title": "Arch Maintenance"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d3e4a1d441f257d",
@@ -186,8 +188,8 @@
             "state": {
               "type": "mermaid-toolbar-view",
               "state": {},
-              "icon": "trident-custom",
-              "title": "Mermaid Toolbar"
+              "icon": "lucide-ghost",
+              "title": "mermaid-toolbar-view"
             }
           }
         ],
@@ -212,12 +214,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "421fd34b879065aa",
+  "active": "50c805ba928f7d82",
   "lastOpenFiles": [
-    "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
     "North South/SEM-4/GEO205/Lecture_17_18.pdf",
-    "North South/SEM-4/GEO205/Lecture_16.pdf",
     "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
+    "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
+    "North South/SEM-4/GEO205/Lecture_16.pdf",
     "North South/SEM-4/GEO205/Lecture_15.pdf",
     "Pasted Image 20250901023732_344.png",
     "North South/SEM-4/GEO205/Lecture_1_2.pdf",
