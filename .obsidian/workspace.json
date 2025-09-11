@@ -4,37 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "6598707e8ab93d07",
+        "id": "4f0305c2ca0e84de",
         "type": "tabs",
         "children": [
           {
-            "id": "421fd34b879065aa",
+            "id": "d434a7939221710b",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md"
+                "file": "Drawing 2025-09-11 15.46.14.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2025-08-31 16.41.50.excalidraw"
+              "title": "Drawing 2025-09-11 15.46.14.excalidraw"
             }
           },
           {
-            "id": "50c805ba928f7d82",
+            "id": "857762b9f4140c7b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Arch Maintenance.md",
-                "mode": "source",
-                "source": false
+                "file": "Drawing 2025-09-11 15.46.14.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Arch Maintenance"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-11 15.46.14.excalidraw"
+            }
+          },
+          {
+            "id": "36fb1b316fdf3793",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Image 20250911174335_884.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted Image 20250911174335_884"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,10 +223,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "50c805ba928f7d82",
+  "active": "d434a7939221710b",
   "lastOpenFiles": [
-    "North South/SEM-4/GEO205/Lecture_17_18.pdf",
+    "Pasted Image 20250911174335_884.png",
+    "Drawing 2025-09-11 15.46.14.excalidraw.md",
+    "Arch Maintenance.md",
+    "Untitled.base",
     "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
+    "North South/SEM-4/GEO205/Lecture_17_18.pdf",
     "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
     "North South/SEM-4/GEO205/Lecture_16.pdf",
     "North South/SEM-4/GEO205/Lecture_15.pdf",
@@ -241,13 +254,10 @@
     "Pasted Image 20250827224026_983.png",
     "Pasted Image 20250827221605_450.png",
     "North South/SEM-4/CSE231/CSE231_Notes.md",
-    "North South/SEM-4/CSE231/Digital_Design.pdf",
     "Pasted Image 20250829013406_500.png",
     "Pasted Image 20250829013342_164.png",
     "North South/SEM-4/CSE231/Drawing 2025-08-28 22.20.56.excalidraw.md",
     "North South/SEM-4/PHY107/Lectures/PHY107_QUESTIONS.excalidraw.md",
-    "Pasted Image 20250828023547_525.png",
-    "Arch Maintenance.md",
     "North South/SEM-4/PHY107/Practice_Questions/Drawing 2025-08-27 21.25.53.excalidraw.md",
     "North South/SEM-4/PHY107/PHY107_Notes.md",
     "North South/SEM-4/CSE231/Hardware cost analysis.md",
@@ -259,7 +269,6 @@
     "Computer Science/Linux/Bash.md",
     "Computer Science/Linux/Kernel.md",
     "North South/SEM-2/ECO101/ECO101.md",
-    "North South/SEM-3/EEE141/EEE141.md",
-    "North South/SEM-2/ECO101/Introduction to Microeconomics.md"
+    "North South/SEM-3/EEE141/EEE141.md"
   ]
 }

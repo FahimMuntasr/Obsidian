@@ -97,3 +97,5 @@
 - Remove unused config files with caution.
     
 - These typically contain user settings; backup if unsure.
+
+$\lambda$
