@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4f0305c2ca0e84de",
+        "id": "16e7ce89b1f26dbe",
         "type": "tabs",
         "children": [
           {
-            "id": "d434a7939221710b",
+            "id": "a335ec5f4f0a7387",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -17,30 +17,6 @@
               },
               "icon": "excalidraw-icon",
               "title": "Drawing 2025-09-11 15.46.14.excalidraw"
-            }
-          },
-          {
-            "id": "857762b9f4140c7b",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-09-11 15.46.14.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-11 15.46.14.excalidraw"
-            }
-          },
-          {
-            "id": "36fb1b316fdf3793",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Image 20250911174335_884.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted Image 20250911174335_884"
             }
           }
         ]
@@ -118,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3d3e4a1d441f257d",
@@ -223,13 +200,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d434a7939221710b",
+  "active": "a335ec5f4f0a7387",
   "lastOpenFiles": [
     "Pasted Image 20250911174335_884.png",
     "Drawing 2025-09-11 15.46.14.excalidraw.md",
-    "Arch Maintenance.md",
-    "Untitled.base",
     "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
+    "Untitled.base",
     "North South/SEM-4/GEO205/Lecture_17_18.pdf",
     "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
     "North South/SEM-4/GEO205/Lecture_16.pdf",
@@ -258,6 +234,7 @@
     "Pasted Image 20250829013342_164.png",
     "North South/SEM-4/CSE231/Drawing 2025-08-28 22.20.56.excalidraw.md",
     "North South/SEM-4/PHY107/Lectures/PHY107_QUESTIONS.excalidraw.md",
+    "Arch Maintenance.md",
     "North South/SEM-4/PHY107/Practice_Questions/Drawing 2025-08-27 21.25.53.excalidraw.md",
     "North South/SEM-4/PHY107/PHY107_Notes.md",
     "North South/SEM-4/CSE231/Hardware cost analysis.md",
