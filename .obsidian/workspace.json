@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "16e7ce89b1f26dbe",
+        "id": "bd78408d3cae1b33",
         "type": "tabs",
         "children": [
           {
-            "id": "a335ec5f4f0a7387",
+            "id": "05416500400ae32c",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Drawing 2025-09-11 15.46.14.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-11 15.46.14.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -94,8 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3d3e4a1d441f257d",
@@ -200,38 +197,42 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a335ec5f4f0a7387",
+  "active": "56a9471ffd40e18b",
   "lastOpenFiles": [
+    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_1.pdf",
+    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_2.pdf",
+    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_3.pdf",
+    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_4.pdf",
+    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_5.pdf",
+    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_6.pdf",
+    "North South/SEM-5/PHY107L/PRELABS",
+    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_1.pdf",
+    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_2.pdf",
+    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_3.pdf",
+    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_4.pdf",
+    "Excalidraw/Drawing 2025-09-12 03.27.05.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-12 02.59.12.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-11 15.46.14.excalidraw.md",
+    "Excalidraw/Drawing 2025-08-27 21.29.33.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-12 02.44.47.excalidraw.md",
+    "Pasted Image 20250912022656_359.png",
+    "Pasted Image 20250912022913_029.png",
+    "Pasted Image 20250912002643_433.png",
     "Pasted Image 20250911174335_884.png",
-    "Drawing 2025-09-11 15.46.14.excalidraw.md",
     "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
-    "Untitled.base",
-    "North South/SEM-4/GEO205/Lecture_17_18.pdf",
     "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
-    "North South/SEM-4/GEO205/Lecture_16.pdf",
-    "North South/SEM-4/GEO205/Lecture_15.pdf",
     "Pasted Image 20250901023732_344.png",
-    "North South/SEM-4/GEO205/Lecture_1_2.pdf",
     "Drawing 2025-08-31 01.42.25.excalidraw.md",
     "Untitled.md",
     "Pasted Image 20250827215457_401.png",
     "Pasted Image 20250827215637_110.png",
-    "North South/SEM-4/GEO205/Lecture_14.pdf",
     "North South/SEM-4/HIS103/HIS103_Notes.md",
-    "Projects/Fume extractor",
     "North South/SEM-4/HIS103/Drawing 2025-08-29 10.38.21.excalidraw.md",
-    "North South/SEM-4/HIS103/Final Exam Question Bank & Answer Spring 2024-1.pdf",
     "Pasted Image 20250830002757_319.png",
     "Projects/8bit_computer/Drawing 2025-08-29 21.42.41.excalidraw.md",
-    "Projects/8bit_computer",
-    "Projects",
-    "Excalidraw/Drawing 2025-08-27 21.29.33.excalidraw.md",
     "Pasted Image 20250827225016_449.png",
     "Pasted Image 20250827224026_983.png",
-    "Pasted Image 20250827221605_450.png",
     "North South/SEM-4/CSE231/CSE231_Notes.md",
-    "Pasted Image 20250829013406_500.png",
-    "Pasted Image 20250829013342_164.png",
     "North South/SEM-4/CSE231/Drawing 2025-08-28 22.20.56.excalidraw.md",
     "North South/SEM-4/PHY107/Lectures/PHY107_QUESTIONS.excalidraw.md",
     "Arch Maintenance.md",
@@ -243,9 +244,6 @@
     "North South/SEM-2/CSE173/Discrete Mathematics.md",
     "Computer Science/Linux/Shell.md",
     "Computer Science/Linux/Linux.md",
-    "Computer Science/Linux/Bash.md",
-    "Computer Science/Linux/Kernel.md",
-    "North South/SEM-2/ECO101/ECO101.md",
-    "North South/SEM-3/EEE141/EEE141.md"
+    "Computer Science/Linux/Bash.md"
   ]
 }

@@ -101596,6 +101596,6 @@
     "paperColor": "white",
     "customPaperColor": "#ffffff",
     "alignment": "center",
-    "margin": "tiny"
+    "margin": "none"
   }
 }
