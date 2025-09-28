@@ -1,5 +1,25 @@
+---
+tags:
+  - HIS103
+  - NSU
+Reference:
+  - "[[Session 1 - Introductory Session on Emergence of Bangladesh-1-1.pdf]]"
+  - "[[Session 2 - Trader to Ruler(1600-1757) new.pdf]]"
+  - "[[British Exploitation of Indian Resources.pdf]]"
+  - "[[Session 3 - British Exploitation of Indian Resources-1-1.pdf]]"
+  - "[[Session 4 - Colonial Drug Trafficking & (ts Consequences.pdf]]"
+  - "[[Session 5 - Oppresive British Policies and Resulting Orientation of the Muslims leading to the creation of Pakistan(1757-1911).pdf]]"
+  - "[[Session 6 Epoch of Transformation Unraveling Indias Journey to Independence (1911-1940).pdf]]"
+  - "[[Session 8 - Research Methodology & Briefing on Mini Research-1.pdf]]"
+  - "[[Cold War Diplomacy & Emergence of Bangladesh-2.pdf]]"
+  - "[[Timeline 1757 to 1947 for Canvas-1-1.pdf]]"
+  - "[[Final Exam Question Bank & Answer Spring 2024-1.pdf]]"
+  - "[[HIS103_NOTE]]"
+  - "[[Session 19 - Cold War Politics & the Role of Super Powers in Bangladesh Liberation Struggle.-1-1.pdf]]"
+---
+
 `Fahim Muntasir`
-[[Drawing 2025-08-29 10.38.21.excalidraw]]
+[[HIS103_NOTE]]
 
 
 # 📘 Session 2 – Trader to Ruler (1600–1757)

@@ -1,0 +1,24 @@
+---
+tags:
+  - PHY107
+  - PHY107L
+Relations:
+  - "[[LAB_MANUAL_1.pdf]]"
+  - "[[LAB_MANUAL_2.pdf]]"
+  - "[[LAB_MANUAL_3.pdf]]"
+  - "[[LAB_MANUAL_4.pdf]]"
+  - "[[LAB_MANUAL_5.pdf]]"
+  - "[[LAB_MANUAL_6.pdf]]"
+  - "[[LAB_PRE_1.pdf]]"
+  - "[[LAB_PRE_2.pdf]]"
+  - "[[LAB_PRE_3.pdf]]"
+  - "[[LAB_PRE_4.pdf]]"
+  - "[[LAB_PRE_5.pdf]]"
+  - "[[LAB_PRE_6.pdf]]"
+  - "[[LAB_REPORT_6.pdf]]"
+  - "[[LAB_REPORT_1.pdf]]"
+  - "[[LAB_REPORT_2.pdf]]"
+  - "[[LAB_REPORT_3.pdf]]"
+  - "[[LAB_REPORT_4.pdf]]"
+  - "[[LAB_REPORT_5.pdf]]"
+---

@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "bd78408d3cae1b33",
+        "id": "18555bfe5cd34b1a",
         "type": "tabs",
         "children": [
           {
-            "id": "05416500400ae32c",
+            "id": "420f88d12db859e0",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -29,7 +29,7 @@
       {
         "id": "2f013acbfdbfca08",
         "type": "tabs",
-        "dimension": 75.96153846153847,
+        "dimension": 74.34343434343434,
         "children": [
           {
             "id": "56a9471ffd40e18b",
@@ -74,12 +74,12 @@
         ]
       },
       {
-        "id": "226e863d9e9ccc39",
+        "id": "0a6d04320ebade93",
         "type": "tabs",
-        "dimension": 24.038461538461537,
+        "dimension": 25.656565656565654,
         "children": [
           {
-            "id": "ee53aaaad3537912",
+            "id": "f36caf840e8f21bc",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 279
   },
   "right": {
     "id": "3d3e4a1d441f257d",
@@ -197,53 +197,53 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "56a9471ffd40e18b",
+  "active": "420f88d12db859e0",
   "lastOpenFiles": [
-    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_1.pdf",
-    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_2.pdf",
-    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_3.pdf",
-    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_4.pdf",
-    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_5.pdf",
-    "North South/SEM-5/PHY107L/PRELABS/LAB_PRE_6.pdf",
-    "North South/SEM-5/PHY107L/PRELABS",
-    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_1.pdf",
-    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_2.pdf",
-    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_3.pdf",
-    "North South/SEM-5/PHY107L/REPORTS/LAB_REPORT_4.pdf",
+    "North South/SEM-2/CSE215/215.md",
+    "North South/SEM-4/HIS103/HIS103_Notes.md",
+    "North South/SEM-4/HIS103/HIS103_NOTE.md",
+    "North South/SEM-4/PHY107/PHY107_Notes.md",
+    "North South/SEM-2/MAT130/Calculus and Analytic Geometry.md",
+    "Research Papers/Research Papers.md",
+    "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
+    "Projects/8bit_computer/Drawing 2025-08-29 21.42.41.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-11 15.46.14.excalidraw.md",
     "Excalidraw/Drawing 2025-09-12 03.27.05.excalidraw.md",
     "Excalidraw/Drawing 2025-09-12 02.59.12.excalidraw.md",
-    "Excalidraw/Drawing 2025-09-11 15.46.14.excalidraw.md",
-    "Excalidraw/Drawing 2025-08-27 21.29.33.excalidraw.md",
     "Excalidraw/Drawing 2025-09-12 02.44.47.excalidraw.md",
+    "North South/SEM-5/PHY107L/PHY107L.md",
+    "North South/SEM-2/CSE173/Discrete Mathematics.md",
+    "North South/SEM-2/CSE173/Chapter-1 Questions.md",
+    "North South/SEM-4/GEO205/GEO205.md",
+    "North South/SEM-4/GEO205/GEO_205_NOTES.md",
+    "North South/SEM-4/CSE231/CSE231.md",
+    "North South/SEM-4/CSE231/Hardware cost analysis.md",
+    "North South/SEM-4/CSE231/Chapter 1.pdf",
+    "North South/SEM-4/CSE231/CSE231_Outline.pdf",
+    "North South/SEM-4/CSE231/CSE231_Notes.md",
+    "North South/SEM-3/EEE141/EEE141.md",
+    "North South/SEM-3/EEE141/Lectures/Lecture1.pdf",
+    "North South/SEM-3/EEE141/EEE141.pdf",
+    "North South/SEM-3/EEE141/EEE141_Book.pdf",
+    "North South/SEM-3/CSE225/CSE225.md",
+    "North South/SEM-3/CSE225/CSE225.pdf",
+    "North South/SEM-2/MAT130/Books/Calculus.pdf",
+    "North South/SEM-2/MAT125/Introduction to Linear Algebra.md",
+    "North South/SEM-2/MAT125/Introduction to Linear Algebra.pdf",
+    "North South/SEM-2/ECO101/ECO101.md",
+    "North South/SEM-2/ECO101/Books/(M)Principles of Microeconomics.pdf",
+    "North South/SEM-2/ECO101/Syllabus/ECO 101 syllabus.pdf",
+    "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
+    "Computer Science/Linux/Kernel.md",
+    "Pasted Image 20250901023732_344.png",
     "Pasted Image 20250912022656_359.png",
     "Pasted Image 20250912022913_029.png",
     "Pasted Image 20250912002643_433.png",
     "Pasted Image 20250911174335_884.png",
-    "Projects/Fume extractor/Drawing 2025-08-31 16.41.50.excalidraw.md",
-    "North South/SEM-4/GEO205/Drawing 2025-08-31 20.52.05.excalidraw.md",
-    "Pasted Image 20250901023732_344.png",
-    "Drawing 2025-08-31 01.42.25.excalidraw.md",
-    "Untitled.md",
     "Pasted Image 20250827215457_401.png",
     "Pasted Image 20250827215637_110.png",
-    "North South/SEM-4/HIS103/HIS103_Notes.md",
-    "North South/SEM-4/HIS103/Drawing 2025-08-29 10.38.21.excalidraw.md",
     "Pasted Image 20250830002757_319.png",
-    "Projects/8bit_computer/Drawing 2025-08-29 21.42.41.excalidraw.md",
     "Pasted Image 20250827225016_449.png",
-    "Pasted Image 20250827224026_983.png",
-    "North South/SEM-4/CSE231/CSE231_Notes.md",
-    "North South/SEM-4/CSE231/Drawing 2025-08-28 22.20.56.excalidraw.md",
-    "North South/SEM-4/PHY107/Lectures/PHY107_QUESTIONS.excalidraw.md",
-    "Arch Maintenance.md",
-    "North South/SEM-4/PHY107/Practice_Questions/Drawing 2025-08-27 21.25.53.excalidraw.md",
-    "North South/SEM-4/PHY107/PHY107_Notes.md",
-    "North South/SEM-4/CSE231/Hardware cost analysis.md",
-    "North South/NSUPS/Week-1/Template.md",
-    "North South/SEM-2/CSE215/215.md",
-    "North South/SEM-2/CSE173/Discrete Mathematics.md",
-    "Computer Science/Linux/Shell.md",
-    "Computer Science/Linux/Linux.md",
-    "Computer Science/Linux/Bash.md"
+    "Pasted Image 20250827224026_983.png"
   ]
 }

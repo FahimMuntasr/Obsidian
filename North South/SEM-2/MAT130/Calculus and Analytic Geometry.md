@@ -1,7 +1,10 @@
 ---
 Relations:
-  - "[[Discrete Mathematics]]"
-  - "[[Introduction to Linear Algebra]]"
+  - "[[Calculus and Analytic Geometry]]"
+  - "[[Calculus.pdf]]"
+tags:
+  - MAT130
+  - NSU
 ---
 ---
 $$\int du = u + C$$

@@ -1,11 +1,13 @@
 ---
 Relations:
-  - "[[Discrete Mathematics]]"
-  - "[[Calculus and Analytic Geometry]]"
 Books:
-  - "[[Elementary Linear Algebra with Applications.pdf]]"
   - "[[Elementary linear algebra with applications. Solutions.pdf]]"
+  - "[[Elementary Linear Algebra with Applications.pdf]]"
+  - "[[MAT125_content.pdf]]"
 Syllabus: "[[MAT125_content.pdf]]"
+tags:
+  - MAT125
+  - NSU
 ---
 
 ### Linear Systems
