@@ -1,0 +1,11 @@
+{
+	"id": "paper_importer",
+	"name": "Paper Importer",
+	"version": "1.4.0",
+	"minAppVersion": "1.7.6",
+	"description": "Import papers from arXiv with one click.",
+	"author": "Zhe Chen",
+	"authorUrl": "https://zchen.im",
+	"fundingUrl": "",
+	"isDesktopOnly": false
+}

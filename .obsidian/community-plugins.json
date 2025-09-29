@@ -1,4 +1,7 @@
 [
   "mermaid-tools",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "paper_importer",
+  "pdf-plus",
+  "surfing"
 ]

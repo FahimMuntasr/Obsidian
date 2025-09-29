@@ -4,17 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "18555bfe5cd34b1a",
+        "id": "eee93705bf8c0cf2",
         "type": "tabs",
+        "dimension": 43.61702127659575,
         "children": [
           {
-            "id": "420f88d12db859e0",
+            "id": "9f7c97328c7afb65",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Research/Drone Technology.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Drone Technology"
+            }
+          },
+          {
+            "id": "ed9f4fa38e1ab67a",
+            "type": "leaf",
+            "state": {
+              "type": "surfing-view",
+              "state": {
+                "url": "https://arxiv.org/abs/2509.21085"
+              },
+              "icon": "lucide-file",
+              "title": "[2509.21085] Flight Dynamics to Sensing Modalities: Exploiting Drone Ground Effect for Accurate Edge Detection"
+            }
+          },
+          {
+            "id": "5bb42e61e67598b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Notes/Flight Dynamics to Sensing Modalities Exploiting Drone Ground Effect for Accurate Edge Detection (2509.21085v1).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Flight Dynamics to Sensing Modalities Exploiting Drone Ground Effect for Accurate Edge Detection (2509.21085v1)"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "eb47c76a7901a557",
+        "type": "tabs",
+        "dimension": 56.38297872340425,
+        "children": [
+          {
+            "id": "34e040a076b1caaf",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Research/Papers/Flight Dynamics to Sensing Modalities Exploiting Drone Ground Effect for Accurate Edge Detection (2509.21085v1).pdf",
+                "page": 2,
+                "left": -27,
+                "top": 624,
+                "zoom": 1
+              },
+              "icon": "lucide-file-text",
+              "title": "Flight Dynamics to Sensing Modalities Exploiting Drone Ground Effect for Accurate Edge Detection (2509.21085v1)"
             }
           }
         ]
@@ -194,14 +249,28 @@
       "command-palette:Open command palette": false,
       "audio-recorder:Start/stop recording": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "420f88d12db859e0",
+  "active": "5bb42e61e67598b2",
   "lastOpenFiles": [
-    "North South/SEM-2/CSE215/215.md",
+    "Research/Papers/Flight Dynamics to Sensing Modalities Exploiting Drone Ground Effect for Accurate Edge Detection (2509.21085v1).pdf",
+    "Research/Notes/Flight Dynamics to Sensing Modalities Exploiting Drone Ground Effect for Accurate Edge Detection (2509.21085v1).md",
     "North South/SEM-4/HIS103/HIS103_Notes.md",
     "North South/SEM-4/HIS103/HIS103_NOTE.md",
+    "Research/Drone Technology.md",
+    "Research/Research Bank.md",
+    "North South/SEM-4/GEO205/GEO_205_NOTES.md",
+    "North South/SEM-4/PHY107/Lectures/PHY107_QUESTIONS.excalidraw.md",
+    "2025-09-29.md",
+    "Research/Notes",
+    "Research/Papers",
+    "Research",
+    "North South/SEM-4/CSE231/CSE231_Notes.md",
+    "North South/SEM-2/CSE215/215.md",
     "North South/SEM-4/PHY107/PHY107_Notes.md",
     "North South/SEM-2/MAT130/Calculus and Analytic Geometry.md",
     "Research Papers/Research Papers.md",
@@ -215,26 +284,14 @@
     "North South/SEM-2/CSE173/Discrete Mathematics.md",
     "North South/SEM-2/CSE173/Chapter-1 Questions.md",
     "North South/SEM-4/GEO205/GEO205.md",
-    "North South/SEM-4/GEO205/GEO_205_NOTES.md",
     "North South/SEM-4/CSE231/CSE231.md",
     "North South/SEM-4/CSE231/Hardware cost analysis.md",
     "North South/SEM-4/CSE231/Chapter 1.pdf",
     "North South/SEM-4/CSE231/CSE231_Outline.pdf",
-    "North South/SEM-4/CSE231/CSE231_Notes.md",
-    "North South/SEM-3/EEE141/EEE141.md",
     "North South/SEM-3/EEE141/Lectures/Lecture1.pdf",
     "North South/SEM-3/EEE141/EEE141.pdf",
     "North South/SEM-3/EEE141/EEE141_Book.pdf",
-    "North South/SEM-3/CSE225/CSE225.md",
     "North South/SEM-3/CSE225/CSE225.pdf",
-    "North South/SEM-2/MAT130/Books/Calculus.pdf",
-    "North South/SEM-2/MAT125/Introduction to Linear Algebra.md",
-    "North South/SEM-2/MAT125/Introduction to Linear Algebra.pdf",
-    "North South/SEM-2/ECO101/ECO101.md",
-    "North South/SEM-2/ECO101/Books/(M)Principles of Microeconomics.pdf",
-    "North South/SEM-2/ECO101/Syllabus/ECO 101 syllabus.pdf",
-    "North South/SEM-2/ECO101/Introduction to Microeconomics.md",
-    "Computer Science/Linux/Kernel.md",
     "Pasted Image 20250901023732_344.png",
     "Pasted Image 20250912022656_359.png",
     "Pasted Image 20250912022913_029.png",
