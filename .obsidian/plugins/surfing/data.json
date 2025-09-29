@@ -46,7 +46,28 @@
     ],
     "defaultFilterType": "tree"
   },
-  "treeData": [],
+  "treeData": [
+    {
+      "id": "ed9f4fa38e1ab67a",
+      "parent": 0,
+      "droppable": true,
+      "data": {
+        "fileType": "site",
+        "fileSize": ""
+      }
+    },
+    {
+      "id": "9f603efb50683a22",
+      "parent": 0,
+      "droppable": true,
+      "text": "https://www.google.com/search?q=non%20relativistic&sei=enzaaJydLuSe4-EP78T8IA",
+      "data": {
+        "fileType": "site",
+        "fileSize": "",
+        "icon": {}
+      }
+    }
+  ],
   "enableHtmlPreview": true,
   "supportLivePreviewInlineUrl": false,
   "enableTreeView": true,
