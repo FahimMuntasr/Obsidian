@@ -1,7 +1,7 @@
 ---
 tags:
-  - CSE173
   - NSU
+  - CSE
 Relations:
   - "[[CSE173_Assignment_1.pdf]]"
   - "[[Kenneth Rosen - Discrete Mathematics and Its Applications.pdf]]"

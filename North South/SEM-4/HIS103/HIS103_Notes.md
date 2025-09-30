@@ -1,7 +1,7 @@
 ---
 tags:
-  - HIS103
   - NSU
+  - GED
 Reference:
   - "[[Session 1 - Introductory Session on Emergence of Bangladesh-1-1.pdf]]"
   - "[[Session 2 - Trader to Ruler(1600-1757) new.pdf]]"

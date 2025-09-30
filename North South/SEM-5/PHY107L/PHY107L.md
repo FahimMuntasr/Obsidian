@@ -1,7 +1,7 @@
 ---
 tags:
-  - PHY107
-  - PHY107L
+  - NSU
+  - PHY
 Relations:
   - "[[LAB_MANUAL_1.pdf]]"
   - "[[LAB_MANUAL_2.pdf]]"

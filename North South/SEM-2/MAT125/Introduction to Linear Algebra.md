@@ -6,8 +6,8 @@ Books:
   - "[[MAT125_content.pdf]]"
 Syllabus: "[[MAT125_content.pdf]]"
 tags:
-  - MAT125
   - NSU
+  - MAT
 ---
 
 ### Linear Systems

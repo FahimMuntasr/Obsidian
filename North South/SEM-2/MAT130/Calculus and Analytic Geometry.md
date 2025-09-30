@@ -3,8 +3,8 @@ Relations:
   - "[[Calculus and Analytic Geometry]]"
   - "[[Calculus.pdf]]"
 tags:
-  - MAT130
   - NSU
+  - MAT
 ---
 ---
 $$\int du = u + C$$

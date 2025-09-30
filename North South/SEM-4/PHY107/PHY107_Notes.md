@@ -1,7 +1,7 @@
 ---
 tags:
-  - PHY107
   - NSU
+  - PHY
 Relations:
   - "[[Lecture_2.pdf]]"
   - "[[Lecture_3.pdf]]"
@@ -23,7 +23,6 @@ Relations:
   - "[[Lecture_20.pdf]]"
   - "[[Lecture_21.pdf]]"
   - "[[Lecture_22.pdf]]"
-  - "[[PHY107_QUESTIONS.excalidraw]]"
   - "[[L2_Prac.pdf]]"
   - "[[L2_Prac_2.pdf]]"
   - "[[L3_Prac.pdf]]"
